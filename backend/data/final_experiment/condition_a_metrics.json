@@ -1,0 +1,93 @@
+{
+  "generated_at": "2026-10-15T07:00:41.020601+00:00",
+  "source": "C:\\Users\\vishn\\OneDrive\\Desktop\\finance-mini\\backend\\data\\condition_a_ollama_qwen25_3b_results.json",
+  "dataset": "C:\\Users\\vishn\\OneDrive\\Desktop\\finance-mini\\backend\\data\\finfact_research_sample.json",
+  "evaluation_labels_source": "C:\\Users\\vishn\\OneDrive\\Desktop\\finance-mini\\backend\\data\\finfact_research_evaluation.json",
+  "provider": "ollama",
+  "model": "qwen2.5:3b",
+  "condition": "A",
+  "sample_size": 300,
+  "claim_ids_match_sample_in_order": true,
+  "metrics": {
+    "evaluated_claims": 300,
+    "accuracy": 0.19,
+    "macro_precision": 0.3116,
+    "macro_recall": 0.3409,
+    "macro_f1": 0.1186,
+    "per_class": {
+      "SUPPORTED": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "REFUTED": {
+        "precision": 0.75,
+        "recall": 0.0226,
+        "f1": 0.0438
+      },
+      "UNVERIFIABLE": {
+        "precision": 0.1849,
+        "recall": 1.0,
+        "f1": 0.3121
+      }
+    },
+    "confusion_matrix": {
+      "SUPPORTED": {
+        "SUPPORTED": 0,
+        "REFUTED": 1,
+        "UNVERIFIABLE": 112
+      },
+      "REFUTED": {
+        "SUPPORTED": 4,
+        "REFUTED": 3,
+        "UNVERIFIABLE": 126
+      },
+      "UNVERIFIABLE": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 54
+      }
+    },
+    "predicted_class_counts": {
+      "SUPPORTED": 4,
+      "REFUTED": 4,
+      "UNVERIFIABLE": 292
+    }
+  },
+  "other_condition_integrity": {
+    "B1": {
+      "result_file_exists": true,
+      "rows": 300,
+      "status_counts": {
+        "success": 300,
+        "error": 0,
+        "not_applicable": 0
+      },
+      "successful_rows_with_nonempty_evidence": 0
+    },
+    "B2": {
+      "result_file_exists": true,
+      "rows": 300,
+      "status_counts": {
+        "success": 269,
+        "error": 31,
+        "not_applicable": 0
+      },
+      "successful_rows_with_nonempty_evidence": 0
+    },
+    "B3": {
+      "result_file_exists": false,
+      "valid_evidence_predictions": 0
+    }
+  },
+  "source_sha256": {
+    "condition_a_results": "6a6dd6daa0fe06320fcb80073da0a35da9276143b5bcb6d65ff3d28fc0ecfe8c",
+    "sample": "1ccb1356ddd7ed86fc990b174bd883ac31cd3116e1f4cd9c60cb52f9276be6ad",
+    "evaluation": "0a7dca7e7f178c5187bf42858818eb3183d36dcdb9d83545a79b18721e3bf62f"
+  },
+  "graphs": [
+    "condition_a_overview.svg",
+    "condition_a_per_class_metrics.svg",
+    "condition_a_confusion_matrix.svg"
+  ]
+}

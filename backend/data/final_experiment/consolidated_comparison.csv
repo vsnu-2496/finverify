@@ -1,0 +1,5 @@
+Condition,Sources,Total Sample,Evaluated Grounded,Not Applicable,Errors,Pred SUPPORTED,Pred REFUTED,Pred UNVERIFIABLE,Accuracy,Macro Precision,Macro Recall,Macro F1
+A,None (Internal Knowledge),300,300,0,0,4,4,292,0.1900,0.3116,0.3409,0.1186
+B1,SEC,300,5,295,0,0,0,5,0.4000,0.1333,0.3333,0.1905
+B2,Alpha Vantage,300,0,300,0,0,0,0,N/A,N/A,N/A,N/A
+B3,"SEC, Alpha Vantage",300,5,295,0,0,0,5,0.4000,0.1333,0.3333,0.1905

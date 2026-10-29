@@ -1,0 +1,7 @@
+{
+  "total_claims": 300,
+  "successful_predictions": 14,
+  "remaining_claims": 286,
+  "requests_this_run": 3,
+  "status": "quota_exhausted"
+}

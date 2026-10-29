@@ -1,0 +1,1202 @@
+[
+  {
+    "claim_id": "finfact_000020",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000032",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000035",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_000087",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000107",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000121",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_000141",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000148",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000155",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000156",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_000167",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000173",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000191",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000195",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000198",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_000212",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000217",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_000223",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000235",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000241",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000255",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000261",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_000266",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000276",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000297",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000313",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000321",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000331",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000338",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000346",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000348",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000356",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_000373",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000380",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_000388",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000396",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000409",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000429",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000436",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000449",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000453",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000456",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000459",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000462",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000464",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000475",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000486",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000489",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000493",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_000496",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_000505",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_000512",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000514",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000518",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000519",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000533",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000541",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_000545",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000563",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000572",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000576",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000592",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000593",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000596",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_000604",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_000621",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000641",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000660",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_000665",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000672",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000678",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000680",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000688",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000698",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000704",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000709",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000723",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000734",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000748",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000749",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000759",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000760",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000780",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000786",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000801",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_000818",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000840",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_000842",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_000860",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000861",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000882",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000894",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000915",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000919",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000929",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_000941",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000979",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000982",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000988",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_000994",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_000995",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_000996",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001006",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001008",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001010",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_001013",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001022",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001034",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_001040",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001047",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_001049",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_001055",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001070",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001080",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_001123",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001133",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001141",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_001211",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001219",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001220",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001230",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001232",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001235",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_001256",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001272",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001274",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_001287",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001327",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001337",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_001348",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001392",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_001440",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001442",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001445",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_001473",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001489",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_001501",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_001516",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_001519",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001535",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001546",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_001554",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001556",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_001578",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_001596",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_001599",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_001620",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001637",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001647",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001648",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_001651",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001659",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_001673",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001687",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_001697",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_001699",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_001704",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001721",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_001739",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001745",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001747",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001759",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_001767",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_001773",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001788",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_001811",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_001830",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001844",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_001850",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001860",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001877",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_001890",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_001900",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_001902",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_001931",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001936",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001937",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001952",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_001961",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_001967",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_001968",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_001969",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_002017",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_002050",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002061",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002062",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002081",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002104",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002108",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002109",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_002113",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002119",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_002125",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002131",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002135",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002161",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002165",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002198",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002209",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002242",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002264",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002278",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002293",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002296",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002298",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002313",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_002319",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002321",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002342",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002348",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002418",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002432",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002438",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002446",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_002453",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002456",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002458",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002464",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_002475",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002488",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002507",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002510",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002539",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002552",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002558",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002574",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002579",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_002581",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002583",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002601",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_002602",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_002610",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002630",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002658",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002660",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002662",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_002666",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002685",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002688",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002718",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002737",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002750",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002769",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002775",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002781",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002784",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002824",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002835",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002848",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002851",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_002856",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002872",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002875",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002876",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_002897",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002907",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_002909",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002910",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002921",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002923",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002936",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002938",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002951",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002964",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_002967",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002979",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_002998",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_003020",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_003024",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_003045",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_003052",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_003055",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_003077",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_003115",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_003140",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_003141",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_003145",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_003150",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_003152",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_003154",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_003160",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_003172",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_003176",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_003185",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_003194",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_003198",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_003215",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_003227",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_003230",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_003238",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_003239",
+    "gold_label": "NEI"
+  },
+  {
+    "claim_id": "finfact_003246",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_003254",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_003255",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_003260",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_003262",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_003274",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_003283",
+    "gold_label": "true"
+  },
+  {
+    "claim_id": "finfact_003317",
+    "gold_label": "false"
+  },
+  {
+    "claim_id": "finfact_003324",
+    "gold_label": "false"
+  }
+]

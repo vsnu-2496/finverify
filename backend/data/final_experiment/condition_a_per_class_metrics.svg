@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="590" viewBox="0 0 1100 590" role="img" aria-labelledby="title desc">
+<title id="title">Condition A per-class metrics</title>
+<desc id="desc">Grouped bars show precision, recall, and F1 for the three benchmark classes.</desc>
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#17212B}.title{font-size:25px;font-weight:700}.subtitle{font-size:14px;fill:#52606D}.label{font-size:15px}.small{font-size:12px;fill:#52606D}.value{font-size:14px;font-weight:700}</style>
+<text class="title" x="70" y="58">Condition A — per-class metrics</text>
+<text class="subtitle" x="70" y="86">Zero-denominator precision or recall is reported as 0, following the project evaluator.</text>
+<line x1="300.0" y1="145" x2="300.0" y2="475" stroke="#DCE2E8" stroke-width="1"/>
+<text class="small" x="300.0" y="499" text-anchor="middle">0.0</text>
+<line x1="430.0" y1="145" x2="430.0" y2="475" stroke="#DCE2E8" stroke-width="1"/>
+<text class="small" x="430.0" y="499" text-anchor="middle">0.2</text>
+<line x1="560.0" y1="145" x2="560.0" y2="475" stroke="#DCE2E8" stroke-width="1"/>
+<text class="small" x="560.0" y="499" text-anchor="middle">0.4</text>
+<line x1="690.0" y1="145" x2="690.0" y2="475" stroke="#DCE2E8" stroke-width="1"/>
+<text class="small" x="690.0" y="499" text-anchor="middle">0.6</text>
+<line x1="820.0" y1="145" x2="820.0" y2="475" stroke="#DCE2E8" stroke-width="1"/>
+<text class="small" x="820.0" y="499" text-anchor="middle">0.8</text>
+<line x1="950.0" y1="145" x2="950.0" y2="475" stroke="#DCE2E8" stroke-width="1"/>
+<text class="small" x="950.0" y="499" text-anchor="middle">1.0</text>
+<text class="label" x="282" y="194" text-anchor="end">Supported</text>
+<rect x="300" y="145" width="0.00" height="18" rx="3" fill="#0072B2"/>
+<text class="small" x="308.00" y="159">0.0000</text>
+<rect x="300" y="172" width="0.00" height="18" rx="3" fill="#009E73"/>
+<text class="small" x="308.00" y="186">0.0000</text>
+<rect x="300" y="199" width="0.00" height="18" rx="3" fill="#CC79A7"/>
+<text class="small" x="308.00" y="213">0.0000</text>
+<text class="label" x="282" y="302" text-anchor="end">Refuted</text>
+<rect x="300" y="253" width="487.50" height="18" rx="3" fill="#0072B2"/>
+<text class="small" x="795.50" y="267">0.7500</text>
+<rect x="300" y="280" width="14.69" height="18" rx="3" fill="#009E73"/>
+<text class="small" x="322.69" y="294">0.0226</text>
+<rect x="300" y="307" width="28.47" height="18" rx="3" fill="#CC79A7"/>
+<text class="small" x="336.47" y="321">0.0438</text>
+<text class="label" x="282" y="410" text-anchor="end">Unverifiable</text>
+<rect x="300" y="361" width="120.19" height="18" rx="3" fill="#0072B2"/>
+<text class="small" x="428.19" y="375">0.1849</text>
+<rect x="300" y="388" width="650.00" height="18" rx="3" fill="#009E73"/>
+<text class="small" x="958.00" y="402">1.0000</text>
+<rect x="300" y="415" width="202.86" height="18" rx="3" fill="#CC79A7"/>
+<text class="small" x="510.87" y="429">0.3121</text>
+<rect x="370" y="525" width="16" height="16" rx="2" fill="#0072B2"/>
+<text class="small" x="394" y="538">Precision</text>
+<rect x="560" y="525" width="16" height="16" rx="2" fill="#009E73"/>
+<text class="small" x="584" y="538">Recall</text>
+<rect x="750" y="525" width="16" height="16" rx="2" fill="#CC79A7"/>
+<text class="small" x="774" y="538">F1</text>
+</svg>

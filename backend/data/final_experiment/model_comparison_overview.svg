@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420">
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 16px; font-weight: 700; fill: #1e293b; }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 12px; fill: #64748b; }
+    .axis-label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 11px; fill: #475569; font-weight: 600; }
+    .tick { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 10px; fill: #94a3b8; }
+    .grid { stroke: #e2e8f0; stroke-width: 1; stroke-dasharray: 3,3; }
+    .bar-label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 10px; font-weight: 600; fill: #0f172a; text-anchor: middle; }
+    .legend { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 11px; fill: #334155; }
+  </style>
+  <rect width="100%" height="100%" fill="#ffffff" rx="8" />
+  <text x="360" y="30" text-anchor="middle" class="title">Model A vs. Model B Overall Performance Benchmark</text>
+  <text x="360" y="48" text-anchor="middle" class="subtitle">Held-Out 300 Fin-Fact Claims (Zero Leakage Test Set)</text>
+  <g transform="translate(420, 20)">
+    <rect x="0" y="0" width="14" height="14" rx="3" fill="#64748b" />
+    <text x="20" y="11" class="legend">Model A (Qwen2.5:3b Zero-Shot)</text>
+    <rect x="0" y="18" width="14" height="14" rx="3" fill="#2563eb" />
+    <text x="20" y="29" class="legend">Model B (MPNet Classifier)</text>
+  </g>
+  <line x1="80" y1="350.0" x2="660" y2="350.0" class="grid" />
+  <text x="70" y="353.0" text-anchor="end" class="tick">0.0</text>
+  <line x1="80" y1="294.0" x2="660" y2="294.0" class="grid" />
+  <text x="70" y="297.0" text-anchor="end" class="tick">0.2</text>
+  <line x1="80" y1="238.0" x2="660" y2="238.0" class="grid" />
+  <text x="70" y="241.0" text-anchor="end" class="tick">0.4</text>
+  <line x1="80" y1="182.0" x2="660" y2="182.0" class="grid" />
+  <text x="70" y="185.0" text-anchor="end" class="tick">0.6</text>
+  <line x1="80" y1="126.0" x2="660" y2="126.0" class="grid" />
+  <text x="70" y="129.0" text-anchor="end" class="tick">0.8</text>
+  <line x1="80" y1="70.0" x2="660" y2="70.0" class="grid" />
+  <text x="70" y="73.0" text-anchor="end" class="tick">1.0</text>
+  <rect x="111.5" y="296.8" width="38" height="53.2" rx="4" fill="#94a3b8" />
+  <text x="130.5" y="291.8" class="bar-label">0.1900</text>
+  <rect x="155.5" y="190.4" width="38" height="159.6" rx="4" fill="#2563eb" />
+  <text x="174.5" y="185.4" class="bar-label" fill="#1d4ed8">0.5700</text>
+  <text x="152.5" y="372" text-anchor="middle" class="axis-label">Accuracy</text>
+  <rect x="256.5" y="262.752" width="38" height="87.24799999999999" rx="4" fill="#94a3b8" />
+  <text x="275.5" y="257.752" class="bar-label">0.3116</text>
+  <rect x="300.5" y="196.924" width="38" height="153.076" rx="4" fill="#2563eb" />
+  <text x="319.5" y="191.924" class="bar-label" fill="#1d4ed8">0.5467</text>
+  <text x="297.5" y="372" text-anchor="middle" class="axis-label">Macro Precision</text>
+  <rect x="401.5" y="254.548" width="38" height="95.452" rx="4" fill="#94a3b8" />
+  <text x="420.5" y="249.548" class="bar-label">0.3409</text>
+  <rect x="445.5" y="195.10399999999998" width="38" height="154.89600000000002" rx="4" fill="#2563eb" />
+  <text x="464.5" y="190.10399999999998" class="bar-label" fill="#1d4ed8">0.5532</text>
+  <text x="442.5" y="372" text-anchor="middle" class="axis-label">Macro Recall</text>
+  <rect x="546.5" y="316.79200000000003" width="38" height="33.208" rx="4" fill="#94a3b8" />
+  <text x="565.5" y="311.79200000000003" class="bar-label">0.1186</text>
+  <rect x="590.5" y="197.26" width="38" height="152.74" rx="4" fill="#2563eb" />
+  <text x="609.5" y="192.26" class="bar-label" fill="#1d4ed8">0.5455</text>
+  <text x="587.5" y="372" text-anchor="middle" class="axis-label">Macro F1</text>
+</svg>

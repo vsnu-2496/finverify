@@ -1,0 +1,4 @@
+class,precision,recall,f1,gold_count,predicted_count
+SUPPORTED,0.0,0.0,0.0,113,4
+REFUTED,0.75,0.0226,0.0438,133,4
+UNVERIFIABLE,0.1849,1.0,0.3121,54,292

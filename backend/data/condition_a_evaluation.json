@@ -1,0 +1,53 @@
+{
+  "condition": "A_INTERNAL_KNOWLEDGE",
+  "model": "gemini-3.6-flash",
+  "sample_size": 300,
+  "successful_predictions": 0,
+  "failed_predictions": 300,
+  "retry_count": 900,
+  "prediction_distribution": {},
+  "gold_distribution": {
+    "SUPPORTED": 113,
+    "REFUTED": 133,
+    "UNVERIFIABLE": 54
+  },
+  "average_confidence": 0.0,
+  "accuracy": 0.0,
+  "macro_precision": 0.0,
+  "macro_recall": 0.0,
+  "macro_f1": 0.0,
+  "per_class_metrics": {
+    "SUPPORTED": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "REFUTED": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "UNVERIFIABLE": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  },
+  "confusion_matrix": {
+    "SUPPORTED": {
+      "SUPPORTED": 0,
+      "REFUTED": 0,
+      "UNVERIFIABLE": 0
+    },
+    "REFUTED": {
+      "SUPPORTED": 0,
+      "REFUTED": 0,
+      "UNVERIFIABLE": 0
+    },
+    "UNVERIFIABLE": {
+      "SUPPORTED": 0,
+      "REFUTED": 0,
+      "UNVERIFIABLE": 0
+    }
+  }
+}

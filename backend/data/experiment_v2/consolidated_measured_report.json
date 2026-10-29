@@ -1,0 +1,772 @@
+{
+  "generated_at": "2026-10-19T17:31:56.609200+00:00",
+  "model": "qwen2.5:3b",
+  "provider": "ollama",
+  "dataset": "Fin-Fact 300-claim research sample",
+  "experiment_version": "v2",
+  "conditions": {
+    "A": {
+      "condition": "A",
+      "sources": [
+        "(none - parametric only)"
+      ],
+      "total_claims": 300,
+      "evaluated_claims": 300,
+      "not_applicable": 0,
+      "errors": 0,
+      "prediction_distribution": {
+        "SUPPORTED": 4,
+        "REFUTED": 4,
+        "UNVERIFIABLE": 292
+      },
+      "metrics": {
+        "evaluated_claims": 300,
+        "accuracy": 0.19,
+        "macro_precision": 0.3116,
+        "macro_recall": 0.3409,
+        "macro_f1": 0.1186,
+        "per_class": {
+          "SUPPORTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "REFUTED": {
+            "precision": 0.75,
+            "recall": 0.0226,
+            "f1": 0.0438
+          },
+          "UNVERIFIABLE": {
+            "precision": 0.1849,
+            "recall": 1.0,
+            "f1": 0.3121
+          }
+        },
+        "confusion_matrix": {
+          "SUPPORTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 1,
+            "UNVERIFIABLE": 112
+          },
+          "REFUTED": {
+            "SUPPORTED": 4,
+            "REFUTED": 3,
+            "UNVERIFIABLE": 126
+          },
+          "UNVERIFIABLE": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 54
+          }
+        },
+        "predicted_class_counts": {
+          "SUPPORTED": 4,
+          "REFUTED": 4,
+          "UNVERIFIABLE": 292
+        }
+      }
+    },
+    "B1": {
+      "condition": "B1",
+      "sources": [
+        "SEC"
+      ],
+      "total_claims": 300,
+      "evaluated_claims": 5,
+      "not_applicable": 295,
+      "errors": 0,
+      "prediction_distribution": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 5
+      },
+      "metrics": {
+        "evaluated_claims": 5,
+        "accuracy": 0.4,
+        "macro_precision": 0.1333,
+        "macro_recall": 0.3333,
+        "macro_f1": 0.1905,
+        "per_class": {
+          "SUPPORTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "REFUTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "UNVERIFIABLE": {
+            "precision": 0.4,
+            "recall": 1.0,
+            "f1": 0.5714
+          }
+        },
+        "confusion_matrix": {
+          "SUPPORTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          },
+          "REFUTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 1
+          },
+          "UNVERIFIABLE": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          }
+        },
+        "predicted_class_counts": {
+          "SUPPORTED": 0,
+          "REFUTED": 0,
+          "UNVERIFIABLE": 5
+        }
+      }
+    },
+    "B2": {
+      "condition": "B2",
+      "sources": [
+        "Alpha Vantage"
+      ],
+      "total_claims": 300,
+      "evaluated_claims": 1,
+      "not_applicable": 299,
+      "errors": 0,
+      "prediction_distribution": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 1
+      },
+      "metrics": {
+        "evaluated_claims": 1,
+        "accuracy": 0.0,
+        "macro_precision": 0.0,
+        "macro_recall": 0.0,
+        "macro_f1": 0.0,
+        "per_class": {
+          "SUPPORTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "REFUTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "UNVERIFIABLE": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          }
+        },
+        "confusion_matrix": {
+          "SUPPORTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 0
+          },
+          "REFUTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 1
+          },
+          "UNVERIFIABLE": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 0
+          }
+        },
+        "predicted_class_counts": {
+          "SUPPORTED": 0,
+          "REFUTED": 0,
+          "UNVERIFIABLE": 1
+        }
+      }
+    },
+    "B3": {
+      "condition": "B3",
+      "sources": [
+        "SEC",
+        "Alpha Vantage"
+      ],
+      "total_claims": 300,
+      "evaluated_claims": 6,
+      "not_applicable": 294,
+      "errors": 0,
+      "prediction_distribution": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 6
+      },
+      "metrics": {
+        "evaluated_claims": 6,
+        "accuracy": 0.3333,
+        "macro_precision": 0.1111,
+        "macro_recall": 0.3333,
+        "macro_f1": 0.1667,
+        "per_class": {
+          "SUPPORTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "REFUTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "UNVERIFIABLE": {
+            "precision": 0.3333,
+            "recall": 1.0,
+            "f1": 0.5
+          }
+        },
+        "confusion_matrix": {
+          "SUPPORTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          },
+          "REFUTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          },
+          "UNVERIFIABLE": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          }
+        },
+        "predicted_class_counts": {
+          "SUPPORTED": 0,
+          "REFUTED": 0,
+          "UNVERIFIABLE": 6
+        }
+      }
+    }
+  },
+  "paired_comparisons_against_condition_a": {
+    "B1": {
+      "evaluated_claim_ids": [
+        "finfact_000462",
+        "finfact_000596",
+        "finfact_000786",
+        "finfact_001599",
+        "finfact_002061"
+      ],
+      "n_paired": 5,
+      "condition_a_paired_metrics": {
+        "evaluated_claims": 5,
+        "accuracy": 0.4,
+        "macro_precision": 0.1333,
+        "macro_recall": 0.3333,
+        "macro_f1": 0.1905,
+        "per_class": {
+          "SUPPORTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "REFUTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "UNVERIFIABLE": {
+            "precision": 0.4,
+            "recall": 1.0,
+            "f1": 0.5714
+          }
+        },
+        "confusion_matrix": {
+          "SUPPORTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          },
+          "REFUTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 1
+          },
+          "UNVERIFIABLE": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          }
+        },
+        "predicted_class_counts": {
+          "SUPPORTED": 0,
+          "REFUTED": 0,
+          "UNVERIFIABLE": 5
+        }
+      },
+      "condition_b1_paired_metrics": {
+        "evaluated_claims": 5,
+        "accuracy": 0.4,
+        "macro_precision": 0.1333,
+        "macro_recall": 0.3333,
+        "macro_f1": 0.1905,
+        "per_class": {
+          "SUPPORTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "REFUTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "UNVERIFIABLE": {
+            "precision": 0.4,
+            "recall": 1.0,
+            "f1": 0.5714
+          }
+        },
+        "confusion_matrix": {
+          "SUPPORTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          },
+          "REFUTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 1
+          },
+          "UNVERIFIABLE": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          }
+        },
+        "predicted_class_counts": {
+          "SUPPORTED": 0,
+          "REFUTED": 0,
+          "UNVERIFIABLE": 5
+        }
+      },
+      "delta_accuracy": 0.0,
+      "delta_macro_f1": 0.0
+    },
+    "B2": {
+      "evaluated_claim_ids": [
+        "finfact_002666"
+      ],
+      "n_paired": 1,
+      "condition_a_paired_metrics": {
+        "evaluated_claims": 1,
+        "accuracy": 0.0,
+        "macro_precision": 0.0,
+        "macro_recall": 0.0,
+        "macro_f1": 0.0,
+        "per_class": {
+          "SUPPORTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "REFUTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "UNVERIFIABLE": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          }
+        },
+        "confusion_matrix": {
+          "SUPPORTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 0
+          },
+          "REFUTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 1
+          },
+          "UNVERIFIABLE": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 0
+          }
+        },
+        "predicted_class_counts": {
+          "SUPPORTED": 0,
+          "REFUTED": 0,
+          "UNVERIFIABLE": 1
+        }
+      },
+      "condition_b2_paired_metrics": {
+        "evaluated_claims": 1,
+        "accuracy": 0.0,
+        "macro_precision": 0.0,
+        "macro_recall": 0.0,
+        "macro_f1": 0.0,
+        "per_class": {
+          "SUPPORTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "REFUTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "UNVERIFIABLE": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          }
+        },
+        "confusion_matrix": {
+          "SUPPORTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 0
+          },
+          "REFUTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 1
+          },
+          "UNVERIFIABLE": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 0
+          }
+        },
+        "predicted_class_counts": {
+          "SUPPORTED": 0,
+          "REFUTED": 0,
+          "UNVERIFIABLE": 1
+        }
+      },
+      "delta_accuracy": 0.0,
+      "delta_macro_f1": 0.0
+    },
+    "B3": {
+      "evaluated_claim_ids": [
+        "finfact_000462",
+        "finfact_000596",
+        "finfact_000786",
+        "finfact_001599",
+        "finfact_002061",
+        "finfact_002666"
+      ],
+      "n_paired": 6,
+      "condition_a_paired_metrics": {
+        "evaluated_claims": 6,
+        "accuracy": 0.3333,
+        "macro_precision": 0.1111,
+        "macro_recall": 0.3333,
+        "macro_f1": 0.1667,
+        "per_class": {
+          "SUPPORTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "REFUTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "UNVERIFIABLE": {
+            "precision": 0.3333,
+            "recall": 1.0,
+            "f1": 0.5
+          }
+        },
+        "confusion_matrix": {
+          "SUPPORTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          },
+          "REFUTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          },
+          "UNVERIFIABLE": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          }
+        },
+        "predicted_class_counts": {
+          "SUPPORTED": 0,
+          "REFUTED": 0,
+          "UNVERIFIABLE": 6
+        }
+      },
+      "condition_b3_paired_metrics": {
+        "evaluated_claims": 6,
+        "accuracy": 0.3333,
+        "macro_precision": 0.1111,
+        "macro_recall": 0.3333,
+        "macro_f1": 0.1667,
+        "per_class": {
+          "SUPPORTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "REFUTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "UNVERIFIABLE": {
+            "precision": 0.3333,
+            "recall": 1.0,
+            "f1": 0.5
+          }
+        },
+        "confusion_matrix": {
+          "SUPPORTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          },
+          "REFUTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          },
+          "UNVERIFIABLE": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          }
+        },
+        "predicted_class_counts": {
+          "SUPPORTED": 0,
+          "REFUTED": 0,
+          "UNVERIFIABLE": 6
+        }
+      },
+      "delta_accuracy": 0.0,
+      "delta_macro_f1": 0.0
+    }
+  },
+  "evaluated_claim_details": [
+    {
+      "claim_id": "finfact_000462",
+      "claim_text": "Are Costco shutting down stores throughout the country?",
+      "claim_date": "2021-02-10",
+      "gold_label": "false",
+      "condition_a_pred": "UNVERIFIABLE",
+      "condition_b3_pred": "UNVERIFIABLE",
+      "confidence": 0.7,
+      "explanation": "The provided evidence does not contain any information related to Costco's store closures or shutdowns.",
+      "evidence": [
+        {
+          "source": "SEC",
+          "evidence_text": "8-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of Earliest Event Reported): January 21, 2021 COSTCO WHOLESALE CORPORATION (Exact name of registrant as specified in its charter) Washington 0-20355 91-1223280 (State or other jurisdiction of incorporation) (Commission File No. ) (I.R.S. Employer Identification No.) 999 Lake Drive Issaquah , WA 98027 (Address of principal executive offices and zip code) Registrant’s telephone number, including area code: 425 - 313-8100 Check the appropriate box below if the Form 8-K filing is intended to simultaneously",
+          "evidence_date": "2021-01-26",
+          "observation_date": null,
+          "retrieved_at": "2026-10-19T17:23:39.557110+00:00",
+          "url": "https://www.sec.gov/Archives/edgar/data/909832/000119312521017361/d115093d8k.htm",
+          "relevance": 0.75,
+          "temporal_status": "valid"
+        },
+        {
+          "source": "SEC",
+          "evidence_text": "8-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of Earliest Event Reported): January 21, 2021 COSTCO WHOLESALE CORPORATION (Exact name of registrant as specified in its charter) Washington 0-20355 91-1223280 (State or other jurisdiction of incorporation) (Commission File No.) (I.R.S. Employer Identification No.) 999 Lake Drive Issaquah , WA 98027 (Address of principal executive offices and zip code) Registrant’s telephone number, including area code: 425 - 313-8100 Check the appropriate box below if the Form 8-K filing is intended to simultaneously s",
+          "evidence_date": "2021-01-26",
+          "observation_date": null,
+          "retrieved_at": "2026-10-19T17:23:40.066372+00:00",
+          "url": "https://www.sec.gov/Archives/edgar/data/909832/000119312521016502/d100960d8k.htm",
+          "relevance": 0.75,
+          "temporal_status": "valid"
+        }
+      ],
+      "evidence_sources": [
+        "SEC",
+        "SEC"
+      ]
+    },
+    {
+      "claim_id": "finfact_000596",
+      "claim_text": "Fannie Mae is loosening credit standards in order to assist in providing mortgage loans.",
+      "claim_date": "2008-10-02",
+      "gold_label": "NEI",
+      "condition_a_pred": "UNVERIFIABLE",
+      "condition_b3_pred": "UNVERIFIABLE",
+      "confidence": 0.7,
+      "explanation": "The provided evidence does not contain any information related to Fannie Mae's credit standards or any actions taken to assist in providing mortgage loans.",
+      "evidence": [
+        {
+          "source": "SEC",
+          "evidence_text": "ations pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) [ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Top of the Form Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On September 11, 2008, Fannie Mae (formally, the Federal National Mortgage Association) filed a current report on Form 8-K with the Securities and Exchange Commission regarding the appointment of the Federal Housing Finance Agency (\"FHFA\") as Fannie Mae’s conservator and disclosing that, as conservator and by operation of law, FHFA immediat",
+          "evidence_date": "2008-10-02",
+          "observation_date": null,
+          "retrieved_at": "2026-10-19T17:24:11.260395+00:00",
+          "url": "https://www.sec.gov/Archives/edgar/data/310522/000129993308004619/htm_29249.htm",
+          "relevance": 0.75,
+          "temporal_status": "valid"
+        },
+        {
+          "source": "SEC",
+          "evidence_text": "shall not be deemed \"filed\" for purposes of Section 18 of the Securities Exchange Act of 1934, or otherwise subject to the liabilities of Section 18, nor shall it be deemed incorporated by reference into any disclosure document relating to Fannie Mae, except to the extent, if any, expressly set forth by specific reference in such filing. Top of the Form SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Federal National Mortgage Association September 29, 2008 By: Curtis P. Lu Name: Curtis P. Lu Title: Senior Vice President and Acting General Counsel",
+          "evidence_date": "2008-09-29",
+          "observation_date": null,
+          "retrieved_at": "2026-10-19T17:24:11.714671+00:00",
+          "url": "https://www.sec.gov/Archives/edgar/data/310522/000129993308004533/htm_29162.htm",
+          "relevance": 0.75,
+          "temporal_status": "valid"
+        }
+      ],
+      "evidence_sources": [
+        "SEC",
+        "SEC"
+      ]
+    },
+    {
+      "claim_id": "finfact_000786",
+      "claim_text": "Ford is moving all of their small-car production to Mexico.",
+      "claim_date": "2016-10-23",
+      "gold_label": "true",
+      "condition_a_pred": "UNVERIFIABLE",
+      "condition_b3_pred": "UNVERIFIABLE",
+      "confidence": 0.0,
+      "explanation": "The provided evidence does not contain any information regarding Ford's production plans or relocation of small-car production to Mexico.",
+      "evidence": [
+        {
+          "source": "SEC",
+          "evidence_text": "8-K 1 sales8-kdated10x3x2016.htm 8-K Document UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D. C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report: October 3, 2016 (Date of earliest event reported) FORD MOTOR COMPANY (Exact name of registrant as specified in its charter) Delaware (State or other jurisdiction of incorporation) 1-3950 38-0549190 (Commission File Number) (IRS Employer Identification No.) One American Road, Dearborn, Michigan 48126 (Address of principal executive offices) (Zip Code) Registrant’s telephone number, including area code 313-322-3000 Check the appropriate box below if the Form 8-K filin",
+          "evidence_date": "2016-10-03",
+          "observation_date": null,
+          "retrieved_at": "2026-10-19T17:24:43.042845+00:00",
+          "url": "https://www.sec.gov/Archives/edgar/data/37996/000003799616000153/sales8-kdated10x3x2016.htm",
+          "relevance": 0.75,
+          "temporal_status": "valid"
+        },
+        {
+          "source": "SEC",
+          "evidence_text": "8-K 1 investorday8-kdated9x14x20.htm 8-K Document UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D. C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report: September 14, 2016 (Date of earliest event reported) FORD MOTOR COMPANY (Exact name of registrant as specified in its charter) Delaware (State or other jurisdiction of incorporation) 1-3950 38-0549190 (Commission File Number) (IRS Employer Identification No.) One American Road, Dearborn, Michigan 48126 (Address of principal executive offices) (Zip Code) Registrant’s telephone number, including area code 313-322-3000 Check the appropriate box below if the Form 8-",
+          "evidence_date": "2016-09-14",
+          "observation_date": null,
+          "retrieved_at": "2026-10-19T17:24:44.212802+00:00",
+          "url": "https://www.sec.gov/Archives/edgar/data/37996/000003799616000151/investorday8-kdated9x14x20.htm",
+          "relevance": 0.75,
+          "temporal_status": "valid"
+        }
+      ],
+      "evidence_sources": [
+        "SEC",
+        "SEC"
+      ]
+    },
+    {
+      "claim_id": "finfact_001599",
+      "claim_text": "Did American Airlines Receive Billions in Federal Aid Then Lay Off 30,000 Employees?",
+      "claim_date": "2021-06-22",
+      "gold_label": "NEI",
+      "condition_a_pred": "UNVERIFIABLE",
+      "condition_b3_pred": "UNVERIFIABLE",
+      "confidence": 0.0,
+      "explanation": "The provided evidence does not contain any specific information regarding the amount of federal aid received by American Airlines or any details about layoffs.",
+      "evidence": [
+        {
+          "source": "SEC",
+          "evidence_text": "aal-20210610 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): June 10, 2021 AMERICAN AIRLINES GROUP INC. AMERICAN AIRLINES, INC. (Exact name of registrant as specified in its charter) Delaware 1-8400 75-1825172 Delaware 1-2691 13-1502798 (State or other Jurisdiction of Incorporation) (Commission File Number) (IRS Employer Identification No.) 1 Skyview Drive, Fort Worth, Texas 76155 1 Skyview Drive, Fort Worth, Texas 76155 (Address of principal executive offices) (Zip Code) Registrant’s telephone number, including area code: (",
+          "evidence_date": "2021-06-11",
+          "observation_date": null,
+          "retrieved_at": "2026-10-19T17:25:39.500286+00:00",
+          "url": "https://www.sec.gov/Archives/edgar/data/6201/000000620121000066/aal-20210610.htm",
+          "relevance": 0.75,
+          "temporal_status": "valid"
+        },
+        {
+          "source": "SEC",
+          "evidence_text": "aal-20210609 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): June 9, 2021 AMERICAN AIRLINES GROUP INC. (Exact name of registrant as specified in its charter) Delaware 1-8400 75-1825172 (State or other Jurisdiction of Incorporation) (Commission File Number) (IRS Employer Identification No.) 1 Skyview Drive, Fort Worth, Texas 76155 (Address of principal executive offices) (Zip Code) Registrant’s telephone number, including area code: ( 682 ) 278-9000 N/A (Former name or former address if changed since last report.) Check the ap",
+          "evidence_date": "2021-06-09",
+          "observation_date": null,
+          "retrieved_at": "2026-10-19T17:25:39.793573+00:00",
+          "url": "https://www.sec.gov/Archives/edgar/data/6201/000000620121000063/aal-20210609.htm",
+          "relevance": 0.75,
+          "temporal_status": "valid"
+        }
+      ],
+      "evidence_sources": [
+        "SEC",
+        "SEC"
+      ]
+    },
+    {
+      "claim_id": "finfact_002061",
+      "claim_text": "We had bipartisan legislation that got through the Senate that would have prevented bonuses like AIG's and then somehow mysteriously disappeared.",
+      "claim_date": "2009-03-18",
+      "gold_label": "true",
+      "condition_a_pred": "UNVERIFIABLE",
+      "condition_b3_pred": "UNVERIFIABLE",
+      "confidence": 0.7,
+      "explanation": "The supplied evidence does not contain any information related to bipartisan legislation, AIG's bonuses, or the disappearance of such legislation.",
+      "evidence": [
+        {
+          "source": "SEC",
+          "evidence_text": "-commencement communications pursuant to Rule 13e4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Section 3 — Securities and Trading Markets Item 3.02. Unregistered Sales of Equity Securities. On March 4, 2009, American International Group, Inc. (AIG) issued and sold to the AIG Credit Facility Trust (the Trust), a trust established for the sole benefit of the United States Treasury, 100,000 shares of AIG’s Series C Perpetual, Convertible, Participating Preferred Stock, par value $5.00 per share and an initial liquidation preference of $5.00 per share (the Series C Preferred Stock), for an aggregate purchase price of $500,000 (the Transaction), with an understanding that additional and independent",
+          "evidence_date": "2009-03-05",
+          "observation_date": null,
+          "retrieved_at": "2026-10-19T17:26:20.049698+00:00",
+          "url": "https://www.sec.gov/Archives/edgar/data/5272/000095012309004097/y75051e8vk.htm",
+          "relevance": 0.75,
+          "temporal_status": "valid"
+        },
+        {
+          "source": "SEC",
+          "evidence_text": "in certain geographic locations to fall, resulting in impairment charges on real estate held for investment purposes. Liquidity issues at AIG parent and lower asset performance as a result of challenging market conditions have contributed to the loss of institutional and retail clients, as well as higher redemptions from some of AIG subsidiaries’ managed hedge and mutual funds, have prevented AIG subsidiaries from launching new funds and will continue to adversely affect Asset Management results. Within the Spread-Based Investment business, distressed markets have resulted in significant loss of invested asset value, and AIG expects such losses to continue through mid 2009. In addition, AIG",
+          "evidence_date": "2009-03-02",
+          "observation_date": null,
+          "retrieved_at": "2026-10-19T17:26:40.500565+00:00",
+          "url": "https://www.sec.gov/Archives/edgar/data/5272/000095012309003734/y74794e10vk.htm",
+          "relevance": 0.75,
+          "temporal_status": "valid"
+        }
+      ],
+      "evidence_sources": [
+        "SEC",
+        "SEC"
+      ]
+    },
+    {
+      "claim_id": "finfact_002666",
+      "claim_text": "Did Trump Tweet That If 'Dow Joans' Tanked, the President Should Be Shot Out of a Cannon?",
+      "claim_date": "2018-02-05",
+      "gold_label": "false",
+      "condition_a_pred": "UNVERIFIABLE",
+      "condition_b3_pred": "UNVERIFIABLE",
+      "confidence": 0.7,
+      "explanation": "The provided evidence contains Dow Jones Industrial Average (DIA) monthly market data and does not mention any tweet by Trump regarding stock market performance or any specific action in case of a stock market drop.",
+      "evidence": [
+        {
+          "source": "Alpha Vantage",
+          "evidence_text": "Dow Jones Industrial Average (DIA) monthly market data for period ending 2018-01-31 (claim date 2018-02-05): open 248.34, high 265.93, low 247.23, close 261.44, volume 102220886 (1-month change: +5.68% vs 2017-12-29 close 247.38).",
+          "evidence_date": "2018-01-31",
+          "observation_date": "2018-01-31",
+          "retrieved_at": "2026-10-19T17:27:26.554965+00:00",
+          "url": "https://www.alphavantage.co/query?function=TIME_SERIES_MONTHLY&symbol=DIA",
+          "relevance": 0.85,
+          "temporal_status": "valid"
+        }
+      ],
+      "evidence_sources": [
+        "Alpha Vantage"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-10-29T08:07:32.179522+00:00",
+  "dry_run": true,
+  "experimental_condition": "B4_retrospective_fact_check_evidence_synthesis",
+  "total_claims": 300,
+  "status_accounting": {
+    "grounded_success": 232,
+    "no_relevant_evidence": 68,
+    "retrieval_error": 0,
+    "inference_error": 0
+  },
+  "coverage_metrics": {
+    "evidence_coverage_rate": 0.7733,
+    "abstention_rate": 0.2267,
+    "retrieval_error_rate": 0.0,
+    "inference_error_rate": 0.0
+  },
+  "leakage_filter_statistics": {
+    "total_raw_evidence_items": 1594,
+    "rejected_temporal": 0,
+    "rejected_relevance": 840,
+    "rejected_verdict_leakage": 34,
+    "rejected_uncertain_leakage": 6,
+    "accepted_primary_source": 9,
+    "accepted_fact_checker_reporting": 705
+  }
+}

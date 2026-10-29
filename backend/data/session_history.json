@@ -1,0 +1,191 @@
+[
+  {
+    "claim_id": "CLM-01",
+    "claim_text": "Apple reported total net sales of $383,285 million ($383.29 billion) for fiscal year 2023, compared to $394,328 million in 2022.",
+    "claim_type": "financial/revenue",
+    "condition": "evidence",
+    "confidence": 0.85,
+    "confidence_type": "MODEL_REPORTED_UNCALIBRATED",
+    "entity": "Apple Inc.",
+    "evaluator_type": "LLM_DIRECT_INFERENCE",
+    "evidence": [
+      {
+        "evidence_date": "2023-11-03",
+        "evidence_text": "Apple Inc. SEC Company Facts tag RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) reported 365817000000 USD for period ending 2021-09-25; filing form 10-K filed 2023-11-03.",
+        "observation_date": "2021-09-25",
+        "relevance": 0.85,
+        "retrieved_at": "2026-10-16T09:10:31.326225+00:00",
+        "source": "SEC",
+        "temporal_status": "valid",
+        "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000320193.json"
+      }
+    ],
+    "evidence_errors": [
+      {
+        "error": "Claim type does not require market data.",
+        "source": "Alpha Vantage",
+        "status": "not_applicable"
+      }
+    ],
+    "explanation": "The provided evidence shows revenue data for a specific date (2021-09-25) and does not provide the total net sales for the fiscal year 2023 as claimed in the statement. The evidence is valid and relevant, but it does not support or refute the claim about the fiscal year 2023 total net sales.",
+    "retrieval_notice": null,
+    "source_mode": "LIVE_EXTERNAL",
+    "status": "success",
+    "temporal_validation": "valid",
+    "verdict": "UNVERIFIABLE",
+    "timestamp": "2026-10-16T09:11:28.207Z"
+  },
+  {
+    "claim_id": "CLM-01",
+    "claim_text": "Apple reported total net sales of $383,285 million ($383.29 billion) for fiscal year 2023, compared to $394,328 million in 2022.",
+    "condition": "internal",
+    "confidence": 0,
+    "confidence_type": "MODEL_REPORTED_UNCALIBRATED",
+    "evidence": [],
+    "evidence_errors": [],
+    "explanation": "No internal knowledge or data is provided to verify the specific claim about Apple's fiscal year 2023 net sales figures. Financial data is typically subject to change and is not publicly disclosed in a static format like this claim.",
+    "source_mode": "PARAMETRIC_INTERNAL_MEMORY",
+    "status": "success",
+    "verdict": "UNVERIFIABLE",
+    "timestamp": "2026-10-16T09:05:55.609Z"
+  },
+  {
+    "claim_id": "CLM-01",
+    "claim_text": "Financial headlines falsely claimed that Apple reported total net sales of $950 billion for fiscal year 2023, representing record revenue growth.",
+    "claim_type": "financial/revenue",
+    "confidence": 0.85,
+    "entity": "Apple Inc.",
+    "evidence": [
+      {
+        "evidence_date": "2023-11-03",
+        "evidence_text": "Apple Inc. SEC Company Facts tag RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) reported 365817000000 USD for period ending 2021-09-25; filing form 10-K filed 2023-11-03.",
+        "observation_date": "2021-09-25",
+        "relevance": 0.85,
+        "retrieved_at": "2026-10-16T06:32:34.266677+00:00",
+        "source": "SEC",
+        "temporal_status": "valid",
+        "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000320193.json"
+      }
+    ],
+    "evidence_errors": [
+      {
+        "error": "Claim type does not require market data.",
+        "source": "Alpha Vantage",
+        "status": "not_applicable"
+      }
+    ],
+    "explanation": "The provided evidence only contains financial data for the period ending September 25, 2021, and does not provide any information about the fiscal year 2023 or any claims about total net sales of $950 billion. The evidence is specific to a single quarter and does not cover the full fiscal year 2023, which is required to verify the claim.",
+    "retrieval_notice": null,
+    "status": "success",
+    "temporal_validation": "valid",
+    "verdict": "UNVERIFIABLE",
+    "condition": "evidence",
+    "timestamp": "2026-10-16T06:33:19.337Z"
+  },
+  {
+    "claim_id": "CLM-01",
+    "claim_text": "Financial headlines falsely claimed that Apple reported total net sales of $950 billion for fiscal year 2023, representing record revenue growth.",
+    "claim_type": "financial/revenue",
+    "confidence": null,
+    "entity": "Apple Inc.",
+    "error": [
+      {
+        "error": "HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)",
+        "source": "Ollama",
+        "status": "error"
+      }
+    ],
+    "evidence": [
+      {
+        "evidence_date": "2023-11-03",
+        "evidence_text": "Apple Inc. SEC Company Facts tag RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) reported 365817000000 USD for period ending 2021-09-25; filing form 10-K filed 2023-11-03.",
+        "observation_date": "2021-09-25",
+        "relevance": 0.85,
+        "retrieved_at": "2026-10-16T06:29:58.608894+00:00",
+        "source": "SEC",
+        "temporal_status": "valid",
+        "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000320193.json"
+      }
+    ],
+    "evidence_errors": [
+      {
+        "error": "Claim type does not require market data.",
+        "source": "Alpha Vantage",
+        "status": "not_applicable"
+      }
+    ],
+    "explanation": "Verification failed while calling Ollama: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)",
+    "retrieval_notice": null,
+    "status": "error",
+    "temporal_validation": "valid",
+    "verdict": null,
+    "condition": "evidence",
+    "timestamp": "2026-10-16T06:32:09.405Z"
+  },
+  {
+    "claim_id": "CLM-01",
+    "claim_text": "Apple Inc. announced its financial results for fiscal year 2023. Apple reported total net sales of $383,285 million ($383.29 billion) for fiscal year 2023, compared to $394,328 million in 2022.",
+    "claim_type": "financial/revenue",
+    "confidence": 0.85,
+    "entity": "Apple Inc.",
+    "evidence": [
+      {
+        "evidence_date": "2023-11-03",
+        "evidence_text": "Apple Inc. SEC Company Facts tag RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) reported 365817000000 USD for period ending 2021-09-25; filing form 10-K filed 2023-11-03.",
+        "observation_date": "2021-09-25",
+        "relevance": 0.85,
+        "retrieved_at": "2026-10-16T06:29:58.366289+00:00",
+        "source": "SEC",
+        "temporal_status": "valid",
+        "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000320193.json"
+      }
+    ],
+    "evidence_errors": [
+      {
+        "error": "Claim type does not require market data.",
+        "source": "Alpha Vantage",
+        "status": "not_applicable"
+      }
+    ],
+    "explanation": "The provided evidence only contains information for the fiscal year ending 2021-09-25, which is not the same as the fiscal year 2023 mentioned in the claim. The claim refers to the financial results for fiscal year 2023, but the evidence only provides data for a different fiscal year. Therefore, the claim cannot be verified or refuted based on the provided information.",
+    "retrieval_notice": null,
+    "status": "success",
+    "temporal_validation": "valid",
+    "verdict": "UNVERIFIABLE",
+    "condition": "evidence",
+    "timestamp": "2026-10-16T06:32:08.911Z"
+  },
+  {
+    "claim_id": "CLM-01",
+    "claim_text": "Apple Inc. announced its financial results for fiscal year 2023. Apple reported total net sales of $383,285 million ($383.29 billion) for fiscal year 2023, compared to $394,328 million in 2022.",
+    "claim_type": "financial/revenue",
+    "confidence": 0.85,
+    "entity": "Apple Inc.",
+    "evidence": [
+      {
+        "evidence_date": "2023-11-03",
+        "evidence_text": "Apple Inc. SEC Company Facts tag RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) reported 365817000000 USD for period ending 2021-09-25; filing form 10-K filed 2023-11-03.",
+        "observation_date": "2021-09-25",
+        "relevance": 0.85,
+        "retrieved_at": "2026-10-16T06:29:58.823636+00:00",
+        "source": "SEC",
+        "temporal_status": "valid",
+        "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000320193.json"
+      }
+    ],
+    "evidence_errors": [
+      {
+        "error": "Claim type does not require market data.",
+        "source": "Alpha Vantage",
+        "status": "not_applicable"
+      }
+    ],
+    "explanation": "The provided evidence only contains information for the fiscal year ending 2021-09-25, which is not the same as the fiscal year 2023 mentioned in the claim. The claim refers to the fiscal year 2023, but the evidence refers to a different fiscal year. Therefore, the claim cannot be verified with the given information.",
+    "retrieval_notice": null,
+    "status": "success",
+    "temporal_validation": "valid",
+    "verdict": "UNVERIFIABLE",
+    "condition": "evidence",
+    "timestamp": "2026-10-16T06:31:54.469Z"
+  }
+]

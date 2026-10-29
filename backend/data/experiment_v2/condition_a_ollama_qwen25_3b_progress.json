@@ -1,0 +1,61 @@
+{
+  "condition": "A",
+  "sources": [],
+  "provider": "ollama",
+  "model": "qwen2.5:3b",
+  "total_claims": 300,
+  "successful": 300,
+  "failed": 0,
+  "remaining": 0,
+  "requests_this_run": 37,
+  "retry_count": 0,
+  "status": "complete",
+  "timestamp": "2026-10-04T15:08:06.436008+00:00",
+  "api_errors_distinct": [],
+  "metrics": {
+    "evaluated_claims": 300,
+    "accuracy": 0.19,
+    "macro_precision": 0.3116,
+    "macro_recall": 0.3409,
+    "macro_f1": 0.1186,
+    "per_class": {
+      "SUPPORTED": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "REFUTED": {
+        "precision": 0.75,
+        "recall": 0.0226,
+        "f1": 0.0438
+      },
+      "UNVERIFIABLE": {
+        "precision": 0.1849,
+        "recall": 1.0,
+        "f1": 0.3121
+      }
+    },
+    "confusion_matrix": {
+      "SUPPORTED": {
+        "SUPPORTED": 0,
+        "REFUTED": 1,
+        "UNVERIFIABLE": 112
+      },
+      "REFUTED": {
+        "SUPPORTED": 4,
+        "REFUTED": 3,
+        "UNVERIFIABLE": 126
+      },
+      "UNVERIFIABLE": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 54
+      }
+    },
+    "predicted_class_counts": {
+      "SUPPORTED": 4,
+      "REFUTED": 4,
+      "UNVERIFIABLE": 292
+    }
+  }
+}

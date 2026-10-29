@@ -1,0 +1,27 @@
+{
+  "random_seed": 42,
+  "total_records": 3363,
+  "train_count": 2603,
+  "val_count": 460,
+  "test_count": 300,
+  "train_distribution": {
+    "REFUTED": 1153,
+    "SUPPORTED": 985,
+    "UNVERIFIABLE": 465
+  },
+  "val_distribution": {
+    "SUPPORTED": 174,
+    "UNVERIFIABLE": 82,
+    "REFUTED": 204
+  },
+  "test_distribution": {
+    "SUPPORTED": 113,
+    "REFUTED": 133,
+    "UNVERIFIABLE": 54
+  },
+  "classes": [
+    "SUPPORTED",
+    "REFUTED",
+    "UNVERIFIABLE"
+  ]
+}

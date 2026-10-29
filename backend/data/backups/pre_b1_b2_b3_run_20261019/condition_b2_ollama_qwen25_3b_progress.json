@@ -1,0 +1,65 @@
+{
+  "condition": "B2",
+  "sources": [
+    "Alpha Vantage"
+  ],
+  "provider": "ollama",
+  "model": "qwen2.5:3b",
+  "total_claims": 300,
+  "successful": 269,
+  "failed": 1,
+  "remaining": 31,
+  "requests_this_run": 52,
+  "retry_count": 16,
+  "status": "in_progress",
+  "timestamp": "2026-10-11T12:53:35.497748+00:00",
+  "api_errors_distinct": [
+    "Malformed response: Explanation must be a non-empty string."
+  ],
+  "metrics": {
+    "evaluated_claims": 269,
+    "accuracy": 0.1896,
+    "macro_precision": 0.0632,
+    "macro_recall": 0.3333,
+    "macro_f1": 0.1062,
+    "per_class": {
+      "SUPPORTED": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "REFUTED": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "UNVERIFIABLE": {
+        "precision": 0.1896,
+        "recall": 1.0,
+        "f1": 0.3187
+      }
+    },
+    "confusion_matrix": {
+      "SUPPORTED": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 97
+      },
+      "REFUTED": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 121
+      },
+      "UNVERIFIABLE": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 51
+      }
+    },
+    "predicted_class_counts": {
+      "SUPPORTED": 0,
+      "REFUTED": 0,
+      "UNVERIFIABLE": 269
+    }
+  }
+}

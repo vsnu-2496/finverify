@@ -1,0 +1,140 @@
+{
+  "experiment_name": "evidence_grounded_vs_internal_knowledge",
+  "condition": "A_INTERNAL_KNOWLEDGE",
+  "run_mode": "DEMO_FALLBACK",
+  "prediction_mode": "DEMO_FALLBACK",
+  "model": "deterministic-demo-verifier",
+  "timestamp": "2026-10-15T06:23:44.681137+00:00",
+  "dataset": "finfact.json",
+  "random_seed": 42,
+  "number_of_claims": 75,
+  "claim_ids": [
+    "finfact_002715",
+    "finfact_000542",
+    "finfact_003326",
+    "finfact_000740",
+    "finfact_001155",
+    "finfact_000046",
+    "finfact_003202",
+    "finfact_002565",
+    "finfact_002294",
+    "finfact_001401",
+    "finfact_000879",
+    "finfact_001909",
+    "finfact_002572",
+    "finfact_001059",
+    "finfact_000628",
+    "finfact_000170",
+    "finfact_000938",
+    "finfact_001207",
+    "finfact_003025",
+    "finfact_001043",
+    "finfact_000091",
+    "finfact_000899",
+    "finfact_001084",
+    "finfact_003076",
+    "finfact_002689",
+    "finfact_001595",
+    "finfact_002230",
+    "finfact_002736",
+    "finfact_000987",
+    "finfact_000684",
+    "finfact_001575",
+    "finfact_001156",
+    "finfact_002415",
+    "finfact_001160",
+    "finfact_001867",
+    "finfact_001561",
+    "finfact_002115",
+    "finfact_002291",
+    "finfact_001164",
+    "finfact_003235",
+    "finfact_002584",
+    "finfact_000939",
+    "finfact_003244",
+    "finfact_001705",
+    "finfact_001345",
+    "finfact_002963",
+    "finfact_000447",
+    "finfact_001573",
+    "finfact_000320",
+    "finfact_000319",
+    "finfact_000632",
+    "finfact_001331",
+    "finfact_000309",
+    "finfact_000655",
+    "finfact_001082",
+    "finfact_001627",
+    "finfact_002560",
+    "finfact_002087",
+    "finfact_002645",
+    "finfact_001869",
+    "finfact_002367",
+    "finfact_001579",
+    "finfact_002340",
+    "finfact_000380",
+    "finfact_000493",
+    "finfact_001588",
+    "finfact_000604",
+    "finfact_001665",
+    "finfact_002017",
+    "finfact_001712",
+    "finfact_002121",
+    "finfact_000699",
+    "finfact_000810",
+    "finfact_000724",
+    "finfact_002820"
+  ],
+  "gold_class_counts": {
+    "SUPPORTED": 25,
+    "REFUTED": 25,
+    "UNVERIFIABLE": 25
+  },
+  "demonstration_note": "These demonstration results are produced by a deterministic fallback verifier because the Gemini API free-tier quota was exhausted. They are intended to validate the experimental software pipeline and visualization, not to represent measured LLM performance.",
+  "metrics": {
+    "evaluated_claims": 75,
+    "accuracy": 0.3467,
+    "macro_precision": 0.3548,
+    "macro_recall": 0.3467,
+    "macro_f1": 0.349,
+    "per_class": {
+      "SUPPORTED": {
+        "precision": 0.381,
+        "recall": 0.32,
+        "f1": 0.3478
+      },
+      "REFUTED": {
+        "precision": 0.4167,
+        "recall": 0.4,
+        "f1": 0.4082
+      },
+      "UNVERIFIABLE": {
+        "precision": 0.2667,
+        "recall": 0.32,
+        "f1": 0.2909
+      }
+    },
+    "confusion_matrix": {
+      "SUPPORTED": {
+        "SUPPORTED": 8,
+        "REFUTED": 4,
+        "UNVERIFIABLE": 13
+      },
+      "REFUTED": {
+        "SUPPORTED": 6,
+        "REFUTED": 10,
+        "UNVERIFIABLE": 9
+      },
+      "UNVERIFIABLE": {
+        "SUPPORTED": 7,
+        "REFUTED": 10,
+        "UNVERIFIABLE": 8
+      }
+    },
+    "predicted_class_counts": {
+      "SUPPORTED": 21,
+      "REFUTED": 24,
+      "UNVERIFIABLE": 30
+    }
+  }
+}

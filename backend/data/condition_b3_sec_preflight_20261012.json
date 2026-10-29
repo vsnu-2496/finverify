@@ -1,0 +1,148 @@
+{
+  "generated_at": "2026-10-12T09:05:20.380373+00:00",
+  "condition": "B3 SEC-only preflight",
+  "network_requests_made": false,
+  "reason": "SEC_USER_AGENT not configured; retrieval stopped at mandatory identity validation",
+  "claims": [
+    {
+      "claim_id": "finfact_000462",
+      "claim_date": "2021-02-10",
+      "claim_text": "Are Costco shutting down stores throughout the country?",
+      "claim_type": "corporate operations",
+      "entity": {
+        "name": "Costco Wholesale Corporation",
+        "ticker": "COST",
+        "cik": "0000909832"
+      },
+      "source_status": "error",
+      "evidence_count": 0,
+      "evidence": [],
+      "source_errors": [
+        {
+          "source": "SEC",
+          "status": "error",
+          "error": "SEC_USER_AGENT must identify the organization and include a real contact email."
+        }
+      ],
+      "hard_errors": [
+        {
+          "source": "SEC",
+          "status": "error",
+          "error": "SEC_USER_AGENT must identify the organization and include a real contact email."
+        }
+      ]
+    },
+    {
+      "claim_id": "finfact_000596",
+      "claim_date": "2008-10-02",
+      "claim_text": "Fannie Mae is loosening credit standards in order to assist in providing mortgage loans.",
+      "claim_type": "corporate operations",
+      "entity": {
+        "name": "Federal National Mortgage Association",
+        "ticker": "FNMA",
+        "cik": "0000310522"
+      },
+      "source_status": "error",
+      "evidence_count": 0,
+      "evidence": [],
+      "source_errors": [
+        {
+          "source": "SEC",
+          "status": "error",
+          "error": "SEC_USER_AGENT must identify the organization and include a real contact email."
+        }
+      ],
+      "hard_errors": [
+        {
+          "source": "SEC",
+          "status": "error",
+          "error": "SEC_USER_AGENT must identify the organization and include a real contact email."
+        }
+      ]
+    },
+    {
+      "claim_id": "finfact_000786",
+      "claim_date": "2016-10-23",
+      "claim_text": "Ford is moving all of their small-car production to Mexico.",
+      "claim_type": "corporate operations",
+      "entity": {
+        "name": "Ford Motor Co.",
+        "ticker": "F",
+        "cik": "0000037996"
+      },
+      "source_status": "error",
+      "evidence_count": 0,
+      "evidence": [],
+      "source_errors": [
+        {
+          "source": "SEC",
+          "status": "error",
+          "error": "SEC_USER_AGENT must identify the organization and include a real contact email."
+        }
+      ],
+      "hard_errors": [
+        {
+          "source": "SEC",
+          "status": "error",
+          "error": "SEC_USER_AGENT must identify the organization and include a real contact email."
+        }
+      ]
+    },
+    {
+      "claim_id": "finfact_001599",
+      "claim_date": "2021-06-22",
+      "claim_text": "Did American Airlines Receive Billions in Federal Aid Then Lay Off 30,000 Employees?",
+      "claim_type": "corporate operations",
+      "entity": {
+        "name": "American Airlines Group Inc.",
+        "ticker": "AAL",
+        "cik": "0000006201"
+      },
+      "source_status": "error",
+      "evidence_count": 0,
+      "evidence": [],
+      "source_errors": [
+        {
+          "source": "SEC",
+          "status": "error",
+          "error": "SEC_USER_AGENT must identify the organization and include a real contact email."
+        }
+      ],
+      "hard_errors": [
+        {
+          "source": "SEC",
+          "status": "error",
+          "error": "SEC_USER_AGENT must identify the organization and include a real contact email."
+        }
+      ]
+    },
+    {
+      "claim_id": "finfact_002061",
+      "claim_date": "2009-03-18",
+      "claim_text": "We had bipartisan legislation that got through the Senate that would have prevented bonuses like AIG's and then somehow mysteriously disappeared.",
+      "claim_type": "corporate operations",
+      "entity": {
+        "name": "American International Group, Inc.",
+        "ticker": "AIG",
+        "cik": "0000005272"
+      },
+      "source_status": "error",
+      "evidence_count": 0,
+      "evidence": [],
+      "source_errors": [
+        {
+          "source": "SEC",
+          "status": "error",
+          "error": "SEC_USER_AGENT must identify the organization and include a real contact email."
+        }
+      ],
+      "hard_errors": [
+        {
+          "source": "SEC",
+          "status": "error",
+          "error": "SEC_USER_AGENT must identify the organization and include a real contact email."
+        }
+      ]
+    }
+  ]
+}

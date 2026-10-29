@@ -1,0 +1,72 @@
+{
+  "condition": "B3",
+  "sources": [
+    "SEC",
+    "Alpha Vantage"
+  ],
+  "provider": "ollama",
+  "model": "qwen2.5:3b",
+  "total_claims": 300,
+  "successful": 6,
+  "not_applicable": 294,
+  "failed": 0,
+  "remaining": 0,
+  "requests_this_run": 6,
+  "retry_count": 0,
+  "status": "complete",
+  "timestamp": "2026-10-19T17:28:44.695059+00:00",
+  "api_errors_distinct": [],
+  "retrieval_coverage": {
+    "total_claims": 300,
+    "applicable_claims": 6,
+    "evidence_retrieved": 6,
+    "not_applicable": 294,
+    "retrieval_failures": 0
+  },
+  "metrics": {
+    "evaluated_claims": 6,
+    "accuracy": 0.3333,
+    "macro_precision": 0.1111,
+    "macro_recall": 0.3333,
+    "macro_f1": 0.1667,
+    "per_class": {
+      "SUPPORTED": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "REFUTED": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "UNVERIFIABLE": {
+        "precision": 0.3333,
+        "recall": 1.0,
+        "f1": 0.5
+      }
+    },
+    "confusion_matrix": {
+      "SUPPORTED": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 2
+      },
+      "REFUTED": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 2
+      },
+      "UNVERIFIABLE": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 2
+      }
+    },
+    "predicted_class_counts": {
+      "SUPPORTED": 0,
+      "REFUTED": 0,
+      "UNVERIFIABLE": 6
+    }
+  }
+}

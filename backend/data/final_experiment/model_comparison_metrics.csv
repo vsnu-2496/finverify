@@ -1,0 +1,5 @@
+metric,model_a_qwen25_3b,model_b_mpnet_classifier,absolute_delta
+accuracy,0.1900,0.5700,+0.3800
+macro_precision,0.3116,0.5467,+0.2351
+macro_recall,0.3409,0.5532,+0.2123
+macro_f1,0.1186,0.5455,+0.4269

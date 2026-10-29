@@ -1,0 +1,28 @@
+{
+  "condition": "B2",
+  "sources": [
+    "Alpha Vantage"
+  ],
+  "provider": "ollama",
+  "model": "qwen2.5:3b",
+  "total_claims": 300,
+  "successful": 0,
+  "not_applicable": 300,
+  "failed": 0,
+  "remaining": 0,
+  "requests_this_run": 0,
+  "retry_count": 0,
+  "status": "complete",
+  "timestamp": "2026-10-19T16:12:57.842483+00:00",
+  "api_errors_distinct": [],
+  "retrieval_coverage": {
+    "total_claims": 300,
+    "applicable_claims": 0,
+    "evidence_retrieved": 0,
+    "not_applicable": 300,
+    "retrieval_failures": 0
+  },
+  "metrics": {
+    "evaluated_claims": 0
+  }
+}

@@ -1,0 +1,3222 @@
+[
+  {
+    "claim_id": "finfact_003025",
+    "claim_text": "We cut our deficits by more than half.",
+    "claim_date": "09/05/2014",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001446",
+    "claim_text": "Have 3D-printed rhinoceros horns been created in order to prevent poaching?",
+    "claim_date": "07/11/2016",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000458",
+    "claim_text": "Gwyneth Paltrow Tried to Survive a Week on Food Stamps and She Died",
+    "claim_date": "06/08/2015",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002584",
+    "claim_text": "No, This Illinois High School Isn't Set To Implement Race-Based Grading",
+    "claim_date": "06/01/2022",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001663",
+    "claim_text": "We're within 600 miles of 60 percent of America. We're in a perfect location.",
+    "claim_date": "05/13/2011",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001411",
+    "claim_text": "Did 'Hugh Mann' Write an Article Debunking Alien Theories?",
+    "claim_date": "12/15/2020",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003240",
+    "claim_text": "Did Amy Coney Barrett Reverse a Decision to Make a Jail Guard Pay Damages for Raping a Female Inmate?",
+    "claim_date": "10/19/2020",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000164",
+    "claim_text": "L'Oreal Beagle Testing",
+    "claim_date": "05/26/2016",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000305",
+    "claim_text": "IRS Form Scam",
+    "claim_date": "05/12/2002",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001878",
+    "claim_text": "Says a proposed $1.05 billion Austin school district bond proposition will require no tax rate increase.",
+    "claim_date": "10/12/2017",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000783",
+    "claim_text": "Will the name of Trump be displayed on COVID-19 stimulus checks?",
+    "claim_date": "04/15/2020",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002403",
+    "claim_text": "Russian forces will be responsible for ensuring the safety at events held in the United States.",
+    "claim_date": "07/02/2013",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001482",
+    "claim_text": "Are Lukoil Gas Stations 'Russian Owned'?",
+    "claim_date": "03/03/2022",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001056",
+    "claim_text": "Did Nostradamus prophesy that the world would descend into chaos following the reign of a weak leader?",
+    "claim_date": "01/19/2021",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002192",
+    "claim_text": "Wisconsin state and local government workers pay $500, $600 or in some cases, $1,000 per year in union dues.",
+    "claim_date": "03/08/2011",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003083",
+    "claim_text": "In Wisconsin, unions can essentially give unlimited contributions to political parties, but business can't give any.",
+    "claim_date": "11/21/2014",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002722",
+    "claim_text": "Most folks wages havent gone up in over a decade.",
+    "claim_date": "02/23/2014",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002158",
+    "claim_text": "Did Trump Say This About His Plans for a Second Term?",
+    "claim_date": "08/31/2020",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002787",
+    "claim_text": "Was Barack Obama a Foreign College Student?",
+    "claim_date": "05/08/2009",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001155",
+    "claim_text": "The average student loan debt in Texas is over $22,000...the cost of an average size pickup truck. But unlike car owners, students are not allowed to refinance their loans at lower rates.",
+    "claim_date": "06/09/2014",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000990",
+    "claim_text": "Did Facebook Executive Jeff Rothschild Say 'We Need a Third World War'?",
+    "claim_date": "05/18/2018",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002933",
+    "claim_text": "Rep. Clyde, Officer Fanone, and the Handshake That Wasn't",
+    "claim_date": "06/18/2021",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002103",
+    "claim_text": "President Obama and the Ice Bucket Challenge",
+    "claim_date": "08/19/2014",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002386",
+    "claim_text": "The top one-tenth of 1 percent of Americans own almost as much wealth as the bottom 90 percent.",
+    "claim_date": "07/29/2015",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000016",
+    "claim_text": "Has there been a suggestion that H.R. 2847 contains a provision indicating the downfall of the U.S. dollar on July 1, 2014?",
+    "claim_date": "04/14/2014",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002314",
+    "claim_text": "Says his campaign has released his past tax returns.",
+    "claim_date": "04/06/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003167",
+    "claim_text": "Legend: Drunk Groom Accidentally Returns Home Alone from His Honeymoon",
+    "claim_date": "08/17/1998",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001234",
+    "claim_text": "Did Trump Propose SSI Changes That Could End Disability Benefits for Thousands?",
+    "claim_date": "12/18/2019",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000936",
+    "claim_text": "Was Fauci portrayed as the antagonist in 'Dallas Buyers Club'?",
+    "claim_date": "12/17/2021",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000310",
+    "claim_text": "Is This Viral List of U.S. Government Emergency Aid Sent to Puerto Rico Accurate?",
+    "claim_date": "10/02/2017",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003344",
+    "claim_text": "Starbucks and Monsanto are taking legal action against Vermont.",
+    "claim_date": "11/04/2014",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002128",
+    "claim_text": "Ive got the spending down, Ive got the debt down a little bit, Ive got the reserves up.",
+    "claim_date": "08/28/2013",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001828",
+    "claim_text": "Did Daughter of WEF's Klaus Schwab Say 'Permanent Climate Lockdowns' Are 'Coming'?",
+    "claim_date": "07/31/2023",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002503",
+    "claim_text": "Were 9 Parents Deported Under Trump Just Reunited with Their Children?",
+    "claim_date": "02/03/2021",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001112",
+    "claim_text": "Was Donald Trump Fined for 'Stealing' Money Intended for Veterans?",
+    "claim_date": "11/14/2019",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002205",
+    "claim_text": "Transcript for Hillary Clinton's Speech to Goldman Sachs Leaked?",
+    "claim_date": "02/28/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002597",
+    "claim_text": "Did a Church Close Its Food Bank 'Because It Attracts Poor People'?",
+    "claim_date": "10/23/2020",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001662",
+    "claim_text": "Dell Hospital Facebook Appeal",
+    "claim_date": "05/11/2015",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001954",
+    "claim_text": "41 cents out of every dollar (the U.S. spends) is borrowed from places like China.",
+    "claim_date": "11/16/2011",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001258",
+    "claim_text": "Danny Trejo Death Hoax",
+    "claim_date": "09/09/2018",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000197",
+    "claim_text": "Was it the case that Gerda Puridle, a prostitute, created artificial eyelashes for the purpose of safeguarding her eyes?",
+    "claim_date": "02/03/2021",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000247",
+    "claim_text": "Prehistoric Shark Found in Pakistan",
+    "claim_date": "09/25/2014",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003331",
+    "claim_text": "Melania Trump Criticizes Charlottesville Violence, Plagiarizes Michelle Obama?",
+    "claim_date": "08/13/2017",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002424",
+    "claim_text": "Is Starbucks Opening a Roasting Facility in China?",
+    "claim_date": "04/30/2020",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002873",
+    "claim_text": "Jesus Statue 'Miraculously' Opens Eyes",
+    "claim_date": "08/10/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002699",
+    "claim_text": "In the last two years, super PACs raised more than $180 million -- with roughly half of it coming from fewer than 200 super-rich people and roughly 20 percent from corporations.",
+    "claim_date": "03/13/2012",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001544",
+    "claim_text": "Was the Mayor of Minneapolis's decision to cancel the 4th of July fireworks while permitting a Muslim animal sacrifice at Vikings Stadium questioned?",
+    "claim_date": "08/23/2018",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001985",
+    "claim_text": "Petition to Save the NEA",
+    "claim_date": "01/25/2001",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003122",
+    "claim_text": "Small businesses create 70 percent of the jobs in America.",
+    "claim_date": "12/30/2011",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002516",
+    "claim_text": "Did Kroger Supermarkets Overcharge Customers Due to a Coin Shortage?",
+    "claim_date": "07/23/2020",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001076",
+    "claim_text": "Says a portfolio managed by the Texas General Land Office earned 22 percent last year while the states emergency reserve account experienced a 1 percent gain.",
+    "claim_date": "08/28/2012",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000656",
+    "claim_text": "Fascism, Corporations, and Merriam-Webster",
+    "claim_date": "04/27/2018",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002535",
+    "claim_text": "Might a Legal Matter Currently under Consideration by the Highest Court Lead to a More Potent Presidential Clemency?",
+    "claim_date": "10/03/2018",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003290",
+    "claim_text": "Debunking Trump Tweets: Popular Vote Totals Indicative of 'Rigged Election'?",
+    "claim_date": "12/16/2020",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002292",
+    "claim_text": "Cecilia Zhang",
+    "claim_date": "11/10/2003",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000631",
+    "claim_text": "Indeed, the campaign slogan of Kandiss Taylor is 'JESUS, GUNS, AND BABIES'.",
+    "claim_date": "02/17/2022",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002183",
+    "claim_text": "Facebook Scammers Seize On Gas Monkey Garage Giveaway",
+    "claim_date": "05/24/2022",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001033",
+    "claim_text": "Did Laphonza Butler, Feinstein's Senate Replacement, Work for Uber and Airbnb?",
+    "claim_date": "10/02/2023",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001063",
+    "claim_text": "Did Biden promise to get rid of the 'Stepped-Up' Basis for Capital Gains Tax?",
+    "claim_date": "02/03/2021",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000442",
+    "claim_text": "Has the owner of Progressive Insurance contributed millions of dollars to the ACLU?",
+    "claim_date": "09/08/2010",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002025",
+    "claim_text": "Does Search Engine Ecosia Use Profits to Plant Trees?",
+    "claim_date": "08/27/2019",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000830",
+    "claim_text": "Did Jared Kushner remove tweets following the emergence of news about Trump's taxes?",
+    "claim_date": "09/28/2020",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001436",
+    "claim_text": "Is Sheryl Underwood exiting 'The Talk' following her endorsement of weight loss gummies which has angered CBS?",
+    "claim_date": "11/21/2023",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003320",
+    "claim_text": "$75 Bed Bath & Beyond Coupon?",
+    "claim_date": "04/28/2017",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000307",
+    "claim_text": "Did Gravity Payments CEO Dan Price Have to Rent His House to Make Ends Meet?",
+    "claim_date": "01/09/2017",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001368",
+    "claim_text": "Cicero's thoughts on fiscal management by the government",
+    "claim_date": "05/08/2013",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002219",
+    "claim_text": "No, the Associated Press did not publish a report stating that Obama was born in Kenya.",
+    "claim_date": "10/19/2009",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003359",
+    "claim_text": "There is a rumor circulating that Osama bin Laden is the owner of Snapple.",
+    "claim_date": "10/18/2001",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001729",
+    "claim_text": "Did Russian State TV Thank GOP Lawmakers for Lifting Sanctions?",
+    "claim_date": "02/08/2019",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000972",
+    "claim_text": "Did Obama Apologize for Dropping the Atomic Bomb on Japan?",
+    "claim_date": "05/29/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000126",
+    "claim_text": "Over 80 percent of our trade deficit today is with countries that are not trade agreement partners, that are not level playing fields for the United States.",
+    "claim_date": "08/19/2010",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002129",
+    "claim_text": "Ronald Reagan raised taxes in 1982, 1984, 1985, 1986 and 1987.",
+    "claim_date": "06/25/2012",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000782",
+    "claim_text": "Will Trump's name be included on COVID-19 stimulus checks?",
+    "claim_date": "04/15/2020",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002580",
+    "claim_text": "Mother Arrested for Tattooing Baby",
+    "claim_date": "01/22/2012",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001993",
+    "claim_text": "FDIC: Notice of Bank Failure",
+    "claim_date": "10/28/2009",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003002",
+    "claim_text": "Is the Levi's Logo Racist?",
+    "claim_date": "02/10/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002423",
+    "claim_text": "At the beginning of the last decade ... America had a budget surplus of over $200 billion. By the time I took office, we had a one-year deficit of over $1 trillion and projected deficits of $8 trillion over the next decade.",
+    "claim_date": "01/27/2010",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000798",
+    "claim_text": "Were Gold-Tongued Mummies Discovered in Egypt?",
+    "claim_date": "02/08/2021",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000879",
+    "claim_text": "Who was the individual known as Michael Myers?",
+    "claim_date": "10/26/2015",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000579",
+    "claim_text": "\"Is Marlboro distributing free cartons of cigarettes on Facebook?\"",
+    "claim_date": "10/23/2015",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000885",
+    "claim_text": "Fraudulent ALDI Coupons Circulating on Facebook",
+    "claim_date": "12/19/2015",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003134",
+    "claim_text": "Is Martial Law 'Imminent' Before Biden's Inauguration?",
+    "claim_date": "01/13/2021",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001542",
+    "claim_text": "Did the Mayor of Minneapolis Cancel 4th of July Fireworks But Allow a Muslim Animal Sacrifice at Vikings Stadium?",
+    "claim_date": "08/23/2018",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000015",
+    "claim_text": "Corporate profits are up, CEO pay is up, but average wages of Americans are flat.",
+    "claim_date": "08/01/2007",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002015",
+    "claim_text": "A tax on soda and juice drinks would disproportionately increase taxes on low-income families in Philadelphia.",
+    "claim_date": "04/25/2016",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001677",
+    "claim_text": "Was Jacob Walter Anderson Fined $400 for Repeatedly Raping a Baylor Student?",
+    "claim_date": "02/15/2019",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001095",
+    "claim_text": "Was a weight loss of 37 pounds achieved by a Cornell student through the use of apple cider vinegar and supplements?",
+    "claim_date": "04/27/2017",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001913",
+    "claim_text": "Has the CDC claimed that anyone entering a hospital is identified as a COVID-19 case?",
+    "claim_date": "12/04/2020",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000802",
+    "claim_text": "75 percent of the jobs created in the state of Ohio are created in small business. They are not created by huge corporations and those who are very wealthy.",
+    "claim_date": "02/21/2011",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002164",
+    "claim_text": "Vern Buchanan. His old business was caught illegally funneling over $60,000 in campaign donations to Buchanan to influence his election.",
+    "claim_date": "06/24/2011",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000707",
+    "claim_text": "Did Jamaica Ban K-Pop?",
+    "claim_date": "06/09/2021",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001550",
+    "claim_text": "Don't Donate to Ukraine Through This Facebook Crypto Scam",
+    "claim_date": "03/22/2022",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000927",
+    "claim_text": "Did Planned Parenthood Donate $30 Million to Democrats to Influence the Midterm Elections?",
+    "claim_date": "04/23/2018",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002502",
+    "claim_text": "Hooters Bans Motorcycle Clubs from All Restaurants",
+    "claim_date": "05/27/2015",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001050",
+    "claim_text": "Over the past five years the federal government has paid out $601 million in retirement and disability benefits to deceased former federal employees.",
+    "claim_date": "05/23/2012",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001901",
+    "claim_text": "Panty Raider",
+    "claim_date": "05/10/2000",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001399",
+    "claim_text": "Was Brooke Shields Photographed Nude at 10 Years Old?",
+    "claim_date": "03/12/2019",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001111",
+    "claim_text": "Says the Multnomah County Library system is the second busiest in the nation.",
+    "claim_date": "11/16/2012",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002387",
+    "claim_text": "Is This a Picture of Christine Blasey Ford in 1982?",
+    "claim_date": "10/05/2018",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002925",
+    "claim_text": "Is the White House Gift Shop Selling Coronavirus Commemorative Coins?",
+    "claim_date": "04/30/2020",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002653",
+    "claim_text": "Does an 'Increase' in Arctic and Greenland Ice Cast Doubt on the Reality of Global Warming?",
+    "claim_date": "10/04/2017",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000762",
+    "claim_text": "Home Depot Facebook Coupon Scam",
+    "claim_date": "05/08/2015",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001938",
+    "claim_text": "Californias prisons budgetin 1970 was about 3 percent of the general fund. Now, its 8.9 percent, about $12 billion.",
+    "claim_date": "01/25/2018",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002210",
+    "claim_text": "An Open Letter to President Obama - Lou Pritchett",
+    "claim_date": "05/31/2009",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001032",
+    "claim_text": "No, This Wind Turbine Didn't Melt in Texas Heat",
+    "claim_date": "06/17/2021",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000419",
+    "claim_text": "Is Elon Musk in possession of a Bachelor's degree in Physics?",
+    "claim_date": "12/21/2022",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002045",
+    "claim_text": "Alaskans' Opinions on Sarah Palin",
+    "claim_date": "09/07/2008",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000697",
+    "claim_text": "Drilling Rig Tornado",
+    "claim_date": "04/18/2006",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000648",
+    "claim_text": "Did Trump Inherit a 'Depleted' Military From Obama?",
+    "claim_date": "09/26/2020",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001384",
+    "claim_text": "Cook County Correctional Center",
+    "claim_date": "07/13/2008",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002241",
+    "claim_text": "Is Facebook Deleting an Image of a Cross Carved to Honor Fallen Firefighters?",
+    "claim_date": "11/15/2018",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001691",
+    "claim_text": "Sen. Rubios (tax plan) would cut taxes for households making around $3 million a year by almost $240,000, which is way more than three times the earnings of a typical family.",
+    "claim_date": "07/16/2015",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000655",
+    "claim_text": "Did a 'Hopi Indian Chief' Write a Lockdown-Era Message About 'Resistance'?",
+    "claim_date": "11/04/2021",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001511",
+    "claim_text": "Were Schumer and Pelosi involved in assisting Obama in providing $150 billion to a nation regarded as an adversary of the United States?",
+    "claim_date": "01/08/2019",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001456",
+    "claim_text": "Is Pelosi seeking to include 'assured minimum incomes' for 'undocumented immigrants' in the upcoming COVID-19 stimulus package?",
+    "claim_date": "05/11/2020",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003018",
+    "claim_text": "Trade deals threaten Indias role as the pharmacy of the developing world for new HIV medicines.",
+    "claim_date": "08/03/2016",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000986",
+    "claim_text": "No, Sean Connery's Net Worth Didn't Leave Family 'in Tears'",
+    "claim_date": "12/03/2020",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000539",
+    "claim_text": "Something of Historic Proportions Is Happening",
+    "claim_date": "02/24/2009",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002798",
+    "claim_text": "Clinton Disarmed Soldiers on Military Bases?",
+    "claim_date": "09/19/2013",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002221",
+    "claim_text": "Did Barack Obama Say 'The Country Owes Me a Debt of Gratitude'?",
+    "claim_date": "07/19/2017",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000778",
+    "claim_text": "Political donations from the DeVos family",
+    "claim_date": "02/08/2017",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000566",
+    "claim_text": "AIG Bailout",
+    "claim_date": "02/08/2009",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001598",
+    "claim_text": "For the first time in nearly two decades, we produce more oil here in the United States than we buy from the rest of the world.",
+    "claim_date": "01/17/2014",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002073",
+    "claim_text": "Says with the ongoing economic downturn, child abuse is on the rise.",
+    "claim_date": "09/28/2010",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000612",
+    "claim_text": "Close Encounters of the Blurred Kind",
+    "claim_date": "11/09/2015",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001686",
+    "claim_text": "Was a Chinese Company Set to Buy General Electric in 2021?",
+    "claim_date": "01/05/2021",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002728",
+    "claim_text": "Say What, Barack?",
+    "claim_date": "03/03/2008",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000421",
+    "claim_text": "What a Great Idea - U.S. Presidency Outsourced to India",
+    "claim_date": "07/23/2009",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003170",
+    "claim_text": "National Prayer Breakfast Remarks: President Trump vs. President Obama",
+    "claim_date": "02/06/2017",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000561",
+    "claim_text": "Koch Pays George Zimmerman's Legal Fees?",
+    "claim_date": "04/19/2012",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000863",
+    "claim_text": "Detailed Social Housing Initiative",
+    "claim_date": "07/28/2011",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001140",
+    "claim_text": "Vanishing dependents",
+    "claim_date": "03/29/2006",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002707",
+    "claim_text": "Last year, we had zero percent growth in GDP in Virginia ...The only states that did worse than us were Alaska and Mississippi.",
+    "claim_date": "08/25/2015",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003256",
+    "claim_text": "U.S. unemployment among people ages 16 to 24 is 18.4 percent, which is a 60-year high.",
+    "claim_date": "10/10/2011",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000229",
+    "claim_text": "Is This Katie McCormick's Gravestone from the 1870s?",
+    "claim_date": "05/21/2019",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002593",
+    "claim_text": "Tagg Romney Owns Ohio Voting Machines?",
+    "claim_date": "10/23/2012",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002085",
+    "claim_text": "Is This the New USPS Mail Truck?",
+    "claim_date": "02/24/2021",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002256",
+    "claim_text": "Says that over the last decade, the state's population grew three times faster than the Texas state tax system.",
+    "claim_date": "02/02/2011",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003075",
+    "claim_text": "Twenty million Americans are out of work.",
+    "claim_date": "03/09/2016",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000296",
+    "claim_text": "Could voting in North Dakota lead to the forfeiture of hunting permits in other states?",
+    "claim_date": "11/02/2018",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000096",
+    "claim_text": "Are all Toys R Us stores shutting down and refusing to honor gift cards?",
+    "claim_date": "03/14/2018",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003116",
+    "claim_text": "Kroger Free Coupon/Gift Card Scam",
+    "claim_date": "10/14/2014",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003076",
+    "claim_text": "Clinton said great things about NAFTA until she started running for president.",
+    "claim_date": "02/25/2008",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002004",
+    "claim_text": "Thirty years ago, the United States ranked sixth among advanced economies in the share of women in the workforce. You know where we are today? Twenty-three.",
+    "claim_date": "10/08/2021",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001835",
+    "claim_text": "Was Pfizer COVID-19 Vaccine Development Funded by Trump Administration?",
+    "claim_date": "11/10/2020",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001086",
+    "claim_text": "Was the Ohio man who labeled COVID-19 as a 'Political Ploy' the one who perished from the illness?",
+    "claim_date": "04/22/2020",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000914",
+    "claim_text": "Was it the case that the Grateful Dead provided financial support to Lithuania's Olympic basketball team?",
+    "claim_date": "07/07/2021",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000446",
+    "claim_text": "Dog Years vs. Human Years",
+    "claim_date": "05/07/2002",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001655",
+    "claim_text": "No, the Make-A-Wish Foundation Isn't Denying Wishes to Unvaccinated Children",
+    "claim_date": "08/31/2021",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002677",
+    "claim_text": "John Lewis managed to evade paying property taxes on his Washington, D.C. townhouse.",
+    "claim_date": "01/19/2017",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002143",
+    "claim_text": "The Minnesota Vikings have opened their stadium to provide shelter for homeless individuals.",
+    "claim_date": "12/19/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002987",
+    "claim_text": "Robbers Throwing Eggs at Cars",
+    "claim_date": "06/17/2015",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000050",
+    "claim_text": "Do these houses belong to John Kerry?",
+    "claim_date": "04/01/2004",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000205",
+    "claim_text": "Federal authorities have granted China the power of eminent domain.",
+    "claim_date": "03/02/2009",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000108",
+    "claim_text": "Daily Snopes",
+    "claim_date": "10/14/2015",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000776",
+    "claim_text": "Did Delta Air Lines incentivize employees to purchase video game consoles as an alternative to participating in a union?",
+    "claim_date": "05/10/2019",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003054",
+    "claim_text": "Are These Photos of Cicada Shell Art Real?",
+    "claim_date": "05/24/2021",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001182",
+    "claim_text": "Is the CDC categorized as a 'Private Nonprofit Corporation'?",
+    "claim_date": "05/05/2021",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000130",
+    "claim_text": "Were parents in Missouri schools mandated to sign COVID-19 liability waivers?",
+    "claim_date": "07/16/2020",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003303",
+    "claim_text": "The unemployment rate for folks who've never gone to college is almost double what it is for those who have.",
+    "claim_date": "08/17/2010",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000797",
+    "claim_text": "Did Congress Designate Confederate Soldiers as United States Veterans?",
+    "claim_date": "08/24/2017",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002849",
+    "claim_text": "Says the Central Health district's tax rate is the lowest among the largest counties in Texas, and it will continue to be the lowest if voters approve a proposed tax increase.",
+    "claim_date": "10/26/2012",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000001",
+    "claim_text": "Did Biden Call for an 'End to Shareholder Capitalism'?",
+    "claim_date": "08/06/2020",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001754",
+    "claim_text": "Did a Shark Attack on a Missouri Highway?",
+    "claim_date": "12/30/2015",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001129",
+    "claim_text": "Free Glasses for Kids at Target",
+    "claim_date": "04/08/2009",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001999",
+    "claim_text": "Marine Corps' Pearl Harbor Memorial Flags Removed at President Obama's Request",
+    "claim_date": "05/02/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001021",
+    "claim_text": "Do Seniors on Social Security Have to Pay for Medicare While 'Illegal Immigrants' Get It Free?",
+    "claim_date": "06/19/2019",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000095",
+    "claim_text": "Bernie Sanders Marched with MLK at Selma?",
+    "claim_date": "01/21/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002527",
+    "claim_text": "FBI vs. Facebook Virus Lure",
+    "claim_date": "08/04/2008",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000005",
+    "claim_text": "Did 50,000 'Freedom Convoy' Trucks Set Guinness World Record?",
+    "claim_date": "01/27/2022",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000291",
+    "claim_text": "Has Rep. Joe Kennedy Received $348,000 in Donations from the Pharmaceutical Industry?",
+    "claim_date": "02/02/2018",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001763",
+    "claim_text": "Is This Email About a Google Plus Settlement Real?",
+    "claim_date": "08/07/2020",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001244",
+    "claim_text": "Did Elon Musk Create CBD Gummies that 'Reverse Dementia'?",
+    "claim_date": "05/18/2023",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000527",
+    "claim_text": "Is there an anticipated asteroid impact on Earth during the Christmas period?",
+    "claim_date": "11/11/2019",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000469",
+    "claim_text": "Cheryl Mills Called Benghazi Dead 'Idiot Soldiers' in Leaked E-Mail",
+    "claim_date": "10/24/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003101",
+    "claim_text": "Did Sex Traffickers in Florida Trick Motorists By Lying in the Road?",
+    "claim_date": "12/31/2019",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000978",
+    "claim_text": "Accused Cascade Mall Shooter Arcan Cetin Voted as a Non-Citizen?",
+    "claim_date": "09/29/2016",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002796",
+    "claim_text": "Donald Trump's Outsized Flagpole",
+    "claim_date": "09/24/2015",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000176",
+    "claim_text": "Our economy (in Louisiana) has grown 50 percent faster than the national GDP, even since the national recession.",
+    "claim_date": "02/27/2014",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001014",
+    "claim_text": "Says Trump administration is raiding moneyfrom military service member pensions to pay for the border wall.",
+    "claim_date": "03/28/2019",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003099",
+    "claim_text": "Cheez-It Crackers and TBHQ",
+    "claim_date": "08/25/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000953",
+    "claim_text": "Is Simon Cowell Leaving 'America's Got Talent'?",
+    "claim_date": "06/26/2023",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002433",
+    "claim_text": "The Last of the Kennedy Dynasty",
+    "claim_date": "02/23/2009",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001486",
+    "claim_text": "When John Kasich became governor of Ohio, there was an $8 billion budget deficit and now theres a $2 billion surplus.",
+    "claim_date": "03/08/2016",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002308",
+    "claim_text": "Is Macaulay Quote About 'Dominating' India with English Culture Real?",
+    "claim_date": "10/11/2022",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000838",
+    "claim_text": "Was it Donald Trump who ferried stranded troops using his personal aircraft?",
+    "claim_date": "10/22/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001758",
+    "claim_text": "Is This a Line of Customers Outside First Republic Bank in Late April 2023?",
+    "claim_date": "05/01/2023",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001862",
+    "claim_text": "Says black Americans have 10 times less wealth than white Americans.",
+    "claim_date": "08/23/2018",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000611",
+    "claim_text": "Of the 14 wealthy OECD countries with a wealth tax in 1996, 10 have since then abandoned it.",
+    "claim_date": "05/10/2019",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000133",
+    "claim_text": "Fired for Being Gay",
+    "claim_date": "04/10/2013",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000085",
+    "claim_text": "The New American Way of Life",
+    "claim_date": "09/01/2015",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001226",
+    "claim_text": "Did Bannon Say He'd Put Fauci's and FBI Director Wray's 'Heads on Pikes'?",
+    "claim_date": "11/06/2020",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001761",
+    "claim_text": "Manufacturer Hawker Beechcraft",
+    "claim_date": "01/02/2012",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001205",
+    "claim_text": "Is the performance of the Dow Jones worse during Republican presidencies?",
+    "claim_date": "02/08/2018",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000737",
+    "claim_text": "We're up 123,000 jobs over the last year and three-quarters. We're actually, according to the Bureau of Labor statistics, down 500 ... auto jobs in Ohio.",
+    "claim_date": "10/05/2012",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000722",
+    "claim_text": "Paraphrase: Communication from the Internal Revenue Service (IRS)",
+    "claim_date": "11/28/2006",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002454",
+    "claim_text": "[E]xcise tax increases drive commerce across state lines.",
+    "claim_date": "12/21/2011",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002258",
+    "claim_text": "Sober.C Virus",
+    "claim_date": "01/07/2004",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000172",
+    "claim_text": "Did 'Total Collapse' in Wind and Solar Energy Leave Germans in Need of Coal-Fired Power?",
+    "claim_date": "02/19/2021",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001483",
+    "claim_text": "Do Lukoil Gas Stations belong to a Russian owner?",
+    "claim_date": "03/03/2022",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000353",
+    "claim_text": "Says Mitt Romneys plan rolls back regulations on banks.",
+    "claim_date": "10/31/2012",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001066",
+    "claim_text": "Does This Meme Demonstrate Racial Bias in Tax-Evasion Prosecutions?",
+    "claim_date": "03/15/2019",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001157",
+    "claim_text": "'Sam's Club Shopper Survey' Email Scam Promises Gift Card or 'Reward'",
+    "claim_date": "05/25/2023",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002999",
+    "claim_text": "Dash Scam",
+    "claim_date": "08/03/2015",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003109",
+    "claim_text": "The national economic recovery has led to higher than expected tax revenues and projected budget surpluses in nearly every state in the nation, including Wisconsin.",
+    "claim_date": "01/27/2014",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001979",
+    "claim_text": "Crazed Woman Cuts Off Man's Penis for Not Making Eye Contact During Sex",
+    "claim_date": "09/07/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003105",
+    "claim_text": "I was speaking out on pension reform almost 17 years ago.",
+    "claim_date": "10/20/2014",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001809",
+    "claim_text": "Says Mike Enzi is getting about 84 percent of his campaign funds from Washington-based PACs. That's more than any senator of either party.",
+    "claim_date": "10/30/2013",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003300",
+    "claim_text": "Did Pat Robertson Say 'Staring' at Melania Trump 'Can Heal Gays'?",
+    "claim_date": "02/21/2017",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003103",
+    "claim_text": "Wal-Mart American Flags",
+    "claim_date": "01/29/2002",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000019",
+    "claim_text": "Is Biden implying that there might be the biggest tax hike ever in the United States?",
+    "claim_date": "10/15/2020",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002625",
+    "claim_text": "Does the American Rescue Plan consist of just 9% of COVID-19 related content?",
+    "claim_date": "03/12/2021",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001131",
+    "claim_text": "Did a State Democratic Party Logo Once Feature the Slogan 'White Supremacy'?",
+    "claim_date": "09/25/2017",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002649",
+    "claim_text": "Under Republicans, recessions happen four times as frequently as under Democrats.",
+    "claim_date": "09/22/2015",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001135",
+    "claim_text": "Most people in New Hampshire want to raise the minimum wage. (State Rep. Marilinda) Garcia opposes it.",
+    "claim_date": "10/03/2014",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002382",
+    "claim_text": "Scam for Target and Walmart Refrigerators and Ovens Hits Facebook",
+    "claim_date": "08/16/2022",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001710",
+    "claim_text": "Has Sberbank in Russia restricted cash withdrawals to $20?",
+    "claim_date": "02/28/2022",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002362",
+    "claim_text": "If Texas were a country our economy would rank # 10...in the WORLD.",
+    "claim_date": "09/15/2016",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001688",
+    "claim_text": "Hillary Clinton to Be Indicted on Federal Racketeering Charges",
+    "claim_date": "05/30/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002904",
+    "claim_text": "Obama Is Changing the Face of America",
+    "claim_date": "07/18/2010",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002466",
+    "claim_text": "Did most of the new jobs in February 2021 consist of waiters and bartenders?",
+    "claim_date": "03/05/2021",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000287",
+    "claim_text": "Can You Exchange Used Candles at Bath & Body Works?",
+    "claim_date": "09/22/2021",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000159",
+    "claim_text": "A voucher school that closed after 9 days this year collected $5.4 million in taxpayer subsidies since first opening.",
+    "claim_date": "09/25/2015",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000787",
+    "claim_text": "Everything Donald Trump Has Accomplished in Just Four Months?",
+    "claim_date": "05/24/2017",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000243",
+    "claim_text": "Alka-Seltzer Marketing",
+    "claim_date": "12/30/2002",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001928",
+    "claim_text": "Papa John's Won't Share 'Excessive Profits' with Employees?",
+    "claim_date": "02/18/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000712",
+    "claim_text": "Was Fox News talking about the 'War on Christmas' while other networks focused on Michael Cohen's guilty pleas?",
+    "claim_date": "08/22/2018",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003061",
+    "claim_text": "California taxes are among the highest in the nation.",
+    "claim_date": "07/11/2017",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000867",
+    "claim_text": "Could this image be depicting the Bitterroot Forest Fire?",
+    "claim_date": "08/31/2003",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001765",
+    "claim_text": "After shedding jobs for more than 10 years, our manufacturers have added about 500,000 jobs over the past three.",
+    "claim_date": "02/12/2013",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001719",
+    "claim_text": "7 out of 10 Oregon families living in poverty have at least one parent who works.",
+    "claim_date": "09/11/2013",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003114",
+    "claim_text": "RIPTA has really some of the fullest buses for its transit agency size around the country.",
+    "claim_date": "06/09/2013",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001373",
+    "claim_text": "Southwest Airlines Las Vegas Ticket Giveaway Fraudulent Scheme",
+    "claim_date": "02/06/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002804",
+    "claim_text": "Did Hitler Say, 'To Conquer a Nation First Replace Science with Christianity'?",
+    "claim_date": "05/21/2023",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000339",
+    "claim_text": "Says Ohio law gives tax breaks to rich people who own private jets.",
+    "claim_date": "05/08/2012",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001582",
+    "claim_text": "Free $200 Macy's Gift Card",
+    "claim_date": "11/10/2014",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002508",
+    "claim_text": "Judge David Kithil on Obamacare",
+    "claim_date": "12/02/2009",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001970",
+    "claim_text": "Has Representative Marjorie Taylor Greene asserted that California wildfires were triggered by 'Jewish Space Lasers'?",
+    "claim_date": "02/01/2021",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001214",
+    "claim_text": "We (in Illinois) have the fifth-highest tax burden in the country.",
+    "claim_date": "12/01/2016",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000951",
+    "claim_text": "Did George Orwell Say This About Societies That 'Drift From the Truth'?",
+    "claim_date": "09/20/2021",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002524",
+    "claim_text": "Houston is the third-most toxic city in the United States of America.",
+    "claim_date": "02/09/2010",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001227",
+    "claim_text": "Says that under his tax plan, seniors making less than $50,000 per year won't pay any income taxes.",
+    "claim_date": "09/30/2008",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002717",
+    "claim_text": "Is Michael Bublé 'Retiring' from Making Music?",
+    "claim_date": "10/16/2018",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001417",
+    "claim_text": "Did the Trump Campaign Have To Issue Refunds for Recurring Donations?",
+    "claim_date": "04/07/2021",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001400",
+    "claim_text": "Donald Trump Called Canadians 'Snow Mexicans'",
+    "claim_date": "06/22/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002494",
+    "claim_text": "Was a Keto Diet Pill Endorsed on 'Shark Tank'?",
+    "claim_date": "11/19/2019",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002307",
+    "claim_text": "Was there a Federal study that was banned that suggested refugees generate more government income than they require in expenses?",
+    "claim_date": "12/12/2018",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000583",
+    "claim_text": "Are COVID-19 Tracing Apps Secretly Tracking Your Facebook and Phone Contacts?",
+    "claim_date": "05/20/2020",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002315",
+    "claim_text": "Last year the IRS audited Americans earning less than $25,000 a year at five times the rate of other groups.",
+    "claim_date": "08/25/2022",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002320",
+    "claim_text": "By the end of this budget I'm in right now, taxes will have been cut $4.7 billion in my state.",
+    "claim_date": "08/28/2015",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001941",
+    "claim_text": "Did Trump Defense Secretary 'Disarm' DC National Guard Before Insurrection?",
+    "claim_date": "02/04/2021",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001280",
+    "claim_text": "Says About 7 in 10 of Oregons inmates are in prison for violent crimes and serious sex offenses.",
+    "claim_date": "08/03/2012",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000970",
+    "claim_text": "Reductions in funding for public broadcasting in the year 2005.",
+    "claim_date": "06/17/2005",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000702",
+    "claim_text": "Is This Nike 'Make America Great Again' Hat Real?",
+    "claim_date": "09/07/2018",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001116",
+    "claim_text": "Was there a fine imposed on Donald Trump for allegedly misappropriating funds designated for veterans?",
+    "claim_date": "11/14/2019",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003117",
+    "claim_text": "Did Nancy Pelosi Tweet That She Is 'Disgusted' with 'President' Trump?",
+    "claim_date": "12/29/2017",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002012",
+    "claim_text": "Was the NYC Veterans Day Parade in 1995 rescued by Donald Trump?",
+    "claim_date": "11/13/2019",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001221",
+    "claim_text": "Stephanie Cegielski Was Not Donald Trump's 'Top Strategist'",
+    "claim_date": "03/29/2016",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000480",
+    "claim_text": "Hillary Clinton reduced her tax payment by giving $1 million to herself through the Clinton Foundation.",
+    "claim_date": "10/01/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001083",
+    "claim_text": "Proposed fees for Rhode Island beaches will still be less than some of the town beaches.",
+    "claim_date": "04/10/2011",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003330",
+    "claim_text": "The market is making this decision. The market has driven down the cost of coal, so you have companies going bankrupt.",
+    "claim_date": "05/10/2016",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002185",
+    "claim_text": "Valuable U.S. Coins Placed into Circulation",
+    "claim_date": "04/22/2006",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002150",
+    "claim_text": "DeGrasse Tyson Robbed 'a Dope Dealer in Harlem'",
+    "claim_date": "12/26/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002361",
+    "claim_text": "Did Joe Biden Use the N-Word in a Recorded Speech?",
+    "claim_date": "02/25/2021",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002201",
+    "claim_text": "What was the reason for the FBI search in Trump's lawyer's office, as opposed to Bill Clinton's office?",
+    "claim_date": "03/06/2019",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002351",
+    "claim_text": "Comparison between Hiroshima and Detroit",
+    "claim_date": "08/11/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001568",
+    "claim_text": "Donald Trump on Obamacare",
+    "claim_date": "07/02/2012",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000808",
+    "claim_text": "'$500 Venmo Balance Needs Confirmation' Emails Are Scams",
+    "claim_date": "12/16/2021",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001085",
+    "claim_text": "Did Ohio Man Who Called COVID-19 a 'Political Ploy' Die from the Disease?",
+    "claim_date": "04/22/2020",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002437",
+    "claim_text": "Rhode Island's legislature is the strongest in the country.",
+    "claim_date": "11/30/2014",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000581",
+    "claim_text": "President Obama Signs SNAP Fairness Act of 2014 Into Law",
+    "claim_date": "12/10/2014",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001000",
+    "claim_text": "Biden's plan is a 14% tax hike on middle class families.",
+    "claim_date": "10/13/2020",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002509",
+    "claim_text": "Judge David Kithil's stance on the Affordable Care Act",
+    "claim_date": "12/02/2009",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000552",
+    "claim_text": "Pizza Hut 58th Anniversary Freebie Scam",
+    "claim_date": "10/04/2017",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000757",
+    "claim_text": "Did 50K Ballots Suspiciously Appear at Polls Overnight in Georgia Senate Runoffs?",
+    "claim_date": "01/06/2021",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002229",
+    "claim_text": "Is This Journalism Before and After Taliban Takeover?",
+    "claim_date": "08/17/2021",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001094",
+    "claim_text": "Was a student from Cornell able to lose 37 pounds by utilizing apple cider vinegar and supplements?",
+    "claim_date": "04/27/2017",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000422",
+    "claim_text": "Detroit's impoverished urban areas",
+    "claim_date": "10/18/2009",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002571",
+    "claim_text": "Did Winston Churchill Say 'The Fascists of the Future Will Call Themselves Anti-Fascists?'",
+    "claim_date": "08/07/2018",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000063",
+    "claim_text": "Today the top 1 percent earn a higher share of our national income than any year since 1928.",
+    "claim_date": "01/30/2015",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000245",
+    "claim_text": "Since we passed tax cuts, over 3 million workers have gotten tax cut bonuses  many of them thousands and thousands of dollars.",
+    "claim_date": "01/30/2018",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001245",
+    "claim_text": "Who Increased the Debt?",
+    "claim_date": "01/23/2012",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002157",
+    "claim_text": "Americas federal business tax rate is the highest in the world.",
+    "claim_date": "12/15/2016",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002543",
+    "claim_text": "Says that the state spends more money on tax giveaways than it receives in tax collection.",
+    "claim_date": "12/10/2012",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001674",
+    "claim_text": "Is This a Breast Rash Caused by South American Larvae?",
+    "claim_date": "04/05/2003",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001209",
+    "claim_text": "Virginia was named best managed state, best state for business and best state toraise a child while I was governor.",
+    "claim_date": "04/07/2011",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001142",
+    "claim_text": "Is This a Newly Hatched Dragon?",
+    "claim_date": "02/28/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002033",
+    "claim_text": "We lost more jobs in this great recession than the last four recessions combined.",
+    "claim_date": "04/04/2011",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000845",
+    "claim_text": "Do refugees who are considered 'illegal' receive a monthly payment of $3,874 from the government?",
+    "claim_date": "11/15/2017",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001184",
+    "claim_text": "Is the CDC considered a 'Private Nonprofit Corporation'?",
+    "claim_date": "05/05/2021",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002985",
+    "claim_text": "CHEERS Study",
+    "claim_date": "11/19/2004",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000690",
+    "claim_text": "Says David Perdue hasn't held a single public town hall meeting in six years and sells four meetings a year and a retreat on a private island for a $7,500 corporate PAC check.",
+    "claim_date": "12/11/2020",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000451",
+    "claim_text": "Robert McCulloch Sold Fundraising T-Shirts for Darren Wilson?",
+    "claim_date": "11/26/2014",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001681",
+    "claim_text": "Is Olive Garden Funding Trump's Re-Election?",
+    "claim_date": "08/27/2019",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003090",
+    "claim_text": "We just had the best year for the auto industry in America in history.",
+    "claim_date": "05/20/2016",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001073",
+    "claim_text": "Does this viral image showcase prejudice based on race in cases of tax evasion prosecutions?",
+    "claim_date": "03/15/2019",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001332",
+    "claim_text": "Is ICE 'Citizens Academy' Training Civilians To Arrest 'Undocumented' Immigrants?",
+    "claim_date": "07/17/2020",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000007",
+    "claim_text": "Did Immigration Enforcement Agents Arrest the Mayor of Los Angeles?",
+    "claim_date": "12/26/2019",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002632",
+    "claim_text": "WikiLeaks E-Mail Says Obama Directed His Supporters to Engage in 'All-American Voter Fraud'",
+    "claim_date": "10/19/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001428",
+    "claim_text": "Was Mike Pence in favor of 'Gay Conversion' Therapy?",
+    "claim_date": "10/26/2016",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002463",
+    "claim_text": "Tide Detergent Thefts",
+    "claim_date": "03/13/2012",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000362",
+    "claim_text": "Is This a Photograph of a Dead Fairy?",
+    "claim_date": "05/07/2007",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001875",
+    "claim_text": "The Tea Party of the United States is a new political movement.",
+    "claim_date": "03/12/2009",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001404",
+    "claim_text": "Salt Lake Tribune Endorses Obama",
+    "claim_date": "10/22/2012",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003159",
+    "claim_text": "'Clear Button' Fraud",
+    "claim_date": "05/26/2008",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003013",
+    "claim_text": "Free Publix $100 Coupons Scam",
+    "claim_date": "07/12/2015",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001802",
+    "claim_text": "Did Pelosi Decry Trump's Police Tactics While Funding Them?",
+    "claim_date": "07/29/2020",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001944",
+    "claim_text": "Says Texas charter schools get 100% state $/pupil funding while district schools (95% students) get about 1/3 funding from state w/ rest coming from local prop taxes (which is why those taxes are so high). Districts getting less b/c scarce $ going to charters.",
+    "claim_date": "08/15/2018",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002569",
+    "claim_text": "Is It Illegal to Have More Than Two Dildos in a Home in Arizona?",
+    "claim_date": "02/06/2019",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002370",
+    "claim_text": "The addition of a 1 percent sales tax would cost a typical household in Hillsborough County approximately $12 a month.",
+    "claim_date": "06/18/2010",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003014",
+    "claim_text": "Is This the NFL's New COVID-19 Helmet?",
+    "claim_date": "06/18/2020",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000483",
+    "claim_text": "A 50-50 public-private split for paying for a new Milwaukee Bucks arena would be much better -- in terms of the portion of the public financing -- than most of the other arena projects done around the country.",
+    "claim_date": "05/29/2015",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001438",
+    "claim_text": "Does AARP Support the Democratic Party?",
+    "claim_date": "08/19/2020",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002047",
+    "claim_text": "There are 3.6 million jobs sitting vacant, in part because there arent enough qualified applicants to fill them.",
+    "claim_date": "03/14/2013",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001190",
+    "claim_text": "Coca-Cola is not offering a bottle with the label 'Share a Coke with the KKK' for sale.",
+    "claim_date": "03/02/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003028",
+    "claim_text": "Did Putin Ban 5G in Russia Due to Health Concerns?",
+    "claim_date": "08/07/2023",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002708",
+    "claim_text": "'Moving to Canada' Search Spike?",
+    "claim_date": "03/09/2016",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001876",
+    "claim_text": "The Tea Party movement in America was a novel political phenomenon that gained momentum.",
+    "claim_date": "03/12/2009",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003199",
+    "claim_text": "Says Mitt Romney flip-flopped on a taxpayer protection pledge.",
+    "claim_date": "11/29/2011",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002430",
+    "claim_text": "Does Walmart Sell Insulin for $25 a Vial Without a Prescription?",
+    "claim_date": "02/07/2019",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002042",
+    "claim_text": "Did WEF Participant Shout Profanities at Klaus Schwab During 2024 Davos Meeting?",
+    "claim_date": "01/17/2024",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002325",
+    "claim_text": "Mike Martinez has supported increasing taxes and utility rates, as well as discontinuing complimentary bus services for senior citizens.",
+    "claim_date": "12/11/2014",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002860",
+    "claim_text": "Did Someone Once Write a Check on the Side of a Cow?",
+    "claim_date": "12/30/1998",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002098",
+    "claim_text": "Was 'Coronavirus' Replaced with 'Chinese Virus' in Trump's Notes?",
+    "claim_date": "03/19/2020",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000511",
+    "claim_text": "Does Stacey Abrams Owe More Than $50,000 in Back Taxes?",
+    "claim_date": "10/25/2018",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000452",
+    "claim_text": "Are Chase and Wells Fargo among the banks funding the Dakota Pipeline?",
+    "claim_date": "11/30/2016",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003138",
+    "claim_text": "McCain and Bush are millionaires who are for tax cuts for millionaires.",
+    "claim_date": "03/17/2008",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002167",
+    "claim_text": "Big Oil",
+    "claim_date": "07/14/2008",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001185",
+    "claim_text": "Sotomayor Speech From 2001 Recirculates After Trump Comments on Judge's Mexican Heritage",
+    "claim_date": "06/08/2016",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002274",
+    "claim_text": "California Lt. Gov. Gavin Newsom was for (high-speed rail), before hes against it, and then hes for it again.",
+    "claim_date": "09/29/2017",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001813",
+    "claim_text": "Is This Lev Parnas at a Family Birthday Party with Donald Trump?",
+    "claim_date": "01/20/2020",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002637",
+    "claim_text": "Letter to Clinton re Sacrifice",
+    "claim_date": "01/29/2000",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002290",
+    "claim_text": "Women have come through the recession worse off than men  the numbers bear that out. We went from a 7 percent unemployment rate for women when he (President Barack Obama) was elected to an 8.1 percent now.",
+    "claim_date": "06/04/2012",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003023",
+    "claim_text": "All the money the Department of Citrus has is paid for by the citrus growers. You don't save dollars by eliminating the Department of Citrus.",
+    "claim_date": "02/04/2011",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000692",
+    "claim_text": "Rowan Atkinson Death Hoax",
+    "claim_date": "07/14/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001666",
+    "claim_text": "Which political party is more successful in decreasing the number of abortions?",
+    "claim_date": "09/22/2020",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000769",
+    "claim_text": "Lunch Boxes and Lead",
+    "claim_date": "09/22/2005",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002299",
+    "claim_text": "A recent economic uptick appears to coincide with the expectation of a new Republican Congress.",
+    "claim_date": "01/08/2015",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000312",
+    "claim_text": "Does Germany Require You To Be Fully Vaccinated Before Receiving Assisted Suicide?",
+    "claim_date": "08/25/2023",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002974",
+    "claim_text": "Grand Canyon Skywalk",
+    "claim_date": "10/24/2005",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001748",
+    "claim_text": "McClosure",
+    "claim_date": "11/04/2015",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002357",
+    "claim_text": "Oprah Ten Percent Tip Advice",
+    "claim_date": "11/04/2009",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003184",
+    "claim_text": "Did Rush Limbaugh Say Nicotine Was Not Proven To Be Addictive?",
+    "claim_date": "02/07/2020",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002542",
+    "claim_text": "Is This the World's Smallest Cow?",
+    "claim_date": "07/08/2021",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002629",
+    "claim_text": "Parkland Memorial Hospital and Illegal Immigrants",
+    "claim_date": "11/07/2006",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000715",
+    "claim_text": "Did the NYT Tell People to 'Breathe Like a Baby' to Relieve Election Day Stress?",
+    "claim_date": "11/09/2022",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000055",
+    "claim_text": "Collectively states are spending more on Medicaid than they do on K-12 education.",
+    "claim_date": "02/19/2013",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002924",
+    "claim_text": "Says that Wall Street hedge fund managers pay a lower tax rate than does a sheet metal worker in Parma or a school teacher in Cleveland.",
+    "claim_date": "08/22/2011",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001307",
+    "claim_text": "Stella Awards",
+    "claim_date": "08/21/2001",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002654",
+    "claim_text": "Do rising levels of ice in the Arctic and Greenland suggest that global warming may be less certain?",
+    "claim_date": "10/04/2017",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000883",
+    "claim_text": "Did Muslims Demand the Cross Be Removed From the Swiss Flag?",
+    "claim_date": "09/26/2019",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000509",
+    "claim_text": "Harley skimmed the article.",
+    "claim_date": "06/17/2015",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002457",
+    "claim_text": "Special education categorical aid from the state hasnt been raised in over a decade.",
+    "claim_date": "09/20/2018",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002121",
+    "claim_text": "Did Gov. Cuomo Just Get a $71,000 Pay Raise?",
+    "claim_date": "05/20/2020",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002367",
+    "claim_text": "Etymology of 'Little History Lesson'",
+    "claim_date": "11/01/2010",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000952",
+    "claim_text": "Does This Video Show a Black Friday Fight Over Vegetable Steamers?",
+    "claim_date": "11/27/2015",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002005",
+    "claim_text": "Did Zelensky Say Trump 'Did Nothing Wrong' In Relation to Ukraine?",
+    "claim_date": "12/03/2019",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001953",
+    "claim_text": "Did Biden Say if Israel Didn't Exist, the US 'Would Have To Invent an Israel'?",
+    "claim_date": "02/08/2024",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002622",
+    "claim_text": "Is Only 9% of the American Rescue Plan Related to COVID-19?",
+    "claim_date": "03/12/2021",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000639",
+    "claim_text": "Santa Hung on a Cross in Japan?",
+    "claim_date": "10/22/1999",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001439",
+    "claim_text": "Is the Democratic Party endorsed by AARP?",
+    "claim_date": "08/19/2020",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000002",
+    "claim_text": "Does Jared Kushner's brother own a business associated with COVID-19 testing?",
+    "claim_date": "03/16/2020",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000260",
+    "claim_text": "Were the sons of prominent Democrats engaged in business activities in Ukraine as part of a conspiracy associated with the Clintons?",
+    "claim_date": "10/11/2019",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000447",
+    "claim_text": "Wayne Allyn Root -- Why Obama Will Lose in a Landslide",
+    "claim_date": "10/04/2012",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000407",
+    "claim_text": "Was an 'Omicron' Movie Made in the '60s?",
+    "claim_date": "12/01/2021",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001459",
+    "claim_text": "Bull Shark Spotted in Kentucky Lake?",
+    "claim_date": "06/27/2017",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000308",
+    "claim_text": "Is Lululemon Recruiting 150 Ambassadors via Instagram?",
+    "claim_date": "12/14/2018",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001812",
+    "claim_text": "Caroline Kennedy's thoughts on Barack Obama.",
+    "claim_date": "08/08/2012",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002493",
+    "claim_text": "Was a keto diet pill promoted on 'Shark Tank'?",
+    "claim_date": "11/19/2019",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002122",
+    "claim_text": "Has Governor Cuomo recently received a $71,000 salary increase?",
+    "claim_date": "05/20/2020",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002052",
+    "claim_text": "Did President Trump Tweet 'How Are Your 409Ks Doing'?",
+    "claim_date": "01/10/2020",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002672",
+    "claim_text": "Fair allocation",
+    "claim_date": "08/01/2008",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002179",
+    "claim_text": "Is this a picture of valueless currency found in the drainage systems of Venezuela?",
+    "claim_date": "04/05/2019",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000474",
+    "claim_text": "Fraudulent Scheme Involving Government Grants",
+    "claim_date": "12/10/2004",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000294",
+    "claim_text": "Obama Slams Stay at Home Moms",
+    "claim_date": "11/03/2014",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001313",
+    "claim_text": "According to the statement, Ronald Reagan rescinded the largest tax cut ever implemented and increased taxes after revenues fell short of projections.",
+    "claim_date": "09/25/2015",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002008",
+    "claim_text": "I've cut the budget of the (lieutenant governors) office by more than half.",
+    "claim_date": "06/06/2016",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002669",
+    "claim_text": "Says he cut taxes by more than $600 million when he wasgovernor.",
+    "claim_date": "03/09/2012",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001592",
+    "claim_text": "Have 260 Out of 535 Members of Congress Settled Sexual Assault Charges?",
+    "claim_date": "10/03/2018",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000038",
+    "claim_text": "Ive even cut my own salary -- twice.",
+    "claim_date": "08/11/2010",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002478",
+    "claim_text": "Campbell's Soup Tackling Hunger",
+    "claim_date": "12/19/2000",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002281",
+    "claim_text": "Was the Revolving Door Invented by a Man Who Disliked Holding Open Doors for Women?",
+    "claim_date": "10/27/2017",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000923",
+    "claim_text": "Did a Mother Deer Sacrifice Herself to Cheetahs to Save Her Fawns?",
+    "claim_date": "06/09/2018",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000417",
+    "claim_text": "California is once again the sixth-largest economy in the world. If you add the GDPs of Washington and Oregon, California would surpass the United Kingdom to become the fifth-largest economy in the world.",
+    "claim_date": "12/15/2016",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000040",
+    "claim_text": "Winston Churchill on Islam",
+    "claim_date": "01/08/2015",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002090",
+    "claim_text": "Is Disney's Goofy Character Actually a Cow?",
+    "claim_date": "01/31/2019",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000796",
+    "claim_text": "Obama Places Limits on Church Services",
+    "claim_date": "04/14/2015",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002943",
+    "claim_text": "Did Mike Pompeo Say 'We Will Continue to Fight These Battles Until the Rapture'?",
+    "claim_date": "01/07/2020",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001500",
+    "claim_text": "Colonel Sanders Left Money to the KKK?",
+    "claim_date": "06/22/2000",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000251",
+    "claim_text": "Says at the state level we're spending more on tax expenditures than we are on public safety, health care and education combined.",
+    "claim_date": "04/10/2012",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000932",
+    "claim_text": "Says his views on reparations for slavery are the same as Barack Obama's and Hillary Clinton's.",
+    "claim_date": "01/26/2016",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001509",
+    "claim_text": "Were Schumer and Pelosi involved in aiding Obama to give $150 billion to a nation considered an adversary of the United States?",
+    "claim_date": "01/08/2019",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000309",
+    "claim_text": "Paid in Full",
+    "claim_date": "03/04/2002",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002736",
+    "claim_text": "Are the 'Las Vegas Travel' Facebook Vacation Giveaways Real?",
+    "claim_date": "03/03/2021",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000633",
+    "claim_text": "Did Tiffany Chokers Originate as Slave Collars?",
+    "claim_date": "09/27/2016",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003286",
+    "claim_text": "Bank of America Dropping FDIC Coverage?",
+    "claim_date": "12/19/2009",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003030",
+    "claim_text": "Is Alleged Capitol Rioter Kevin Seefried a 'Registered Democrat and Biden Supporter'?",
+    "claim_date": "01/29/2021",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002415",
+    "claim_text": "Fraudulent Free Dunkin' Donuts Coupon Offer",
+    "claim_date": "04/18/2017",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002247",
+    "claim_text": "Is This a Trump Tower Billboard in Mumbai?",
+    "claim_date": "12/30/2016",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003288",
+    "claim_text": "Can “Clean Coal” Actually Reduce Carbon Emissions?",
+    "claim_date": "11/14/2016",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001261",
+    "claim_text": "Is a 'Beware of Artists' Poster from the McCarthy Era?",
+    "claim_date": "05/29/2019",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001275",
+    "claim_text": "Did Nick Saban Endorse Joe Biden?",
+    "claim_date": "09/03/2020",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002388",
+    "claim_text": "Immigration Bill Free Cars",
+    "claim_date": "06/26/2013",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000051",
+    "claim_text": "Is This a Poster for a New 'Twilight' Movie?",
+    "claim_date": "08/17/2015",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002123",
+    "claim_text": "The past (Obama) administration was the first administration that never had a whole year of 3 percent growth.",
+    "claim_date": "03/16/2017",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001359",
+    "claim_text": "Is a Woman the Family 'Breadwinner' for Running a Foster Care Scam?",
+    "claim_date": "12/20/2010",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001420",
+    "claim_text": "Thank you, Kalat.",
+    "claim_date": "01/16/2004",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001054",
+    "claim_text": "The Secret Words",
+    "claim_date": "02/15/2001",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002898",
+    "claim_text": "Paul Allen Letter About Mormons",
+    "claim_date": "03/31/2006",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001642",
+    "claim_text": "Is this Real Footage From Inside Plane Just Before it Crashed in Nepal?",
+    "claim_date": "01/16/2023",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003264",
+    "claim_text": "Rhode Island has the second highest per enrollee (Medicaid) cost of any state in the country, which is 60 percent higher than the national average.",
+    "claim_date": "03/29/2015",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002513",
+    "claim_text": "Sept 11 Funds Help Terrorists Rumor",
+    "claim_date": "11/24/2001",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001402",
+    "claim_text": "Reynolds Rap",
+    "claim_date": "08/17/2001",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000054",
+    "claim_text": "Wages are on the rise  in fact we were the top small-business wage growth state in the nation.",
+    "claim_date": "10/31/2019",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002369",
+    "claim_text": "Is McDonald's the World's Largest Purchaser of Cow Eyeballs?",
+    "claim_date": "10/09/2000",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001591",
+    "claim_text": "Only 12% of legal immigrants are selected based on skill or based on merit. In countries like Canada, Australia and New Zealand, and others, that number is closer to 60, and even 70 and 75% in some cases.",
+    "claim_date": "05/24/2019",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001572",
+    "claim_text": "Did Kamala Harris Bail Out 'Violent Rioters' During George Floyd Protests?",
+    "claim_date": "02/16/2021",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001330",
+    "claim_text": "Is it possible to stop recurring donations to the Trump Campaign?",
+    "claim_date": "08/08/2016",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000045",
+    "claim_text": "Facebook Posts About Homeland Security Memos and 'Hacked' Cellphones Are Misleading",
+    "claim_date": "03/28/2022",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002250",
+    "claim_text": "DarkProfits",
+    "claim_date": "10/24/2003",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002076",
+    "claim_text": "Half of all CEOs say that the shutdown and the threat of shutdown set back their plans to hire over the next six months.",
+    "claim_date": "10/21/2013",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001525",
+    "claim_text": "Does Joel Osteen Own a $325,000 Ferrari?",
+    "claim_date": "07/19/2021",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002941",
+    "claim_text": "Does This Flyer Accurately Represent Derek Chauvin's Police Actions?",
+    "claim_date": "05/31/2020",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001145",
+    "claim_text": "Says middle-class New York State residents will have the lowest tax rate in 70 years.",
+    "claim_date": "07/15/2016",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000693",
+    "claim_text": "Did Monica Lewinsky 'Leave Behind' a 'Stunning' Net Worth?",
+    "claim_date": "12/29/2020",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000061",
+    "claim_text": "Did Israel Destroy the Palestine National Library, the Azhar Library, and the 'National Cultural Center'?",
+    "claim_date": "05/13/2019",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002559",
+    "claim_text": "McAfee Phishing Scam Email Claims 'Device at Risk'",
+    "claim_date": "07/27/2022",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003008",
+    "claim_text": "Doubter Space",
+    "claim_date": "09/28/2015",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002694",
+    "claim_text": "Iconic Pic Captures Joan Baez and Jimi Hendrix Smoking a Bong in 1968?",
+    "claim_date": "08/31/2023",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002976",
+    "claim_text": "Check 21",
+    "claim_date": "09/19/2004",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000573",
+    "claim_text": "John McCain's description of 'rich'",
+    "claim_date": "09/13/2008",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002330",
+    "claim_text": "Is This a Video of Robert Card Being Arrested in Lewiston, Maine, Mass Shooting?",
+    "claim_date": "10/26/2023",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001298",
+    "claim_text": "The Affordable Care Act permits mandated home visits.",
+    "claim_date": "08/27/2013",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001338",
+    "claim_text": "Did Hillary Clinton Say 'We Must Destroy Syria for Israel' in a Leaked E-Mail?",
+    "claim_date": "04/16/2018",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001367",
+    "claim_text": "Cicero's thoughts on managing a government's finances.",
+    "claim_date": "05/08/2013",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000917",
+    "claim_text": "Says that in 2011, Oregon had the second fastest growing economy in the nation.",
+    "claim_date": "12/05/2012",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002154",
+    "claim_text": "Did Experts and Officials Warn in 2018 US Couldn't Respond Effectively to a Pandemic?",
+    "claim_date": "04/01/2020",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002526",
+    "claim_text": "Did Justice Burger Call Gun Lobby's Take on 2nd Amendment a Fraud on the American Public?",
+    "claim_date": "05/26/2022",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001806",
+    "claim_text": "Does Health Insurance under the Affordable Care Act cost hundreds to thousands of dollars every month?",
+    "claim_date": "10/27/2016",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001222",
+    "claim_text": "FACT: the special assistant in @johnkasich's office makes over three times more than an average #OH firefighter",
+    "claim_date": "02/24/2011",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002918",
+    "claim_text": "Is a Murderous Taxi Driver Killing People in His Cab?",
+    "claim_date": "02/13/2018",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000887",
+    "claim_text": "Facebook scam involving fraudulent ALDI coupons",
+    "claim_date": "12/19/2015",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000597",
+    "claim_text": "Fannie Mae is relaxing credit requirements to support mortgage lending.",
+    "claim_date": "10/02/2008",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001458",
+    "claim_text": "When a basketball player or football or baseball player from another team plays in Wisconsin, that one game's salary, they pay Wisconsin income tax on it... So, if for some reason we do not have the Brewers in Wisconsin all of those player salaries that generate dollars for the State of Wisconsin go away.",
+    "claim_date": "05/12/2023",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000902",
+    "claim_text": "Did Carter Sell His Peanut Farm When He Became President?",
+    "claim_date": "05/18/2020",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000074",
+    "claim_text": "Was it asserted by Obama's literary representative that he was born in Kenya?",
+    "claim_date": "05/18/2012",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003226",
+    "claim_text": "Says Donald Trump was one of the people who rooted for the housing crisis. He said back in 2006, Gee, I hope it does collapse because then I can go in and buy some and make some money.",
+    "claim_date": "09/26/2016",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001276",
+    "claim_text": "In the American Rescue Plan, just about 1% of the money is for vaccines.",
+    "claim_date": "02/26/2021",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003009",
+    "claim_text": "General Motors is sending Mexican made model of Chevy Cruze to U.S. car dealers-tax free across border.",
+    "claim_date": "01/04/2017",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000813",
+    "claim_text": "Is it true that 643,000 bankruptcies in the United States each year are caused by medical expenses?",
+    "claim_date": "04/21/2016",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002007",
+    "claim_text": "Gov. Romney's plan would cut taxes for the folks at the very top.",
+    "claim_date": "07/24/2012",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002038",
+    "claim_text": "Obama personally funded the opening of a Muslim museum during a government shutdown.",
+    "claim_date": "10/03/2013",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002425",
+    "claim_text": "Did Deutsche Bank Fund Auschwitz, Trump, Jeffrey Epstein, and ISIS?",
+    "claim_date": "11/13/2020",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001304",
+    "claim_text": "Texas has outstripped the national poverty rate since at least 1959.",
+    "claim_date": "10/12/2015",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000705",
+    "claim_text": "Was Alexandria Ocasio-Cortez Once Fired from Hot Dog on a Stick?",
+    "claim_date": "02/14/2019",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_000570",
+    "claim_text": "Is Ree Drummond Leaving Food Network to Sell Keto Gummies?",
+    "claim_date": "05/15/2023",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_001178",
+    "claim_text": "Seven years later, (Scott Walker) has not hit his first campaign promise of creating 250,000 jobs.",
+    "claim_date": "06/23/2017",
+    "label": "SUPPORTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003332",
+    "claim_text": "Premium Increase",
+    "claim_date": "07/16/2012",
+    "label": "REFUTED",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_002739",
+    "claim_text": "Some Concerned Over Trump Veteran Donations",
+    "claim_date": "01/19/2016",
+    "label": "UNVERIFIABLE",
+    "split": "val"
+  },
+  {
+    "claim_id": "finfact_003163",
+    "claim_text": "In 2012, Wall Street gave Scott Brown more campaign contributions than any other candidate -- $5.3 million.",
+    "claim_date": "09/19/2014",
+    "label": "SUPPORTED",
+    "split": "val"
+  }
+]

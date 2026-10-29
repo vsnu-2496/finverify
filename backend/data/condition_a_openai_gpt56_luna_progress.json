@@ -1,0 +1,63 @@
+{
+  "condition": "A",
+  "sources": [],
+  "provider": "openai",
+  "model": "gpt-5.6-luna",
+  "total_claims": 300,
+  "successful": 100,
+  "failed": 1,
+  "remaining": 200,
+  "requests_this_run": 1,
+  "retry_count": 0,
+  "status": "quota_exhausted",
+  "timestamp": "2026-09-19T07:18:11.187597+00:00",
+  "api_errors_distinct": [
+    "HTTP 429: Rate limit reached for gpt-5.6-luna in organization org-ovwXC6LJHtZse6oH1CT4vO0l on requests per day (RPD): Limit 50, Used 50, Requested 1. Please try again in 28m48s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing."
+  ],
+  "metrics": {
+    "evaluated_claims": 100,
+    "accuracy": 0.42,
+    "macro_precision": 0.5019,
+    "macro_recall": 0.4393,
+    "macro_f1": 0.4222,
+    "per_class": {
+      "SUPPORTED": {
+        "precision": 0.6429,
+        "recall": 0.45,
+        "f1": 0.5294
+      },
+      "REFUTED": {
+        "precision": 0.6667,
+        "recall": 0.3415,
+        "f1": 0.4516
+      },
+      "UNVERIFIABLE": {
+        "precision": 0.1961,
+        "recall": 0.5263,
+        "f1": 0.2857
+      }
+    },
+    "confusion_matrix": {
+      "SUPPORTED": {
+        "SUPPORTED": 18,
+        "REFUTED": 1,
+        "UNVERIFIABLE": 21
+      },
+      "REFUTED": {
+        "SUPPORTED": 7,
+        "REFUTED": 14,
+        "UNVERIFIABLE": 20
+      },
+      "UNVERIFIABLE": {
+        "SUPPORTED": 3,
+        "REFUTED": 6,
+        "UNVERIFIABLE": 10
+      }
+    },
+    "predicted_class_counts": {
+      "SUPPORTED": 28,
+      "REFUTED": 21,
+      "UNVERIFIABLE": 51
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "is_dry_run": true,
+  "manifest_verification": {
+    "backend/data/finfact_research_sample.json": "OK (1ccb1356...)",
+    "backend/data/finfact_research_evaluation.json": "OK (0a7dca7e...)",
+    "backend/data/condition_a_ollama_qwen25_3b_results.json": "OK (6a6dd6da...)",
+    "backend/data/experiment_v2/condition_a_ollama_qwen25_3b_results.json": "OK (6a6dd6da...)",
+    "backend/data/experiment_v2/condition_b1_ollama_qwen25_3b_results.json": "OK (3fa852f2...)",
+    "backend/data/experiment_v2/condition_b2_ollama_qwen25_3b_results.json": "OK (8422cb51...)",
+    "backend/data/experiment_v2/condition_b3_ollama_qwen25_3b_results.json": "OK (37bf5476...)"
+  },
+  "total_claims": 300,
+  "pipeline_accounting": {
+    "grounded_success": 234,
+    "no_relevant_evidence": 66,
+    "retrieval_error": 0,
+    "inference_error": 0
+  },
+  "coverage_rates": {
+    "evidence_coverage_rate": 0.78,
+    "abstention_rate": 0.22,
+    "retrieval_error_rate": 0.0,
+    "inference_error_rate": 0.0
+  },
+  "condition_a_baseline_reconciliation": {
+    "accuracy": 0.19,
+    "macro_f1": 0.1186,
+    "macro_precision": 0.3116,
+    "macro_recall": 0.3409,
+    "confusion_matrix": {
+      "SUPPORTED": {
+        "SUPPORTED": 0,
+        "REFUTED": 1,
+        "UNVERIFIABLE": 112
+      },
+      "REFUTED": {
+        "SUPPORTED": 4,
+        "REFUTED": 3,
+        "UNVERIFIABLE": 126
+      },
+      "UNVERIFIABLE": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 54
+      }
+    },
+    "predicted_counts": {
+      "SUPPORTED": 4,
+      "REFUTED": 4,
+      "UNVERIFIABLE": 292
+    }
+  },
+  "dry_run_analysis": {
+    "gold_label_distribution_grounded_subset": {
+      "REFUTED": 107,
+      "UNVERIFIABLE": 48,
+      "SUPPORTED": 79
+    },
+    "gold_label_distribution_abstentions": {
+      "SUPPORTED": 34,
+      "UNVERIFIABLE": 6,
+      "REFUTED": 26
+    },
+    "simulated_dry_run_note": "Full LLM inference is not executed in dry run mode. 234 claims passed gating with authentic, non-leaking evidence. 66 claims abstained as UNVERIFIABLE."
+  }
+}

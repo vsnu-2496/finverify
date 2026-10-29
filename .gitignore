@@ -1,0 +1,39 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+backend/.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+*.env.*
+.env.local
+
+# ── Node / Frontend ───────────────────────────────────────────────────────────
+frontend/node_modules/
+frontend/dist/
+frontend/.cache/
+
+# ── Large binaries & installers ───────────────────────────────────────────────
+OllamaSetup.exe
+*.exe
+
+# ── Large raw dataset at project root (28.58 MB — exclude from repo) ─────────
+finfact.json
+
+# ── Temporary / generated outputs ─────────────────────────────────────────────
+scratch/
+check_sizes.py
+test_chrome.png
+backend/data/smoke_test/
+backend/data/cache/
+backend/data/__pycache__/
+backend/__pycache__/
+
+# ── MPNet embedding cache (9.15 MB numpy archive — regenerable) ───────────────
+backend/data/classifier_splits/mpnet_embeddings_cache.npz
+
+# ── OS metadata ───────────────────────────────────────────────────────────────
+.DS_Store
+desktop.ini
+Thumbs.db

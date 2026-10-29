@@ -1,0 +1,14 @@
+@import 'tailwindcss';
+
+:root {
+  font-family: 'DM Sans', 'Trebuchet MS', sans-serif;
+  color: #f6f2e9;
+  background: #0c1514;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+html { min-width: 320px; background: #0c1514; }
+body { margin: 0; min-width: 320px; min-height: 100vh; }
+button, input, textarea { font: inherit; }

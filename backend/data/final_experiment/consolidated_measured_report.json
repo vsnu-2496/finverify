@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-10-19T16:36:19.343686+00:00",
+  "model": "qwen2.5:3b",
+  "provider": "ollama",
+  "dataset": "Fin-Fact 300-claim research sample",
+  "conditions": {
+    "A": {
+      "condition": "A",
+      "sources": [
+        "(none - parametric only)"
+      ],
+      "total_claims": 300,
+      "evaluated_claims": 300,
+      "not_applicable": 0,
+      "errors": 0,
+      "prediction_distribution": {
+        "SUPPORTED": 4,
+        "REFUTED": 4,
+        "UNVERIFIABLE": 292
+      },
+      "metrics": {
+        "evaluated_claims": 300,
+        "accuracy": 0.19,
+        "macro_precision": 0.3116,
+        "macro_recall": 0.3409,
+        "macro_f1": 0.1186,
+        "per_class": {
+          "SUPPORTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "REFUTED": {
+            "precision": 0.75,
+            "recall": 0.0226,
+            "f1": 0.0438
+          },
+          "UNVERIFIABLE": {
+            "precision": 0.1849,
+            "recall": 1.0,
+            "f1": 0.3121
+          }
+        },
+        "confusion_matrix": {
+          "SUPPORTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 1,
+            "UNVERIFIABLE": 112
+          },
+          "REFUTED": {
+            "SUPPORTED": 4,
+            "REFUTED": 3,
+            "UNVERIFIABLE": 126
+          },
+          "UNVERIFIABLE": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 54
+          }
+        },
+        "predicted_class_counts": {
+          "SUPPORTED": 4,
+          "REFUTED": 4,
+          "UNVERIFIABLE": 292
+        }
+      }
+    },
+    "B1": {
+      "condition": "B1",
+      "sources": [
+        "SEC"
+      ],
+      "total_claims": 300,
+      "evaluated_claims": 5,
+      "not_applicable": 295,
+      "errors": 0,
+      "prediction_distribution": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 5
+      },
+      "metrics": {
+        "evaluated_claims": 5,
+        "accuracy": 0.4,
+        "macro_precision": 0.1333,
+        "macro_recall": 0.3333,
+        "macro_f1": 0.1905,
+        "per_class": {
+          "SUPPORTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "REFUTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "UNVERIFIABLE": {
+            "precision": 0.4,
+            "recall": 1.0,
+            "f1": 0.5714
+          }
+        },
+        "confusion_matrix": {
+          "SUPPORTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          },
+          "REFUTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 1
+          },
+          "UNVERIFIABLE": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          }
+        },
+        "predicted_class_counts": {
+          "SUPPORTED": 0,
+          "REFUTED": 0,
+          "UNVERIFIABLE": 5
+        }
+      }
+    },
+    "B2": {
+      "condition": "B2",
+      "sources": [
+        "Alpha Vantage"
+      ],
+      "total_claims": 300,
+      "evaluated_claims": 0,
+      "not_applicable": 300,
+      "errors": 0,
+      "prediction_distribution": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "metrics": {
+        "evaluated_claims": 0
+      }
+    },
+    "B3": {
+      "condition": "B3",
+      "sources": [
+        "SEC",
+        "Alpha Vantage"
+      ],
+      "total_claims": 300,
+      "evaluated_claims": 5,
+      "not_applicable": 295,
+      "errors": 0,
+      "prediction_distribution": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 5
+      },
+      "metrics": {
+        "evaluated_claims": 5,
+        "accuracy": 0.4,
+        "macro_precision": 0.1333,
+        "macro_recall": 0.3333,
+        "macro_f1": 0.1905,
+        "per_class": {
+          "SUPPORTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "REFUTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "UNVERIFIABLE": {
+            "precision": 0.4,
+            "recall": 1.0,
+            "f1": 0.5714
+          }
+        },
+        "confusion_matrix": {
+          "SUPPORTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          },
+          "REFUTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 1
+          },
+          "UNVERIFIABLE": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          }
+        },
+        "predicted_class_counts": {
+          "SUPPORTED": 0,
+          "REFUTED": 0,
+          "UNVERIFIABLE": 5
+        }
+      }
+    }
+  },
+  "methodological_notes": {
+    "sample_comparability_warning": "Condition A evaluates the full n=300 parametric baseline. Conditions B1 and B3 evaluate only the n=5 subset where corporate regulatory filings were applicable and retrieved. Condition B2 evaluated n=0 claims because the benchmark contains 0 company equity stock-movement claims. Therefore, the 40.0% accuracy on the 5-claim subset in B1/B3 cannot be statistically or scientifically compared against the 19.0% accuracy on the full 300-claim dataset to claim general performance improvement.",
+    "semantic_relevance_finding": "Audit of the 5 retrieved SEC EDGAR filings indicates that while filings are temporally valid and match the identified corporate registrants, formal regulatory disclosures (Forms 10-K and 8-K) do not contain assertions regarding viral internet rumors, store closure rumors, or congressional procedural debates. In all 5 cases, the model recognized this semantic insufficiency and appropriately concluded UNVERIFIABLE.",
+    "alpha_vantage_limitation": "Alpha Vantage GLOBAL_QUOTE returns current trading day quotes, which are rejected for historical claims by the temporal validity safeguard. Furthermore, Fin-Fact contains 0 equity price movement claims matching Alpha Vantage capabilities."
+  }
+}

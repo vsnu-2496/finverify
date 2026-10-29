@@ -1,0 +1,43 @@
+{
+  "condition": "B2_ALPHA_VANTAGE",
+  "sources": [
+    "Alpha Vantage"
+  ],
+  "total_claims": 300,
+  "successful": 0,
+  "failed": 1,
+  "remaining": 300,
+  "requests_this_run": 1,
+  "retry_count": 0,
+  "status": "quota_exhausted",
+  "model": "gemini-3.6-flash",
+  "timestamp": "2026-09-18T04:38:45.889492+00:00",
+  "api_errors": [
+    "HTTP 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.6-flash\nPlease retry in 13.557321962s."
+  ],
+  "metrics": {
+    "evaluated_claims": 0,
+    "confusion_matrix": {
+      "SUPPORTED": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "REFUTED": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "UNVERIFIABLE": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 0
+      }
+    },
+    "predicted_class_counts": {
+      "SUPPORTED": 0,
+      "REFUTED": 0,
+      "UNVERIFIABLE": 0
+    }
+  }
+}

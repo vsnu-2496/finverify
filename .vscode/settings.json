@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^python -m py_compile backend\\\\research\\\\run_openai_experiment_300\\.py backend\\\\research\\\\run_b1_b2_b3_sequential\\.py$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

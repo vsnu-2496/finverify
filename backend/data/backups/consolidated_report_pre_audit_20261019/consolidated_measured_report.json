@@ -1,0 +1,210 @@
+{
+  "generated_at": "2026-10-19T16:27:09.695254+00:00",
+  "model": "qwen2.5:3b",
+  "provider": "ollama",
+  "dataset": "Fin-Fact 300-claim research sample",
+  "conditions": {
+    "A": {
+      "condition": "A",
+      "sources": [
+        "(none - parametric only)"
+      ],
+      "total_claims": 300,
+      "evaluated_claims": 300,
+      "not_applicable": 0,
+      "errors": 0,
+      "prediction_distribution": {
+        "SUPPORTED": 4,
+        "REFUTED": 4,
+        "UNVERIFIABLE": 292
+      },
+      "metrics": {
+        "evaluated_claims": 300,
+        "accuracy": 0.19,
+        "macro_precision": 0.3116,
+        "macro_recall": 0.3409,
+        "macro_f1": 0.1186,
+        "per_class": {
+          "SUPPORTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "REFUTED": {
+            "precision": 0.75,
+            "recall": 0.0226,
+            "f1": 0.0438
+          },
+          "UNVERIFIABLE": {
+            "precision": 0.1849,
+            "recall": 1.0,
+            "f1": 0.3121
+          }
+        },
+        "confusion_matrix": {
+          "SUPPORTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 1,
+            "UNVERIFIABLE": 112
+          },
+          "REFUTED": {
+            "SUPPORTED": 4,
+            "REFUTED": 3,
+            "UNVERIFIABLE": 126
+          },
+          "UNVERIFIABLE": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 54
+          }
+        },
+        "predicted_class_counts": {
+          "SUPPORTED": 4,
+          "REFUTED": 4,
+          "UNVERIFIABLE": 292
+        }
+      }
+    },
+    "B1": {
+      "condition": "B1",
+      "sources": [
+        "SEC"
+      ],
+      "total_claims": 300,
+      "evaluated_claims": 5,
+      "not_applicable": 295,
+      "errors": 0,
+      "prediction_distribution": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 5
+      },
+      "metrics": {
+        "evaluated_claims": 5,
+        "accuracy": 0.4,
+        "macro_precision": 0.1333,
+        "macro_recall": 0.3333,
+        "macro_f1": 0.1905,
+        "per_class": {
+          "SUPPORTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "REFUTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "UNVERIFIABLE": {
+            "precision": 0.4,
+            "recall": 1.0,
+            "f1": 0.5714
+          }
+        },
+        "confusion_matrix": {
+          "SUPPORTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          },
+          "REFUTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 1
+          },
+          "UNVERIFIABLE": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          }
+        },
+        "predicted_class_counts": {
+          "SUPPORTED": 0,
+          "REFUTED": 0,
+          "UNVERIFIABLE": 5
+        }
+      }
+    },
+    "B2": {
+      "condition": "B2",
+      "sources": [
+        "Alpha Vantage"
+      ],
+      "total_claims": 300,
+      "evaluated_claims": 0,
+      "not_applicable": 300,
+      "errors": 0,
+      "prediction_distribution": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "metrics": {
+        "evaluated_claims": 0
+      }
+    },
+    "B3": {
+      "condition": "B3",
+      "sources": [
+        "SEC",
+        "Alpha Vantage"
+      ],
+      "total_claims": 300,
+      "evaluated_claims": 5,
+      "not_applicable": 295,
+      "errors": 0,
+      "prediction_distribution": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 5
+      },
+      "metrics": {
+        "evaluated_claims": 5,
+        "accuracy": 0.4,
+        "macro_precision": 0.1333,
+        "macro_recall": 0.3333,
+        "macro_f1": 0.1905,
+        "per_class": {
+          "SUPPORTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "REFUTED": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "UNVERIFIABLE": {
+            "precision": 0.4,
+            "recall": 1.0,
+            "f1": 0.5714
+          }
+        },
+        "confusion_matrix": {
+          "SUPPORTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          },
+          "REFUTED": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 1
+          },
+          "UNVERIFIABLE": {
+            "SUPPORTED": 0,
+            "REFUTED": 0,
+            "UNVERIFIABLE": 2
+          }
+        },
+        "predicted_class_counts": {
+          "SUPPORTED": 0,
+          "REFUTED": 0,
+          "UNVERIFIABLE": 5
+        }
+      }
+    }
+  }
+}

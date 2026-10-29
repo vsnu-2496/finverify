@@ -1,0 +1,52 @@
+{
+  "experiment_name": "evidence_grounded_vs_internal_knowledge",
+  "condition": "A_INTERNAL_KNOWLEDGE",
+  "model": "gemini-3.6-flash",
+  "timestamp": "2026-09-12T06:04:20.050560+00:00",
+  "dataset": "finfact.json",
+  "number_of_claims": 3,
+  "claim_ids": [
+    "finfact_002715",
+    "finfact_000542",
+    "finfact_003326"
+  ],
+  "successful_predictions": 0,
+  "errors": 3,
+  "sanitized_429_diagnostic": "HTTP 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\nPlease retry in 58.312225726s.",
+  "leakage_check": "passed",
+  "results": [
+    {
+      "claim_id": "finfact_002715",
+      "claim_text": "Seahawks Ban Ticket Sales to Californians?",
+      "claim_date": "2014-01-12",
+      "gold_label": "SUPPORTED",
+      "predicted_label": null,
+      "confidence": null,
+      "explanation": null,
+      "status": "error",
+      "error": "HTTP 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\nPlease retry in 58.312225726s."
+    },
+    {
+      "claim_id": "finfact_000542",
+      "claim_text": "'Jeepers Creepers 3' Director Victor Salva Was Convicted of Child Molestation?",
+      "claim_date": "2017-09-18",
+      "gold_label": "SUPPORTED",
+      "predicted_label": null,
+      "confidence": null,
+      "explanation": null,
+      "status": "error",
+      "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-3.6-flash:generateContent?key=[REDACTED] (Caused by NameResolutionError(\"HTTPSConnection(host='generativelanguage.googleapis.com', port=443): Failed to resolve 'generativelanguage.googleapis.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+      "claim_id": "finfact_003326",
+      "claim_text": "The proposed transportation tax plan revokes a tax-credit for consumers electric cars while the state retains similar credits for similar vehicles for businesses.",
+      "claim_date": "2015-03-16",
+      "gold_label": "SUPPORTED",
+      "predicted_label": null,
+      "confidence": null,
+      "explanation": null,
+      "status": "error",
+      "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-3.6-flash:generateContent?key=[REDACTED] (Caused by NameResolutionError(\"HTTPSConnection(host='generativelanguage.googleapis.com', port=443): Failed to resolve 'generativelanguage.googleapis.com' ([Errno 11001] getaddrinfo failed)\"))"
+    }
+  ]
+}

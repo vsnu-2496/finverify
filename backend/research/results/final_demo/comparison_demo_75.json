@@ -1,0 +1,50 @@
+{
+  "run_mode": "DEMO_FALLBACK",
+  "rows": [
+    {
+      "condition": "A_INTERNAL_KNOWLEDGE",
+      "run_mode": "DEMO_FALLBACK",
+      "accuracy": 0.3467,
+      "precision": 0.3548,
+      "recall": 0.3467,
+      "macro_f1": 0.349,
+      "supported_f1": 0.3478,
+      "refuted_f1": 0.4082,
+      "unverifiable_f1": 0.2909
+    },
+    {
+      "condition": "B1_SEC_STYLE",
+      "run_mode": "DEMO_FALLBACK",
+      "accuracy": 0.4,
+      "precision": 0.3995,
+      "recall": 0.4,
+      "macro_f1": 0.3978,
+      "supported_f1": 0.3404,
+      "refuted_f1": 0.4364,
+      "unverifiable_f1": 0.4167
+    },
+    {
+      "condition": "B2_MARKET_STYLE",
+      "run_mode": "DEMO_FALLBACK",
+      "accuracy": 0.3067,
+      "precision": 0.3087,
+      "recall": 0.3067,
+      "macro_f1": 0.3017,
+      "supported_f1": 0.24,
+      "refuted_f1": 0.3793,
+      "unverifiable_f1": 0.2857
+    },
+    {
+      "condition": "B3_COMBINED",
+      "run_mode": "DEMO_FALLBACK",
+      "accuracy": 0.3067,
+      "precision": 0.2972,
+      "recall": 0.3067,
+      "macro_f1": 0.299,
+      "supported_f1": 0.3333,
+      "refuted_f1": 0.1778,
+      "unverifiable_f1": 0.386
+    }
+  ],
+  "note": "These demonstration results are produced by a deterministic fallback verifier because the Gemini API free-tier quota was exhausted. They are intended to validate the experimental software pipeline and visualization, not to represent measured LLM performance."
+}

@@ -1,0 +1,43 @@
+{
+  "condition": "B1_SEC",
+  "sources": [
+    "SEC"
+  ],
+  "total_claims": 300,
+  "successful": 9,
+  "failed": 1,
+  "remaining": 291,
+  "requests_this_run": 7,
+  "retry_count": 0,
+  "status": "quota_exhausted",
+  "model": "gemini-3.6-flash",
+  "timestamp": "2026-09-18T04:38:35.322873+00:00",
+  "api_errors": [
+    "HTTP 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.6-flash\nPlease retry in 24.225451156s."
+  ],
+  "metrics": {
+    "evaluated_claims": 9,
+    "confusion_matrix": {
+      "SUPPORTED": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 3
+      },
+      "REFUTED": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 4
+      },
+      "UNVERIFIABLE": {
+        "SUPPORTED": 0,
+        "REFUTED": 0,
+        "UNVERIFIABLE": 2
+      }
+    },
+    "predicted_class_counts": {
+      "SUPPORTED": 0,
+      "REFUTED": 0,
+      "UNVERIFIABLE": 9
+    }
+  }
+}

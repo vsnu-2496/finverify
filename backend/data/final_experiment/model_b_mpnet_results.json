@@ -1,0 +1,3902 @@
+[
+  {
+    "claim_id": "finfact_000020",
+    "claim_text": "Has the state of Massachusetts stopped sending out notices for renewing driver's licenses by mail?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9812,
+    "probabilities": {
+      "SUPPORTED": 0.0148,
+      "REFUTED": 0.9812,
+      "UNVERIFIABLE": 0.004
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000032",
+    "claim_text": "Did the Military Spend $1 Billion on This 'New Vehicle'?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.8887,
+    "probabilities": {
+      "SUPPORTED": 0.0414,
+      "REFUTED": 0.8887,
+      "UNVERIFIABLE": 0.0699
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000035",
+    "claim_text": "Barack Obama's Net Worth",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.6381,
+    "probabilities": {
+      "SUPPORTED": 0.0404,
+      "REFUTED": 0.3215,
+      "UNVERIFIABLE": 0.6381
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000087",
+    "claim_text": "If given the opportunity, would you have put your money into it?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9138,
+    "probabilities": {
+      "SUPPORTED": 0.9138,
+      "REFUTED": 0.0541,
+      "UNVERIFIABLE": 0.0322
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000107",
+    "claim_text": "Are African nations implementing a massive tree barrier to halt the advance of the Sahara Desert?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.9733,
+    "probabilities": {
+      "SUPPORTED": 0.0061,
+      "REFUTED": 0.0206,
+      "UNVERIFIABLE": 0.9733
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000121",
+    "claim_text": "Is COVID-19 Being Spread Through Gas Pumps?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.8481,
+    "probabilities": {
+      "SUPPORTED": 0.049,
+      "REFUTED": 0.1028,
+      "UNVERIFIABLE": 0.8481
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000141",
+    "claim_text": "President Obama Wants Mandatory Voting?",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.5616,
+    "probabilities": {
+      "SUPPORTED": 0.5616,
+      "REFUTED": 0.3317,
+      "UNVERIFIABLE": 0.1068
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000148",
+    "claim_text": "Austin is burdened by the fastest-growing tax increases of any major city in the nation.",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.944,
+    "probabilities": {
+      "SUPPORTED": 0.944,
+      "REFUTED": 0.0217,
+      "UNVERIFIABLE": 0.0343
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000155",
+    "claim_text": "Did Sarah Palin Say People with Lyme Disease Should Stop Eating Limes?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.5859,
+    "probabilities": {
+      "SUPPORTED": 0.1454,
+      "REFUTED": 0.5859,
+      "UNVERIFIABLE": 0.2687
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000156",
+    "claim_text": "Red Lobster Closing?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.567,
+    "probabilities": {
+      "SUPPORTED": 0.0163,
+      "REFUTED": 0.567,
+      "UNVERIFIABLE": 0.4167
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000167",
+    "claim_text": "Real, Vintage Photo of a Giant Irish Dog?",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.5654,
+    "probabilities": {
+      "SUPPORTED": 0.5654,
+      "REFUTED": 0.4001,
+      "UNVERIFIABLE": 0.0344
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000173",
+    "claim_text": "Was One of These Webs Spun by an LSD-Tripping Spider?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.603,
+    "probabilities": {
+      "SUPPORTED": 0.2851,
+      "REFUTED": 0.1119,
+      "UNVERIFIABLE": 0.603
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000191",
+    "claim_text": "The typical white male worker in this country is making in real terms what he was making in 1973 and the average worker is making what they were making in 1996.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.5504,
+    "probabilities": {
+      "SUPPORTED": 0.4357,
+      "REFUTED": 0.0139,
+      "UNVERIFIABLE": 0.5504
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000195",
+    "claim_text": "Did the Trump Admin Seize COVID-19 Protective Equipment from States?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.9043,
+    "probabilities": {
+      "SUPPORTED": 0.0317,
+      "REFUTED": 0.064,
+      "UNVERIFIABLE": 0.9043
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000198",
+    "claim_text": "'Media Silence' on $12B Reduction to the National Debt During Trump's First Month?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.6304,
+    "probabilities": {
+      "SUPPORTED": 0.6304,
+      "REFUTED": 0.041,
+      "UNVERIFIABLE": 0.3286
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000212",
+    "claim_text": ": Barefoot Cellars is Giving Away Free Cases of Wine",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.7021,
+    "probabilities": {
+      "SUPPORTED": 0.0865,
+      "REFUTED": 0.7021,
+      "UNVERIFIABLE": 0.2114
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000217",
+    "claim_text": "Does Johns Hopkins University's Coronavirus Map Contain Malware?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.4827,
+    "probabilities": {
+      "SUPPORTED": 0.4827,
+      "REFUTED": 0.2019,
+      "UNVERIFIABLE": 0.3154
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000223",
+    "claim_text": "Scam Alert: Chick-fil-A and Olive Garden Facebook Vouchers",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9898,
+    "probabilities": {
+      "SUPPORTED": 0.0014,
+      "REFUTED": 0.9898,
+      "UNVERIFIABLE": 0.0089
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000235",
+    "claim_text": "No, An FBI Agent Killed in Florida Wasn't Investigating Hunter Biden's Laptop",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.8473,
+    "probabilities": {
+      "SUPPORTED": 0.0358,
+      "REFUTED": 0.8473,
+      "UNVERIFIABLE": 0.1169
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000241",
+    "claim_text": "Did US Women's Soccer Team Turn Backs on Vet Playing National Anthem?",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.4692,
+    "probabilities": {
+      "SUPPORTED": 0.4692,
+      "REFUTED": 0.2642,
+      "UNVERIFIABLE": 0.2666
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000255",
+    "claim_text": "Says our unemployment insurance trust fund is broke. We're over a billion dollars in debt to the federal government.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.989,
+    "probabilities": {
+      "SUPPORTED": 0.989,
+      "REFUTED": 0.0086,
+      "UNVERIFIABLE": 0.0024
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000261",
+    "claim_text": "Did Russia Post Navalny's Death Notice Just 2 Minutes After Official Time of Death?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9632,
+    "probabilities": {
+      "SUPPORTED": 0.0343,
+      "REFUTED": 0.9632,
+      "UNVERIFIABLE": 0.0025
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000266",
+    "claim_text": "Says Texas ranks 49th nationally in what we are doing to support our per-pupil investment in education in the state.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9652,
+    "probabilities": {
+      "SUPPORTED": 0.9652,
+      "REFUTED": 0.0055,
+      "UNVERIFIABLE": 0.0293
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000276",
+    "claim_text": "Did President Trump submit his re-election papers early in order to prevent nonprofits from engaging in political speech?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.4882,
+    "probabilities": {
+      "SUPPORTED": 0.1122,
+      "REFUTED": 0.4882,
+      "UNVERIFIABLE": 0.3996
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000297",
+    "claim_text": "Did Trump Plagiarize Praise for Jesse Watters' Book from a Promo Blurb?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.771,
+    "probabilities": {
+      "SUPPORTED": 0.0259,
+      "REFUTED": 0.771,
+      "UNVERIFIABLE": 0.2031
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000313",
+    "claim_text": "Did George Carlin Say This About Participation Trophies?",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.4894,
+    "probabilities": {
+      "SUPPORTED": 0.4894,
+      "REFUTED": 0.1985,
+      "UNVERIFIABLE": 0.3121
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000321",
+    "claim_text": "Day of Not Participating in Any Purchases",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.6345,
+    "probabilities": {
+      "SUPPORTED": 0.1704,
+      "REFUTED": 0.6345,
+      "UNVERIFIABLE": 0.1951
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000331",
+    "claim_text": "Turkey's Gaziantep Castle Partially Destroyed by Early 2023 Earthquake",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.4785,
+    "probabilities": {
+      "SUPPORTED": 0.3832,
+      "REFUTED": 0.4785,
+      "UNVERIFIABLE": 0.1383
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000338",
+    "claim_text": "'So Far No One Has Found Another Number' Walmart Gift Card Facebook Scam",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9637,
+    "probabilities": {
+      "SUPPORTED": 0.0324,
+      "REFUTED": 0.9637,
+      "UNVERIFIABLE": 0.0039
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000346",
+    "claim_text": "Rewrite this item \"Dennis Guthrie's Letter to Nancy Pelosi\".",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.8507,
+    "probabilities": {
+      "SUPPORTED": 0.031,
+      "REFUTED": 0.1183,
+      "UNVERIFIABLE": 0.8507
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000348",
+    "claim_text": "Jill Biden Photo Was Doctored To Add Lobsters on Her Outfit",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.503,
+    "probabilities": {
+      "SUPPORTED": 0.0764,
+      "REFUTED": 0.503,
+      "UNVERIFIABLE": 0.4207
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000356",
+    "claim_text": "Are US Citizens Married to Immigrants Excluded from COVID-19 Stimulus Checks?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.4895,
+    "probabilities": {
+      "SUPPORTED": 0.3169,
+      "REFUTED": 0.1936,
+      "UNVERIFIABLE": 0.4895
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000373",
+    "claim_text": "California is growing a hell of a lot faster than Texas.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.5002,
+    "probabilities": {
+      "SUPPORTED": 0.3218,
+      "REFUTED": 0.5002,
+      "UNVERIFIABLE": 0.178
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000380",
+    "claim_text": "Does Olive Oil 'Fix' Sagging Breasts?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9875,
+    "probabilities": {
+      "SUPPORTED": 0.0125,
+      "REFUTED": 0.9875,
+      "UNVERIFIABLE": 0.0
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000388",
+    "claim_text": "After viewing this video, you will not choose to use Head and Shoulders shampoo.",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.6079,
+    "probabilities": {
+      "SUPPORTED": 0.0421,
+      "REFUTED": 0.6079,
+      "UNVERIFIABLE": 0.35
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000396",
+    "claim_text": "Were the Koch Brothers the purchasers of NPR?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9183,
+    "probabilities": {
+      "SUPPORTED": 0.0524,
+      "REFUTED": 0.9183,
+      "UNVERIFIABLE": 0.0293
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000409",
+    "claim_text": "Red Skelton Pledge of Allegiance",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.7122,
+    "probabilities": {
+      "SUPPORTED": 0.1632,
+      "REFUTED": 0.1246,
+      "UNVERIFIABLE": 0.7122
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000429",
+    "claim_text": "Did a Walmart Customer's Change Get Donated Without Consent?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.9354,
+    "probabilities": {
+      "SUPPORTED": 0.0032,
+      "REFUTED": 0.0614,
+      "UNVERIFIABLE": 0.9354
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000436",
+    "claim_text": "F-15 Crash",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.602,
+    "probabilities": {
+      "SUPPORTED": 0.201,
+      "REFUTED": 0.602,
+      "UNVERIFIABLE": 0.197
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000449",
+    "claim_text": "Says Donald Trump has bankrupt four separate businesses.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.6718,
+    "probabilities": {
+      "SUPPORTED": 0.2917,
+      "REFUTED": 0.6718,
+      "UNVERIFIABLE": 0.0365
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000453",
+    "claim_text": "Has Education Secretary Betsy DeVos officially listed her yacht in the Cayman Islands?",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.387,
+    "probabilities": {
+      "SUPPORTED": 0.293,
+      "REFUTED": 0.32,
+      "UNVERIFIABLE": 0.387
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000456",
+    "claim_text": "Did GOP Vote To Raise Debt Ceiling 3 Times with No Preconditions During Trump Era?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.8864,
+    "probabilities": {
+      "SUPPORTED": 0.0641,
+      "REFUTED": 0.8864,
+      "UNVERIFIABLE": 0.0495
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000459",
+    "claim_text": "President Joe Biden and Democrats send a fortune to Ukraine but nothing for our children.",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.5593,
+    "probabilities": {
+      "SUPPORTED": 0.2734,
+      "REFUTED": 0.5593,
+      "UNVERIFIABLE": 0.1673
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000462",
+    "claim_text": "Are Costco shutting down stores throughout the country?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.8483,
+    "probabilities": {
+      "SUPPORTED": 0.0537,
+      "REFUTED": 0.8483,
+      "UNVERIFIABLE": 0.098
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000464",
+    "claim_text": "Our median household income in 2013 was the highest in the nation.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9714,
+    "probabilities": {
+      "SUPPORTED": 0.9714,
+      "REFUTED": 0.0159,
+      "UNVERIFIABLE": 0.0127
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000475",
+    "claim_text": "IRS Refund Notification",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.4855,
+    "probabilities": {
+      "SUPPORTED": 0.1437,
+      "REFUTED": 0.3708,
+      "UNVERIFIABLE": 0.4855
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000486",
+    "claim_text": "Did Marilyn Monroe Really Say This?",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.4853,
+    "probabilities": {
+      "SUPPORTED": 0.2285,
+      "REFUTED": 0.2862,
+      "UNVERIFIABLE": 0.4853
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000489",
+    "claim_text": "The email claiming to be a secret shopper opportunity for Whole Foods Market Research is a fraudulent hoax.",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9974,
+    "probabilities": {
+      "SUPPORTED": 0.002,
+      "REFUTED": 0.9974,
+      "UNVERIFIABLE": 0.0006
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000493",
+    "claim_text": "How have the financial assets of Presidents evolved over time?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.6486,
+    "probabilities": {
+      "SUPPORTED": 0.1094,
+      "REFUTED": 0.2419,
+      "UNVERIFIABLE": 0.6486
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000496",
+    "claim_text": "Is This Elon Musk 'Defend Billionaires' Billboard Real?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.476,
+    "probabilities": {
+      "SUPPORTED": 0.1802,
+      "REFUTED": 0.476,
+      "UNVERIFIABLE": 0.3438
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000505",
+    "claim_text": "Is the 'Blue Whale' Game Responsible for Dozens of Suicides in Russia?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.7494,
+    "probabilities": {
+      "SUPPORTED": 0.0357,
+      "REFUTED": 0.7494,
+      "UNVERIFIABLE": 0.2149
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000512",
+    "claim_text": "Is Stacey Abrams in debt of over $50,000 in unpaid taxes?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.4868,
+    "probabilities": {
+      "SUPPORTED": 0.2752,
+      "REFUTED": 0.4868,
+      "UNVERIFIABLE": 0.2381
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000514",
+    "claim_text": "Is Stacey Abrams obligated to pay back taxes exceeding $50,000?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.5567,
+    "probabilities": {
+      "SUPPORTED": 0.3484,
+      "REFUTED": 0.0949,
+      "UNVERIFIABLE": 0.5567
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000518",
+    "claim_text": "Did an article from 1933 state that Hitler would not cause turmoil in Germany?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.8638,
+    "probabilities": {
+      "SUPPORTED": 0.8638,
+      "REFUTED": 0.1351,
+      "UNVERIFIABLE": 0.0011
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000519",
+    "claim_text": "Are Old Canadian $2 Bills Worth $20,000?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9811,
+    "probabilities": {
+      "SUPPORTED": 0.0181,
+      "REFUTED": 0.9811,
+      "UNVERIFIABLE": 0.0009
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000533",
+    "claim_text": "Does This Video Show Refugees Looting a Café in Spain?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9705,
+    "probabilities": {
+      "SUPPORTED": 0.0139,
+      "REFUTED": 0.9705,
+      "UNVERIFIABLE": 0.0156
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000541",
+    "claim_text": "Did Obama Give Syria $195 Million to Celebrate a Muslim Holiday?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.5053,
+    "probabilities": {
+      "SUPPORTED": 0.0429,
+      "REFUTED": 0.5053,
+      "UNVERIFIABLE": 0.4518
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000545",
+    "claim_text": "Are These 'Human Sleeves' Real?",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.8473,
+    "probabilities": {
+      "SUPPORTED": 0.1419,
+      "REFUTED": 0.0108,
+      "UNVERIFIABLE": 0.8473
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000563",
+    "claim_text": "Concepts worthy of discarding.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.5089,
+    "probabilities": {
+      "SUPPORTED": 0.4559,
+      "REFUTED": 0.0352,
+      "UNVERIFIABLE": 0.5089
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000572",
+    "claim_text": "John McCain's Definition of 'Rich'",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.7435,
+    "probabilities": {
+      "SUPPORTED": 0.048,
+      "REFUTED": 0.2085,
+      "UNVERIFIABLE": 0.7435
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000576",
+    "claim_text": "The shutdown is projected to result in $10 billion in costs to the economy per week.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9951,
+    "probabilities": {
+      "SUPPORTED": 0.9951,
+      "REFUTED": 0.0046,
+      "UNVERIFIABLE": 0.0004
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000592",
+    "claim_text": "Did Thomas Paine Write, 'The Duty of a True Patriot Is to Protect His Country from Its Government'?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.8888,
+    "probabilities": {
+      "SUPPORTED": 0.1028,
+      "REFUTED": 0.8888,
+      "UNVERIFIABLE": 0.0084
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000593",
+    "claim_text": "Nude College Roommate",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9494,
+    "probabilities": {
+      "SUPPORTED": 0.0373,
+      "REFUTED": 0.9494,
+      "UNVERIFIABLE": 0.0134
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000596",
+    "claim_text": "Fannie Mae is loosening credit standards in order to assist in providing mortgage loans.",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.6898,
+    "probabilities": {
+      "SUPPORTED": 0.2756,
+      "REFUTED": 0.0346,
+      "UNVERIFIABLE": 0.6898
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000604",
+    "claim_text": "Do banks need to disclose all transactions exceeding $600 to the IRS as part of the Biden proposal?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.8208,
+    "probabilities": {
+      "SUPPORTED": 0.0907,
+      "REFUTED": 0.0885,
+      "UNVERIFIABLE": 0.8208
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000621",
+    "claim_text": "Has a firefighter's helmet from the FDNY that was worn on September 11th been taken?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.8277,
+    "probabilities": {
+      "SUPPORTED": 0.8277,
+      "REFUTED": 0.164,
+      "UNVERIFIABLE": 0.0084
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000641",
+    "claim_text": "Did Santa Hang on a Cross in Japan?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.8582,
+    "probabilities": {
+      "SUPPORTED": 0.8582,
+      "REFUTED": 0.131,
+      "UNVERIFIABLE": 0.0108
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000660",
+    "claim_text": "Zuccotti Park - Brookfield Properties",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.4824,
+    "probabilities": {
+      "SUPPORTED": 0.4431,
+      "REFUTED": 0.0744,
+      "UNVERIFIABLE": 0.4824
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000665",
+    "claim_text": "This governor has cut funding repeatedly for people who have AIDS, who need drugs to save their life.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.886,
+    "probabilities": {
+      "SUPPORTED": 0.886,
+      "REFUTED": 0.0043,
+      "UNVERIFIABLE": 0.1097
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000672",
+    "claim_text": "Says Austin has been ranked repeatedly as one of the most, if not the most, economically segregated cities in the country.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9843,
+    "probabilities": {
+      "SUPPORTED": 0.9843,
+      "REFUTED": 0.011,
+      "UNVERIFIABLE": 0.0047
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000678",
+    "claim_text": "Were these children separated from their parents during the Obama administration?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.5727,
+    "probabilities": {
+      "SUPPORTED": 0.0825,
+      "REFUTED": 0.5727,
+      "UNVERIFIABLE": 0.3448
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000680",
+    "claim_text": "Is This Video of a 'Praying Hands' Cloud Formation Real?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.8892,
+    "probabilities": {
+      "SUPPORTED": 0.02,
+      "REFUTED": 0.8892,
+      "UNVERIFIABLE": 0.0908
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000688",
+    "claim_text": "Is there a photograph depicting Ice Cube and 50 Cent wearing hats with the Trump logo?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.8759,
+    "probabilities": {
+      "SUPPORTED": 0.0783,
+      "REFUTED": 0.8759,
+      "UNVERIFIABLE": 0.0458
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000698",
+    "claim_text": "I have never supported cap and trade.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.7105,
+    "probabilities": {
+      "SUPPORTED": 0.7105,
+      "REFUTED": 0.0202,
+      "UNVERIFIABLE": 0.2693
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000704",
+    "claim_text": "In Austin, Texas, the average homeowner is paying about $1,300 to $1,400 just for recapture, meaning funds spent in non-Austin school districts.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.6083,
+    "probabilities": {
+      "SUPPORTED": 0.6083,
+      "REFUTED": 0.0922,
+      "UNVERIFIABLE": 0.2995
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000709",
+    "claim_text": "Is this photograph depicting legislators engaging in a game of Solitaire?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.7175,
+    "probabilities": {
+      "SUPPORTED": 0.7175,
+      "REFUTED": 0.2787,
+      "UNVERIFIABLE": 0.0038
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000723",
+    "claim_text": "Facebook Listens?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9547,
+    "probabilities": {
+      "SUPPORTED": 0.0053,
+      "REFUTED": 0.9547,
+      "UNVERIFIABLE": 0.04
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000734",
+    "claim_text": "The Kelly Beguiles",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.6925,
+    "probabilities": {
+      "SUPPORTED": 0.2531,
+      "REFUTED": 0.6925,
+      "UNVERIFIABLE": 0.0544
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000748",
+    "claim_text": "Is This Man's Name Really Peter Griffin?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9603,
+    "probabilities": {
+      "SUPPORTED": 0.0254,
+      "REFUTED": 0.9603,
+      "UNVERIFIABLE": 0.0143
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000749",
+    "claim_text": "The Truth About Slenderman",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.9934,
+    "probabilities": {
+      "SUPPORTED": 0.0003,
+      "REFUTED": 0.0063,
+      "UNVERIFIABLE": 0.9934
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000759",
+    "claim_text": "The propagation of malware is associated with the 'Be Like Bill' phenomena.",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.6161,
+    "probabilities": {
+      "SUPPORTED": 0.6161,
+      "REFUTED": 0.0969,
+      "UNVERIFIABLE": 0.287
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000760",
+    "claim_text": "Bill imitators spreading malicious software?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.7158,
+    "probabilities": {
+      "SUPPORTED": 0.1337,
+      "REFUTED": 0.7158,
+      "UNVERIFIABLE": 0.1506
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000780",
+    "claim_text": "71% of WIs roads are in poor or mediocre condition and 14% of WIs bridges are structurally deficient or functionally obsolete.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.7615,
+    "probabilities": {
+      "SUPPORTED": 0.7615,
+      "REFUTED": 0.2333,
+      "UNVERIFIABLE": 0.0052
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000786",
+    "claim_text": "Ford is moving all of their small-car production to Mexico.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.7811,
+    "probabilities": {
+      "SUPPORTED": 0.7811,
+      "REFUTED": 0.1495,
+      "UNVERIFIABLE": 0.0693
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000801",
+    "claim_text": "Gas Pump Icon and Fuel Doors",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.8431,
+    "probabilities": {
+      "SUPPORTED": 0.0849,
+      "REFUTED": 0.072,
+      "UNVERIFIABLE": 0.8431
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000818",
+    "claim_text": "Did Congress 'Give Itself a 21% Raise' in 2022?",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.6353,
+    "probabilities": {
+      "SUPPORTED": 0.6353,
+      "REFUTED": 0.3341,
+      "UNVERIFIABLE": 0.0306
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000840",
+    "claim_text": "Does Marie Yovanovitch Have a Net Worth of $17 Million?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.8289,
+    "probabilities": {
+      "SUPPORTED": 0.0827,
+      "REFUTED": 0.8289,
+      "UNVERIFIABLE": 0.0883
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000842",
+    "claim_text": "\"Did Someone Send a Uterus to the Supreme Court? Trending TikTok Story Takes Off\"",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.5945,
+    "probabilities": {
+      "SUPPORTED": 0.5945,
+      "REFUTED": 0.1424,
+      "UNVERIFIABLE": 0.2631
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000860",
+    "claim_text": "In New York, Average college debt - $30,000 per student.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9514,
+    "probabilities": {
+      "SUPPORTED": 0.9514,
+      "REFUTED": 0.0483,
+      "UNVERIFIABLE": 0.0003
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000861",
+    "claim_text": "Were  getting into the pool of the 100 million people that are not working. That pool is now coming back.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.7501,
+    "probabilities": {
+      "SUPPORTED": 0.7501,
+      "REFUTED": 0.2353,
+      "UNVERIFIABLE": 0.0146
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000882",
+    "claim_text": "Jim Renacci cheated on his income taxes and is a deadbeat citizen.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.8107,
+    "probabilities": {
+      "SUPPORTED": 0.8107,
+      "REFUTED": 0.0948,
+      "UNVERIFIABLE": 0.0945
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000894",
+    "claim_text": "Canada provides financial assistance to polygamist immigrants in the form of 'start-up money'.",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.5895,
+    "probabilities": {
+      "SUPPORTED": 0.0786,
+      "REFUTED": 0.5895,
+      "UNVERIFIABLE": 0.3318
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000915",
+    "claim_text": "Was it the Grateful Dead who sponsored the Olympic basketball team of Lithuania?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.7444,
+    "probabilities": {
+      "SUPPORTED": 0.2131,
+      "REFUTED": 0.7444,
+      "UNVERIFIABLE": 0.0425
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000919",
+    "claim_text": "Depending on which study you look at, either 68% or 5 out of 6 individuals ... are making more on unemployment than they did on the job.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9794,
+    "probabilities": {
+      "SUPPORTED": 0.9794,
+      "REFUTED": 0.0192,
+      "UNVERIFIABLE": 0.0014
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000929",
+    "claim_text": "Was $30 million donated by Planned Parenthood to Democrats in an effort to sway the outcome of the Midterm Elections?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.5691,
+    "probabilities": {
+      "SUPPORTED": 0.134,
+      "REFUTED": 0.2969,
+      "UNVERIFIABLE": 0.5691
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000941",
+    "claim_text": "Is Pepsi Giving Away Mini Fridges for its 100th Anniversary?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.7503,
+    "probabilities": {
+      "SUPPORTED": 0.0003,
+      "REFUTED": 0.7503,
+      "UNVERIFIABLE": 0.2493
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000979",
+    "claim_text": "Did a Mandalay Bay Hotel Worker 'Vanish' After Giving an Interview?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.6224,
+    "probabilities": {
+      "SUPPORTED": 0.3706,
+      "REFUTED": 0.6224,
+      "UNVERIFIABLE": 0.0069
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000982",
+    "claim_text": "Is a housing project for Syrian refugees being constructed in West Virginia with intentions of establishing a 'Sharia Zone'?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9597,
+    "probabilities": {
+      "SUPPORTED": 0.0035,
+      "REFUTED": 0.9597,
+      "UNVERIFIABLE": 0.0368
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000988",
+    "claim_text": "No, Sean Connery's wealth did not make his family 'cry'.",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.5161,
+    "probabilities": {
+      "SUPPORTED": 0.5161,
+      "REFUTED": 0.4218,
+      "UNVERIFIABLE": 0.0621
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000994",
+    "claim_text": "John Roberts and the Decision Regarding the Affordable Care Act",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.4852,
+    "probabilities": {
+      "SUPPORTED": 0.4852,
+      "REFUTED": 0.2985,
+      "UNVERIFIABLE": 0.2163
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_000995",
+    "claim_text": "John Roberts and the ruling on the Affordable Care Act (Obamacare).",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.5728,
+    "probabilities": {
+      "SUPPORTED": 0.5728,
+      "REFUTED": 0.33,
+      "UNVERIFIABLE": 0.0973
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_000996",
+    "claim_text": "Did Paul Ryan Say Women Who Use Birth Control Are Committing Murder?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.4696,
+    "probabilities": {
+      "SUPPORTED": 0.1088,
+      "REFUTED": 0.4696,
+      "UNVERIFIABLE": 0.4215
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001006",
+    "claim_text": "Letter from the Boss",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.6326,
+    "probabilities": {
+      "SUPPORTED": 0.3647,
+      "REFUTED": 0.6326,
+      "UNVERIFIABLE": 0.0027
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001008",
+    "claim_text": "Communication from the superior.",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.4863,
+    "probabilities": {
+      "SUPPORTED": 0.4863,
+      "REFUTED": 0.4458,
+      "UNVERIFIABLE": 0.0679
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001010",
+    "claim_text": "Did 30,000 Cows Freeze to Death in a Winter Storm?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.7872,
+    "probabilities": {
+      "SUPPORTED": 0.0738,
+      "REFUTED": 0.139,
+      "UNVERIFIABLE": 0.7872
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001013",
+    "claim_text": "Did Dolly Parton Say: 'Trump In One Year Is Already Better Than 16 Years of Bush, Obama Put Together'?",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.418,
+    "probabilities": {
+      "SUPPORTED": 0.1664,
+      "REFUTED": 0.4155,
+      "UNVERIFIABLE": 0.418
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001022",
+    "claim_text": "Must senior citizens receiving Social Security pay for Medicare while unauthorized immigrants receive it at no cost?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9847,
+    "probabilities": {
+      "SUPPORTED": 0.0034,
+      "REFUTED": 0.9847,
+      "UNVERIFIABLE": 0.0119
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001034",
+    "claim_text": "Federal spending is the highest it's been as a share of our economy in 60 years (and) revenue is the lowest it's been as a share of our economy in 60 years.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9909,
+    "probabilities": {
+      "SUPPORTED": 0.9909,
+      "REFUTED": 0.0088,
+      "UNVERIFIABLE": 0.0003
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001040",
+    "claim_text": "Bacon Sandwich Reported as Offensive on Facebook",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.8183,
+    "probabilities": {
+      "SUPPORTED": 0.1646,
+      "REFUTED": 0.8183,
+      "UNVERIFIABLE": 0.0171
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001047",
+    "claim_text": "Is the Trump campaign automatically selecting a \"Recurring Donation\" option that expires in December?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.5391,
+    "probabilities": {
+      "SUPPORTED": 0.5391,
+      "REFUTED": 0.3854,
+      "UNVERIFIABLE": 0.0755
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001049",
+    "claim_text": "Did President Trump's Awarding of a Purple Heart to a Wounded Vet Go Unreported by News Media?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.4024,
+    "probabilities": {
+      "SUPPORTED": 0.2118,
+      "REFUTED": 0.3858,
+      "UNVERIFIABLE": 0.4024
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001055",
+    "claim_text": "Did Nostradamus Predict the World Will Fall After a 'Feeble Man' Rules?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.8263,
+    "probabilities": {
+      "SUPPORTED": 0.1532,
+      "REFUTED": 0.8263,
+      "UNVERIFIABLE": 0.0205
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001070",
+    "claim_text": "Does this online image show evidence of racial prejudice in cases of prosecuting individuals for tax evasion?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.6081,
+    "probabilities": {
+      "SUPPORTED": 0.2989,
+      "REFUTED": 0.6081,
+      "UNVERIFIABLE": 0.093
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001080",
+    "claim_text": "Did Tucker Carlson Ask Hunter Biden for Help Getting His Son into College?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.706,
+    "probabilities": {
+      "SUPPORTED": 0.1783,
+      "REFUTED": 0.706,
+      "UNVERIFIABLE": 0.1157
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001123",
+    "claim_text": "Are 'Bonsai Kittens' Real?",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.8923,
+    "probabilities": {
+      "SUPPORTED": 0.0471,
+      "REFUTED": 0.0606,
+      "UNVERIFIABLE": 0.8923
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001133",
+    "claim_text": "Dynamic Pet Products Real Ham Bone",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.9987,
+    "probabilities": {
+      "SUPPORTED": 0.0007,
+      "REFUTED": 0.0007,
+      "UNVERIFIABLE": 0.9987
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001141",
+    "claim_text": "Texas is LAST (50th) in spending for mental health care.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.8378,
+    "probabilities": {
+      "SUPPORTED": 0.8378,
+      "REFUTED": 0.0905,
+      "UNVERIFIABLE": 0.0718
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001211",
+    "claim_text": "Incorrect, the former NFL quarterback John Elway is not financially destitute.",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.5601,
+    "probabilities": {
+      "SUPPORTED": 0.5601,
+      "REFUTED": 0.4072,
+      "UNVERIFIABLE": 0.0326
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001219",
+    "claim_text": "Dick Hawley Speech",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.6576,
+    "probabilities": {
+      "SUPPORTED": 0.1544,
+      "REFUTED": 0.188,
+      "UNVERIFIABLE": 0.6576
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001220",
+    "claim_text": "'The Big Lebowski 2' Announced",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.5286,
+    "probabilities": {
+      "SUPPORTED": 0.1952,
+      "REFUTED": 0.5286,
+      "UNVERIFIABLE": 0.2763
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001230",
+    "claim_text": "Snowden Pronounced Dead by His Girlfriend in Russia",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.8974,
+    "probabilities": {
+      "SUPPORTED": 0.0777,
+      "REFUTED": 0.8974,
+      "UNVERIFIABLE": 0.0249
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001232",
+    "claim_text": "Snowden was declared deceased by his girlfriend in Russia.",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.712,
+    "probabilities": {
+      "SUPPORTED": 0.2798,
+      "REFUTED": 0.712,
+      "UNVERIFIABLE": 0.0082
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001235",
+    "claim_text": "Has Trump suggested alterations to SSI that might result in the termination of disability benefits for numerous individuals?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.6124,
+    "probabilities": {
+      "SUPPORTED": 0.0834,
+      "REFUTED": 0.3043,
+      "UNVERIFIABLE": 0.6124
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001256",
+    "claim_text": "It costs nearly five times as much in California to build and maintain a mile of road as it does in the rest of the nation.",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9404,
+    "probabilities": {
+      "SUPPORTED": 0.9404,
+      "REFUTED": 0.0007,
+      "UNVERIFIABLE": 0.059
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001272",
+    "claim_text": "Obama provides a loan of $2 billion to a Brazilian oil company.",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.545,
+    "probabilities": {
+      "SUPPORTED": 0.545,
+      "REFUTED": 0.2936,
+      "UNVERIFIABLE": 0.1614
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001274",
+    "claim_text": "Was Rev. Al Sharpton Paid $24K to Speak at George Floyd's Funeral?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.5967,
+    "probabilities": {
+      "SUPPORTED": 0.181,
+      "REFUTED": 0.5967,
+      "UNVERIFIABLE": 0.2224
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001287",
+    "claim_text": "Paper Shredder Danger",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9288,
+    "probabilities": {
+      "SUPPORTED": 0.0699,
+      "REFUTED": 0.9288,
+      "UNVERIFIABLE": 0.0013
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001327",
+    "claim_text": "No, Biden Didn't Give China Control Over the US Power Grid",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.6562,
+    "probabilities": {
+      "SUPPORTED": 0.0885,
+      "REFUTED": 0.6562,
+      "UNVERIFIABLE": 0.2553
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001337",
+    "claim_text": "Did Dakota Territory divide into two states in order to gain additional Republican Senators?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.8457,
+    "probabilities": {
+      "SUPPORTED": 0.0667,
+      "REFUTED": 0.0876,
+      "UNVERIFIABLE": 0.8457
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001348",
+    "claim_text": "Dr. Walter Williams - No Matter What",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.6414,
+    "probabilities": {
+      "SUPPORTED": 0.2189,
+      "REFUTED": 0.6414,
+      "UNVERIFIABLE": 0.1397
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001392",
+    "claim_text": "Beto O'Rourke's 'Reality Check' can be paraphrased as Beto O'Rourke's demonstration of the truth or a candid assessment of the situation.",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.5413,
+    "probabilities": {
+      "SUPPORTED": 0.2792,
+      "REFUTED": 0.1796,
+      "UNVERIFIABLE": 0.5413
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001440",
+    "claim_text": "Is AARP in favor of the Democratic Party?",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.6454,
+    "probabilities": {
+      "SUPPORTED": 0.1541,
+      "REFUTED": 0.2005,
+      "UNVERIFIABLE": 0.6454
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001442",
+    "claim_text": "Video Does Not Show Electric Scooter Bikes Abandoned in a 'Graveyard' Due to High Cost of Batteries",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.6147,
+    "probabilities": {
+      "SUPPORTED": 0.1577,
+      "REFUTED": 0.2276,
+      "UNVERIFIABLE": 0.6147
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001445",
+    "claim_text": "Have 3D Printed Rhino Horns Been Developed to Stop Poaching?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.6062,
+    "probabilities": {
+      "SUPPORTED": 0.195,
+      "REFUTED": 0.1987,
+      "UNVERIFIABLE": 0.6062
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001473",
+    "claim_text": "Fraudulent Promotion Offering Free Airline Tickets",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9221,
+    "probabilities": {
+      "SUPPORTED": 0.0632,
+      "REFUTED": 0.9221,
+      "UNVERIFIABLE": 0.0146
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001489",
+    "claim_text": "Shoo Fly Awry",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9765,
+    "probabilities": {
+      "SUPPORTED": 0.0144,
+      "REFUTED": 0.9765,
+      "UNVERIFIABLE": 0.0091
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001501",
+    "claim_text": "Says the military accounts for about 10 percent of Florida's economy.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9965,
+    "probabilities": {
+      "SUPPORTED": 0.9965,
+      "REFUTED": 0.003,
+      "UNVERIFIABLE": 0.0005
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001516",
+    "claim_text": "Forty-five percent of those who've been unemployed, they've been unemployed for six months or longer.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9731,
+    "probabilities": {
+      "SUPPORTED": 0.9731,
+      "REFUTED": 0.0221,
+      "UNVERIFIABLE": 0.0048
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001519",
+    "claim_text": "Hulk Hogan Death Hoax",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9962,
+    "probabilities": {
+      "SUPPORTED": 0.0023,
+      "REFUTED": 0.9962,
+      "UNVERIFIABLE": 0.0015
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001535",
+    "claim_text": "No, Pfizer does not possess Neil Young's music collection.",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9564,
+    "probabilities": {
+      "SUPPORTED": 0.0416,
+      "REFUTED": 0.9564,
+      "UNVERIFIABLE": 0.002
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001546",
+    "claim_text": "Is the USPS deliberately delaying mail to support Trump's reelection?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.9249,
+    "probabilities": {
+      "SUPPORTED": 0.0344,
+      "REFUTED": 0.0408,
+      "UNVERIFIABLE": 0.9249
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001554",
+    "claim_text": "Did 2021 U.S. Defense Bill Nullify the Insurrection Act?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.5154,
+    "probabilities": {
+      "SUPPORTED": 0.3046,
+      "REFUTED": 0.5154,
+      "UNVERIFIABLE": 0.1799
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001556",
+    "claim_text": "European Parental Leave Benefits",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.8441,
+    "probabilities": {
+      "SUPPORTED": 0.0463,
+      "REFUTED": 0.1096,
+      "UNVERIFIABLE": 0.8441
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001578",
+    "claim_text": "Did Pastor Dave Barnhart Say, 'The Unborn Are a Convenient Group of People to Advocate For'?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.6417,
+    "probabilities": {
+      "SUPPORTED": 0.0844,
+      "REFUTED": 0.6417,
+      "UNVERIFIABLE": 0.2739
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001596",
+    "claim_text": "Chase Wheedle is a Seattle attraction.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.8099,
+    "probabilities": {
+      "SUPPORTED": 0.8099,
+      "REFUTED": 0.0381,
+      "UNVERIFIABLE": 0.152
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001599",
+    "claim_text": "Did American Airlines Receive Billions in Federal Aid Then Lay Off 30,000 Employees?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.7571,
+    "probabilities": {
+      "SUPPORTED": 0.1693,
+      "REFUTED": 0.0736,
+      "UNVERIFIABLE": 0.7571
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001620",
+    "claim_text": "Does the 'Bar' in 'Bar Exam' Denote a Secret Lawyers' Conspiracy?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.8536,
+    "probabilities": {
+      "SUPPORTED": 0.0524,
+      "REFUTED": 0.8536,
+      "UNVERIFIABLE": 0.0941
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001637",
+    "claim_text": "Lifetime passes for complimentary quick dining options.",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.5918,
+    "probabilities": {
+      "SUPPORTED": 0.5918,
+      "REFUTED": 0.2216,
+      "UNVERIFIABLE": 0.1866
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001647",
+    "claim_text": "Was a Pixie Skeleton Discovered in the Rocky Mountains?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.6146,
+    "probabilities": {
+      "SUPPORTED": 0.0195,
+      "REFUTED": 0.6146,
+      "UNVERIFIABLE": 0.3658
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001648",
+    "claim_text": "Pelosis new coronavirus bill allows illegals to receive billions in relief funds in past, current, and future payments.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.7165,
+    "probabilities": {
+      "SUPPORTED": 0.1118,
+      "REFUTED": 0.7165,
+      "UNVERIFIABLE": 0.1717
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001651",
+    "claim_text": "Can You Buy COVID-19 Vaccines on the Dark Web?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.7681,
+    "probabilities": {
+      "SUPPORTED": 0.0289,
+      "REFUTED": 0.7681,
+      "UNVERIFIABLE": 0.203
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001659",
+    "claim_text": "Does President Trump Have Financial Interests in Saudi Arabia?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.8612,
+    "probabilities": {
+      "SUPPORTED": 0.0128,
+      "REFUTED": 0.8612,
+      "UNVERIFIABLE": 0.126
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001673",
+    "claim_text": "Hillary Clinton: Supreme Court Exists to 'Change and Shape the Law'",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.4707,
+    "probabilities": {
+      "SUPPORTED": 0.4707,
+      "REFUTED": 0.4083,
+      "UNVERIFIABLE": 0.121
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001687",
+    "claim_text": "Does This Pic Show a Real Animal Called a 'Carpet Shark'?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.4687,
+    "probabilities": {
+      "SUPPORTED": 0.2369,
+      "REFUTED": 0.4687,
+      "UNVERIFIABLE": 0.2944
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001697",
+    "claim_text": "Ninety percent of people born in the 1940s ended up doing better financially than their parents. But those born in the 1980s, the much-maligned Millennials, have only a 50-50 chance of doing better (financially) than their parents, despite being the best-educated generation in our history.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.7375,
+    "probabilities": {
+      "SUPPORTED": 0.7375,
+      "REFUTED": 0.1113,
+      "UNVERIFIABLE": 0.1512
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001699",
+    "claim_text": "90% of individuals born in the 1940s surpassed their parents' financial status, whereas only around half of those born in the 1980s, known as Millennials, are expected to achieve greater financial success than their parents. This outcome is despite Millennials being recognized as the most educated generation to date.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.7638,
+    "probabilities": {
+      "SUPPORTED": 0.7638,
+      "REFUTED": 0.1384,
+      "UNVERIFIABLE": 0.0978
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001704",
+    "claim_text": "No, Walmart Isn't Writing Off Your Checkout Donations",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9229,
+    "probabilities": {
+      "SUPPORTED": 0.0144,
+      "REFUTED": 0.9229,
+      "UNVERIFIABLE": 0.0627
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001721",
+    "claim_text": "'Little People, Big World' Posts About a 'Loss' Are Misleading",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.7406,
+    "probabilities": {
+      "SUPPORTED": 0.1389,
+      "REFUTED": 0.1205,
+      "UNVERIFIABLE": 0.7406
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001739",
+    "claim_text": "Billions and Billions",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.5108,
+    "probabilities": {
+      "SUPPORTED": 0.5108,
+      "REFUTED": 0.0603,
+      "UNVERIFIABLE": 0.4289
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001745",
+    "claim_text": "New Orleans Swine Flu Cases",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.4457,
+    "probabilities": {
+      "SUPPORTED": 0.2318,
+      "REFUTED": 0.3226,
+      "UNVERIFIABLE": 0.4457
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001747",
+    "claim_text": "Farting Burns 67 Calories?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9896,
+    "probabilities": {
+      "SUPPORTED": 0.0002,
+      "REFUTED": 0.9896,
+      "UNVERIFIABLE": 0.0102
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001759",
+    "claim_text": "Hawker Beechcraft",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.7662,
+    "probabilities": {
+      "SUPPORTED": 0.1958,
+      "REFUTED": 0.038,
+      "UNVERIFIABLE": 0.7662
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001767",
+    "claim_text": "Macy's sent a letter to Rick Perry urging him to veto equal pay bill.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9561,
+    "probabilities": {
+      "SUPPORTED": 0.9561,
+      "REFUTED": 0.0397,
+      "UNVERIFIABLE": 0.0042
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001773",
+    "claim_text": "Was it stated by Donald Trump that the Earth is flat?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.6494,
+    "probabilities": {
+      "SUPPORTED": 0.2135,
+      "REFUTED": 0.6494,
+      "UNVERIFIABLE": 0.137
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001788",
+    "claim_text": "Did Portland Mayor Declare State of Emergency After Antifa, BLM Posters Called for Violence?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.4766,
+    "probabilities": {
+      "SUPPORTED": 0.1994,
+      "REFUTED": 0.4766,
+      "UNVERIFIABLE": 0.324
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001811",
+    "claim_text": "Caroline Kennedy's perspective on Barack Obama",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.9836,
+    "probabilities": {
+      "SUPPORTED": 0.0032,
+      "REFUTED": 0.0132,
+      "UNVERIFIABLE": 0.9836
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001830",
+    "claim_text": "Is John Dillinger's Penis on Display at the Smithsonian?",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.6414,
+    "probabilities": {
+      "SUPPORTED": 0.0505,
+      "REFUTED": 0.308,
+      "UNVERIFIABLE": 0.6414
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001844",
+    "claim_text": "The Debt Free America Act, also known as H.R. 4646, aims to eliminate national debt.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.5588,
+    "probabilities": {
+      "SUPPORTED": 0.3204,
+      "REFUTED": 0.1208,
+      "UNVERIFIABLE": 0.5588
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001850",
+    "claim_text": "Did Sen. Cory Booker Put Undocumented People 'Before Seniors and Veterans'?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.6462,
+    "probabilities": {
+      "SUPPORTED": 0.1717,
+      "REFUTED": 0.6462,
+      "UNVERIFIABLE": 0.1821
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001860",
+    "claim_text": "2011 W-2 tax documents and HR3590 legislation",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9116,
+    "probabilities": {
+      "SUPPORTED": 0.0341,
+      "REFUTED": 0.9116,
+      "UNVERIFIABLE": 0.0543
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001877",
+    "claim_text": "Death Row Inmate Asks for a Child As His Last Meal, Texas DOC Plan to Grant Request?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.9727,
+    "probabilities": {
+      "SUPPORTED": 0.0026,
+      "REFUTED": 0.0247,
+      "UNVERIFIABLE": 0.9727
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001890",
+    "claim_text": "Alabama Mother's Terrifying Experience with the Affordable Care Act",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.3725,
+    "probabilities": {
+      "SUPPORTED": 0.3725,
+      "REFUTED": 0.2903,
+      "UNVERIFIABLE": 0.3372
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001900",
+    "claim_text": "Never once did they (House Republicans) actually cut spending or reduce the state budget. Even when they cut taxes in 2005, they increased spending. They never paid for their tax cuts.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.998,
+    "probabilities": {
+      "SUPPORTED": 0.998,
+      "REFUTED": 0.0006,
+      "UNVERIFIABLE": 0.0014
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001902",
+    "claim_text": "Did you know Wisconsin's AFSCME union has lost 50%+ of its members since no longer requiring membership?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.6005,
+    "probabilities": {
+      "SUPPORTED": 0.3726,
+      "REFUTED": 0.0269,
+      "UNVERIFIABLE": 0.6005
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001931",
+    "claim_text": "Is Article 54 of Obamacare Taking Effect in May 2018?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.6833,
+    "probabilities": {
+      "SUPPORTED": 0.0218,
+      "REFUTED": 0.6833,
+      "UNVERIFIABLE": 0.2949
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001936",
+    "claim_text": "Justin Trudeau has announced plans to grant pardons to all individuals who have been convicted of a marijuana-related offense.",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.8081,
+    "probabilities": {
+      "SUPPORTED": 0.1875,
+      "REFUTED": 0.8081,
+      "UNVERIFIABLE": 0.0045
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001937",
+    "claim_text": "Justin Trudeau is planning to grant pardons to all individuals who have been convicted of a marijuana-related offense.",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.8476,
+    "probabilities": {
+      "SUPPORTED": 0.1481,
+      "REFUTED": 0.8476,
+      "UNVERIFIABLE": 0.0043
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001952",
+    "claim_text": "Risk analysts listed Donald Trump, a Donald Trump presidency, as one of the top threats facing the global economy, ahead of terrorism.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9127,
+    "probabilities": {
+      "SUPPORTED": 0.9127,
+      "REFUTED": 0.0205,
+      "UNVERIFIABLE": 0.0668
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001961",
+    "claim_text": "Does This Photograph Show Beetles Embedded in a Dog's Mouth?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9647,
+    "probabilities": {
+      "SUPPORTED": 0.9647,
+      "REFUTED": 0.019,
+      "UNVERIFIABLE": 0.0163
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_001967",
+    "claim_text": "Blue Owls Aren't Real, Despite Pictures Shared Online",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.7339,
+    "probabilities": {
+      "SUPPORTED": 0.0575,
+      "REFUTED": 0.2086,
+      "UNVERIFIABLE": 0.7339
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001968",
+    "claim_text": "Did Rep. Marjorie Taylor Greene Say 'Jewish Space Lasers' Caused California Wildfires?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.5498,
+    "probabilities": {
+      "SUPPORTED": 0.0718,
+      "REFUTED": 0.5498,
+      "UNVERIFIABLE": 0.3783
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_001969",
+    "claim_text": "Was it stated by Representative Marjorie Taylor Greene that California wildfires were caused by 'Jewish Space Lasers'?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.6751,
+    "probabilities": {
+      "SUPPORTED": 0.0667,
+      "REFUTED": 0.6751,
+      "UNVERIFIABLE": 0.2582
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002017",
+    "claim_text": "Customer Reports Finding Rat Head in Popeyes Chicken",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.894,
+    "probabilities": {
+      "SUPPORTED": 0.0143,
+      "REFUTED": 0.0917,
+      "UNVERIFIABLE": 0.894
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002050",
+    "claim_text": "Did Harry Truman Denounce the Use of 'Socialism' as a 'Scare Word'?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.5661,
+    "probabilities": {
+      "SUPPORTED": 0.2177,
+      "REFUTED": 0.2161,
+      "UNVERIFIABLE": 0.5661
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002061",
+    "claim_text": "We had bipartisan legislation that got through the Senate that would have prevented bonuses like AIG's and then somehow mysteriously disappeared.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.7818,
+    "probabilities": {
+      "SUPPORTED": 0.1238,
+      "REFUTED": 0.0943,
+      "UNVERIFIABLE": 0.7818
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002062",
+    "claim_text": "Young Protester Stares Down Police",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.5094,
+    "probabilities": {
+      "SUPPORTED": 0.0053,
+      "REFUTED": 0.4853,
+      "UNVERIFIABLE": 0.5094
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002081",
+    "claim_text": "Were 'Black People in Birmingham' Caught Voting Multiple Times With Fake IDs?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.676,
+    "probabilities": {
+      "SUPPORTED": 0.0164,
+      "REFUTED": 0.676,
+      "UNVERIFIABLE": 0.3076
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002104",
+    "claim_text": "Under economic sanctions, now Iran is suffering 30 percent inflation, 20 percent unemployment.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9625,
+    "probabilities": {
+      "SUPPORTED": 0.9625,
+      "REFUTED": 0.0151,
+      "UNVERIFIABLE": 0.0224
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002108",
+    "claim_text": "Do Pics Show Blackburn Flashing 'White Power Sign' in US Senate?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.5554,
+    "probabilities": {
+      "SUPPORTED": 0.3534,
+      "REFUTED": 0.5554,
+      "UNVERIFIABLE": 0.0911
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002109",
+    "claim_text": "Was Hillary Clinton Offered a Plea Deal in August 2017?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.7718,
+    "probabilities": {
+      "SUPPORTED": 0.0126,
+      "REFUTED": 0.7718,
+      "UNVERIFIABLE": 0.2156
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002113",
+    "claim_text": "Did Dems Write to Ukrainians in 2018 Asking Them to 'Investigate Trump'?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.4807,
+    "probabilities": {
+      "SUPPORTED": 0.2043,
+      "REFUTED": 0.4807,
+      "UNVERIFIABLE": 0.315
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002119",
+    "claim_text": "Will an order from Trump result in a reduction of insulin prices to just a few cents per day?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.9452,
+    "probabilities": {
+      "SUPPORTED": 0.0302,
+      "REFUTED": 0.0247,
+      "UNVERIFIABLE": 0.9452
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002125",
+    "claim_text": "Did Members of Congress Each Make $100K While Debating $600 Stimulus Checks?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.5068,
+    "probabilities": {
+      "SUPPORTED": 0.5068,
+      "REFUTED": 0.0587,
+      "UNVERIFIABLE": 0.4345
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002131",
+    "claim_text": "Scam involving a $150 anniversary coupon from Lowe's",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.7805,
+    "probabilities": {
+      "SUPPORTED": 0.0746,
+      "REFUTED": 0.7805,
+      "UNVERIFIABLE": 0.145
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002135",
+    "claim_text": "(Retail) milk has gone up 7.5% since this time last year. The price farmers are paid has dropped 23%.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9832,
+    "probabilities": {
+      "SUPPORTED": 0.9832,
+      "REFUTED": 0.0125,
+      "UNVERIFIABLE": 0.0043
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002161",
+    "claim_text": "On taxes, President Barack Obama wants to raise the top rate to 44.8 percent.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9426,
+    "probabilities": {
+      "SUPPORTED": 0.9426,
+      "REFUTED": 0.0573,
+      "UNVERIFIABLE": 0.0001
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002165",
+    "claim_text": "Did Kurt Cobain Say of 'Nevermind' Album Cover, 'If You're Offended by This You Must Be a Closet Pedophile'?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.6717,
+    "probabilities": {
+      "SUPPORTED": 0.6717,
+      "REFUTED": 0.1663,
+      "UNVERIFIABLE": 0.162
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002198",
+    "claim_text": "Did a Russian Asbestos Company Put Trump's Face on Their Product?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.3893,
+    "probabilities": {
+      "SUPPORTED": 0.3196,
+      "REFUTED": 0.2911,
+      "UNVERIFIABLE": 0.3893
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002209",
+    "claim_text": "Obama came into office with a $1.3 trillion deficit before I had passed any law... We came in with $8 trillion worth of debt over the next decade.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.8277,
+    "probabilities": {
+      "SUPPORTED": 0.8277,
+      "REFUTED": 0.0675,
+      "UNVERIFIABLE": 0.1048
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002242",
+    "claim_text": "Says Milwaukee County Sheriff David Clarke has deputies collecting overtime while sitting passively in chairs watching courthouse security personnel work.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.8557,
+    "probabilities": {
+      "SUPPORTED": 0.8557,
+      "REFUTED": 0.0812,
+      "UNVERIFIABLE": 0.0631
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002264",
+    "claim_text": "The wealthiest three families now own more wealth than the bottom half of the country.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.522,
+    "probabilities": {
+      "SUPPORTED": 0.4612,
+      "REFUTED": 0.522,
+      "UNVERIFIABLE": 0.0169
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002278",
+    "claim_text": "Did Tom Price Say It Is 'Better for Our Budget If Cancer Patients Die More Quickly'?",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.7738,
+    "probabilities": {
+      "SUPPORTED": 0.7738,
+      "REFUTED": 0.1658,
+      "UNVERIFIABLE": 0.0605
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002293",
+    "claim_text": "Canadian Richard Brunt Pens Open Letter On America's Mid-Term Elections",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.7754,
+    "probabilities": {
+      "SUPPORTED": 0.1081,
+      "REFUTED": 0.1165,
+      "UNVERIFIABLE": 0.7754
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002296",
+    "claim_text": "Obama Eliminates Combat Pay",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.6507,
+    "probabilities": {
+      "SUPPORTED": 0.2518,
+      "REFUTED": 0.0976,
+      "UNVERIFIABLE": 0.6507
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002298",
+    "claim_text": "Did the Trump Administration Send 18 Tons of PPE to China in Early 2020?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.721,
+    "probabilities": {
+      "SUPPORTED": 0.2425,
+      "REFUTED": 0.721,
+      "UNVERIFIABLE": 0.0365
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002313",
+    "claim_text": "Did Donald Trump's 2018 Budget Proposal Cut Support for Disabled Veterans?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.5823,
+    "probabilities": {
+      "SUPPORTED": 0.5823,
+      "REFUTED": 0.3575,
+      "UNVERIFIABLE": 0.0601
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002319",
+    "claim_text": "Were spending 18 percent of our GDP on healthcare while the average among industrialized countries is closer to 8 percent.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9418,
+    "probabilities": {
+      "SUPPORTED": 0.9418,
+      "REFUTED": 0.006,
+      "UNVERIFIABLE": 0.0522
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002321",
+    "claim_text": "Was 'How To Hit a Woman So No One Knows' Googled 163M Times in 2020?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.6793,
+    "probabilities": {
+      "SUPPORTED": 0.0362,
+      "REFUTED": 0.6793,
+      "UNVERIFIABLE": 0.2846
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002342",
+    "claim_text": "Is There a Warrant for CIA Director Nominee Gina Haspel's Arrest?",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.6973,
+    "probabilities": {
+      "SUPPORTED": 0.0051,
+      "REFUTED": 0.2976,
+      "UNVERIFIABLE": 0.6973
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002348",
+    "claim_text": "Rabbi Steven Pruzansky -- The Decline and Fall of the American Empire",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.5822,
+    "probabilities": {
+      "SUPPORTED": 0.5822,
+      "REFUTED": 0.2127,
+      "UNVERIFIABLE": 0.2051
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002418",
+    "claim_text": "Did Biden Say Poor Kids Are 'Just as Talented as White Kids'?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.879,
+    "probabilities": {
+      "SUPPORTED": 0.0235,
+      "REFUTED": 0.879,
+      "UNVERIFIABLE": 0.0975
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002432",
+    "claim_text": "Cautionary notice regarding the Affordable Care Act",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.4639,
+    "probabilities": {
+      "SUPPORTED": 0.1589,
+      "REFUTED": 0.3773,
+      "UNVERIFIABLE": 0.4639
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002438",
+    "claim_text": "Abandoned Polish Wedding Chairs",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9508,
+    "probabilities": {
+      "SUPPORTED": 0.9508,
+      "REFUTED": 0.0263,
+      "UNVERIFIABLE": 0.0229
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002446",
+    "claim_text": "Did US 'Lead the World' in Reducing CO2 Emissions in 2019?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.6985,
+    "probabilities": {
+      "SUPPORTED": 0.2234,
+      "REFUTED": 0.0781,
+      "UNVERIFIABLE": 0.6985
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002453",
+    "claim_text": "Wisconsin is below the national average in wage growth and job growth.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9337,
+    "probabilities": {
+      "SUPPORTED": 0.9337,
+      "REFUTED": 0.0023,
+      "UNVERIFIABLE": 0.064
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002456",
+    "claim_text": "Did Kevin Sorbo of 'Hercules' Fame Die in 2020?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9995,
+    "probabilities": {
+      "SUPPORTED": 0.0004,
+      "REFUTED": 0.9995,
+      "UNVERIFIABLE": 0.0001
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002458",
+    "claim_text": "The Inland Empire is the second fastest growing region for jobs in California.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.8997,
+    "probabilities": {
+      "SUPPORTED": 0.8997,
+      "REFUTED": 0.1003,
+      "UNVERIFIABLE": 0.0
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002464",
+    "claim_text": "Bernie Sanders, FDR, and Contested Conventions",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.8248,
+    "probabilities": {
+      "SUPPORTED": 0.0496,
+      "REFUTED": 0.1256,
+      "UNVERIFIABLE": 0.8248
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002475",
+    "claim_text": "Obama Orders Fed to Adopt Euro Currency",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.9951,
+    "probabilities": {
+      "SUPPORTED": 0.0038,
+      "REFUTED": 0.0012,
+      "UNVERIFIABLE": 0.9951
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002488",
+    "claim_text": "Are 'PlayJoltz' or 'SmushGame' Legitimate Free Streaming Services?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9916,
+    "probabilities": {
+      "SUPPORTED": 0.0082,
+      "REFUTED": 0.9916,
+      "UNVERIFIABLE": 0.0002
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002507",
+    "claim_text": "Is this Unflattering Image of President Trump Real?",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.6534,
+    "probabilities": {
+      "SUPPORTED": 0.6534,
+      "REFUTED": 0.0243,
+      "UNVERIFIABLE": 0.3223
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002510",
+    "claim_text": "Rhode Island has a very generous unemployment compensation rate compared to most other states.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.8993,
+    "probabilities": {
+      "SUPPORTED": 0.8993,
+      "REFUTED": 0.0982,
+      "UNVERIFIABLE": 0.0025
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002539",
+    "claim_text": "Did Crisis Actors Make a Propaganda Video in Ukraine?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.5344,
+    "probabilities": {
+      "SUPPORTED": 0.3513,
+      "REFUTED": 0.5344,
+      "UNVERIFIABLE": 0.1144
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002552",
+    "claim_text": "Republican candidate for California governor Travis Allen gave campaign donations to Jerry Brown, Gavin Newsom and Barbara Boxer.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9606,
+    "probabilities": {
+      "SUPPORTED": 0.9606,
+      "REFUTED": 0.0385,
+      "UNVERIFIABLE": 0.001
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002558",
+    "claim_text": "Jeremy Allen White and Gene Wilder Are Related?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.5317,
+    "probabilities": {
+      "SUPPORTED": 0.1299,
+      "REFUTED": 0.5317,
+      "UNVERIFIABLE": 0.3384
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002574",
+    "claim_text": "Not the Father, But Ordered to Pay $30,000 in Child Support",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.7304,
+    "probabilities": {
+      "SUPPORTED": 0.7304,
+      "REFUTED": 0.1956,
+      "UNVERIFIABLE": 0.074
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002579",
+    "claim_text": "Whittier Carjacking Warning",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.7767,
+    "probabilities": {
+      "SUPPORTED": 0.1487,
+      "REFUTED": 0.7767,
+      "UNVERIFIABLE": 0.0745
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002581",
+    "claim_text": "Baseball's Jim Gentile Received $5K 'Bonus' – 50 Years Late",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.4545,
+    "probabilities": {
+      "SUPPORTED": 0.1691,
+      "REFUTED": 0.3764,
+      "UNVERIFIABLE": 0.4545
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002583",
+    "claim_text": "George Carlin 'Bad American'",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.5662,
+    "probabilities": {
+      "SUPPORTED": 0.5662,
+      "REFUTED": 0.1228,
+      "UNVERIFIABLE": 0.311
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002601",
+    "claim_text": "The Truth About ANWR",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.7358,
+    "probabilities": {
+      "SUPPORTED": 0.1227,
+      "REFUTED": 0.7358,
+      "UNVERIFIABLE": 0.1415
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002602",
+    "claim_text": "The Reality Regarding ANWR",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.6728,
+    "probabilities": {
+      "SUPPORTED": 0.1452,
+      "REFUTED": 0.6728,
+      "UNVERIFIABLE": 0.1821
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002610",
+    "claim_text": "Did Land Surface Temperatures Reach 140 Degrees F in India, Pakistan?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.8951,
+    "probabilities": {
+      "SUPPORTED": 0.0781,
+      "REFUTED": 0.8951,
+      "UNVERIFIABLE": 0.0268
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002630",
+    "claim_text": "Parkland Memorial Hospital and undocumented migrants.",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.7827,
+    "probabilities": {
+      "SUPPORTED": 0.1908,
+      "REFUTED": 0.7827,
+      "UNVERIFIABLE": 0.0264
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002658",
+    "claim_text": "Is the 'Pfizer Treatment Survey' Email a Scam or Legit?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.5879,
+    "probabilities": {
+      "SUPPORTED": 0.3813,
+      "REFUTED": 0.5879,
+      "UNVERIFIABLE": 0.0309
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002660",
+    "claim_text": "China account(s) for 90 percent of North Korean trade.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9494,
+    "probabilities": {
+      "SUPPORTED": 0.9494,
+      "REFUTED": 0.045,
+      "UNVERIFIABLE": 0.0056
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002662",
+    "claim_text": "Insect Spy Drone",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.548,
+    "probabilities": {
+      "SUPPORTED": 0.0805,
+      "REFUTED": 0.548,
+      "UNVERIFIABLE": 0.3715
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002666",
+    "claim_text": "Did Trump Tweet That If 'Dow Joans' Tanked, the President Should Be Shot Out of a Cannon?",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.6031,
+    "probabilities": {
+      "SUPPORTED": 0.6031,
+      "REFUTED": 0.3211,
+      "UNVERIFIABLE": 0.0758
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002685",
+    "claim_text": "Did US Unemployment Reach Record Low Due to Trump?",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.6172,
+    "probabilities": {
+      "SUPPORTED": 0.6172,
+      "REFUTED": 0.013,
+      "UNVERIFIABLE": 0.3698
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002688",
+    "claim_text": "Have Sixty Holistic Doctors Died Suspicious Deaths In the Past Year?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.8658,
+    "probabilities": {
+      "SUPPORTED": 0.0485,
+      "REFUTED": 0.8658,
+      "UNVERIFIABLE": 0.0856
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002718",
+    "claim_text": "Does This Photograph Show a Dog Burned While Rescuing Its Family?",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.7251,
+    "probabilities": {
+      "SUPPORTED": 0.7251,
+      "REFUTED": 0.2724,
+      "UNVERIFIABLE": 0.0025
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002737",
+    "claim_text": "Was Charles Lieber Arrested for Selling the COVID-19 Coronavirus to China?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.698,
+    "probabilities": {
+      "SUPPORTED": 0.0671,
+      "REFUTED": 0.698,
+      "UNVERIFIABLE": 0.2348
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002750",
+    "claim_text": "Did the Same Person 'Die Twice' from COVID-19?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9981,
+    "probabilities": {
+      "SUPPORTED": 0.0011,
+      "REFUTED": 0.9981,
+      "UNVERIFIABLE": 0.0008
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002769",
+    "claim_text": "Did Robin Williams Say 'Politicians Should Wear Sponsor Jackets Like NASCAR Drivers'?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.578,
+    "probabilities": {
+      "SUPPORTED": 0.3006,
+      "REFUTED": 0.578,
+      "UNVERIFIABLE": 0.1214
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002775",
+    "claim_text": "One year ago, (Republicans) would not fill seats vacated for people who went to the administration because of the cost of those elections. Now, theyre talking about changing the rules to add additional elections that will cost millions of dollars of taxpayer expense.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9465,
+    "probabilities": {
+      "SUPPORTED": 0.9465,
+      "REFUTED": 0.005,
+      "UNVERIFIABLE": 0.0485
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002781",
+    "claim_text": "Facebook to Ban 'Amen Posts'",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.883,
+    "probabilities": {
+      "SUPPORTED": 0.0243,
+      "REFUTED": 0.0927,
+      "UNVERIFIABLE": 0.883
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002784",
+    "claim_text": "WV families making less than $400K & small businesses will NOT be targeted by the IRS.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.5657,
+    "probabilities": {
+      "SUPPORTED": 0.36,
+      "REFUTED": 0.5657,
+      "UNVERIFIABLE": 0.0744
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002824",
+    "claim_text": "Speaking of the financial crisis that gained traction in 2007, I talked about it to anyone who would listen, a crisis is coming.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.5819,
+    "probabilities": {
+      "SUPPORTED": 0.5819,
+      "REFUTED": 0.0434,
+      "UNVERIFIABLE": 0.3747
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002835",
+    "claim_text": "Should You Avoid Getting a Flu Shot?",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.5046,
+    "probabilities": {
+      "SUPPORTED": 0.5046,
+      "REFUTED": 0.1258,
+      "UNVERIFIABLE": 0.3696
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002848",
+    "claim_text": "Groom's wedding attire",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9322,
+    "probabilities": {
+      "SUPPORTED": 0.9322,
+      "REFUTED": 0.0644,
+      "UNVERIFIABLE": 0.0034
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002851",
+    "claim_text": "The Hunger Site",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.5515,
+    "probabilities": {
+      "SUPPORTED": 0.0885,
+      "REFUTED": 0.36,
+      "UNVERIFIABLE": 0.5515
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002856",
+    "claim_text": "President Joe Bidens infrastructure proposal is fully paid for. Across 15 years, it would raise all of the revenue needed for these once-in-a-lifetime investments.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9757,
+    "probabilities": {
+      "SUPPORTED": 0.9757,
+      "REFUTED": 0.0179,
+      "UNVERIFIABLE": 0.0064
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002872",
+    "claim_text": "Is Kosher Food Certification a 'Jewish Scam'?",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.6408,
+    "probabilities": {
+      "SUPPORTED": 0.022,
+      "REFUTED": 0.3372,
+      "UNVERIFIABLE": 0.6408
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002875",
+    "claim_text": "Is State Farm Denying Insurance to Gun Owners?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.667,
+    "probabilities": {
+      "SUPPORTED": 0.1456,
+      "REFUTED": 0.667,
+      "UNVERIFIABLE": 0.1874
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002876",
+    "claim_text": "Did Al Gore Predict Earth's Ice Caps Would Melt by 2014?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.6665,
+    "probabilities": {
+      "SUPPORTED": 0.0858,
+      "REFUTED": 0.6665,
+      "UNVERIFIABLE": 0.2476
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002897",
+    "claim_text": "Did Abraham Lincoln Express Opposition to Racial Equality?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.5272,
+    "probabilities": {
+      "SUPPORTED": 0.3869,
+      "REFUTED": 0.5272,
+      "UNVERIFIABLE": 0.0859
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002907",
+    "claim_text": "IRS Notification: Federal Tax Return/Payment Rejection or Refund Notice",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.3628,
+    "probabilities": {
+      "SUPPORTED": 0.3628,
+      "REFUTED": 0.2792,
+      "UNVERIFIABLE": 0.358
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002909",
+    "claim_text": "Strip in U.S. Banknote",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.6927,
+    "probabilities": {
+      "SUPPORTED": 0.6927,
+      "REFUTED": 0.2827,
+      "UNVERIFIABLE": 0.0246
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002910",
+    "claim_text": "Strip on U.S. currency",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.5172,
+    "probabilities": {
+      "SUPPORTED": 0.4535,
+      "REFUTED": 0.5172,
+      "UNVERIFIABLE": 0.0293
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002921",
+    "claim_text": "Was This Man Mugged While Delivering Comic Books to His Sick Daughter?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.7974,
+    "probabilities": {
+      "SUPPORTED": 0.067,
+      "REFUTED": 0.7974,
+      "UNVERIFIABLE": 0.1356
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002923",
+    "claim_text": "Was Prince Integral in the Development of Air Jordan Sneakers?",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.8229,
+    "probabilities": {
+      "SUPPORTED": 0.0074,
+      "REFUTED": 0.1697,
+      "UNVERIFIABLE": 0.8229
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002936",
+    "claim_text": "Arizona Billboard",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.7357,
+    "probabilities": {
+      "SUPPORTED": 0.237,
+      "REFUTED": 0.7357,
+      "UNVERIFIABLE": 0.0273
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002938",
+    "claim_text": "Was a Dog Elected Mayor of Rabbit Hash, Kentucky?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.5257,
+    "probabilities": {
+      "SUPPORTED": 0.257,
+      "REFUTED": 0.5257,
+      "UNVERIFIABLE": 0.2173
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002951",
+    "claim_text": "Christopher Reeve Birthday Greeting",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.5785,
+    "probabilities": {
+      "SUPPORTED": 0.3549,
+      "REFUTED": 0.5785,
+      "UNVERIFIABLE": 0.0666
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002964",
+    "claim_text": "Says Scott Walker enacted the biggest cuts to education in our states history.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9811,
+    "probabilities": {
+      "SUPPORTED": 0.9811,
+      "REFUTED": 0.0056,
+      "UNVERIFIABLE": 0.0133
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002967",
+    "claim_text": "Is Trump Planning an Alternate Inauguration Ceremony in Florida?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.8626,
+    "probabilities": {
+      "SUPPORTED": 0.0983,
+      "REFUTED": 0.8626,
+      "UNVERIFIABLE": 0.039
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_002979",
+    "claim_text": "What If Only Taxpayers Voted?",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9103,
+    "probabilities": {
+      "SUPPORTED": 0.9103,
+      "REFUTED": 0.089,
+      "UNVERIFIABLE": 0.0007
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_002998",
+    "claim_text": "NASA's 'Astronaut Pen'",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.4883,
+    "probabilities": {
+      "SUPPORTED": 0.1247,
+      "REFUTED": 0.4883,
+      "UNVERIFIABLE": 0.387
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_003020",
+    "claim_text": "Rhode Island has the highest percentage of uninsured adults of any state in New England.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9393,
+    "probabilities": {
+      "SUPPORTED": 0.9393,
+      "REFUTED": 0.0578,
+      "UNVERIFIABLE": 0.0029
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_003024",
+    "claim_text": "Raising the national minimum wage to $15 per hour would destroy up to 3.7 million jobs.",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.8337,
+    "probabilities": {
+      "SUPPORTED": 0.8337,
+      "REFUTED": 0.1611,
+      "UNVERIFIABLE": 0.0052
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_003045",
+    "claim_text": "Under Ted Cruzs tax plan, businesses will now have to pay 16 percent on the money they make. They will also have to pay 16 percent on the money they pay their employees.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9966,
+    "probabilities": {
+      "SUPPORTED": 0.9966,
+      "REFUTED": 0.0031,
+      "UNVERIFIABLE": 0.0003
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_003052",
+    "claim_text": "The Marlboro Man Died of Lung Cancer?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9193,
+    "probabilities": {
+      "SUPPORTED": 0.0801,
+      "REFUTED": 0.9193,
+      "UNVERIFIABLE": 0.0006
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_003055",
+    "claim_text": "What the 'Choosing Your COVID-19 Vaccine' Meme Gets Wrong",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.4511,
+    "probabilities": {
+      "SUPPORTED": 0.2972,
+      "REFUTED": 0.2516,
+      "UNVERIFIABLE": 0.4511
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_003077",
+    "claim_text": "Is This a Prescription Written for Elvis One Day Before He Died?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9409,
+    "probabilities": {
+      "SUPPORTED": 0.0119,
+      "REFUTED": 0.9409,
+      "UNVERIFIABLE": 0.0472
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_003115",
+    "claim_text": "Ted Cruz Erupts in Hooters After Expense-Account Master Card Refused",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.721,
+    "probabilities": {
+      "SUPPORTED": 0.0905,
+      "REFUTED": 0.721,
+      "UNVERIFIABLE": 0.1885
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_003140",
+    "claim_text": "Did Every Single School Marching Band in DC Just Boycott Trump's Inauguration?",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.7158,
+    "probabilities": {
+      "SUPPORTED": 0.2625,
+      "REFUTED": 0.0218,
+      "UNVERIFIABLE": 0.7158
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_003141",
+    "claim_text": "Faces in the Cloud",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9575,
+    "probabilities": {
+      "SUPPORTED": 0.9575,
+      "REFUTED": 0.0375,
+      "UNVERIFIABLE": 0.005
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_003145",
+    "claim_text": "The national economy was strong in its largest expansion of private sector jobs before President Trump came into office.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9368,
+    "probabilities": {
+      "SUPPORTED": 0.9368,
+      "REFUTED": 0.0031,
+      "UNVERIFIABLE": 0.0601
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_003150",
+    "claim_text": "No, Domino's is not providing complimentary digital vouchers for two large pizzas.",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.8823,
+    "probabilities": {
+      "SUPPORTED": 0.0131,
+      "REFUTED": 0.8823,
+      "UNVERIFIABLE": 0.1046
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_003152",
+    "claim_text": "We created a flat tax in the state of Utah.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9531,
+    "probabilities": {
+      "SUPPORTED": 0.9531,
+      "REFUTED": 0.0453,
+      "UNVERIFIABLE": 0.0016
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_003154",
+    "claim_text": "CDC Vaccination Profile",
+    "gold_label": "REFUTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9857,
+    "probabilities": {
+      "SUPPORTED": 0.9857,
+      "REFUTED": 0.0119,
+      "UNVERIFIABLE": 0.0024
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_003160",
+    "claim_text": "Does 'Forrest Gump' Plot Include These Inconsistencies?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9533,
+    "probabilities": {
+      "SUPPORTED": 0.9533,
+      "REFUTED": 0.0057,
+      "UNVERIFIABLE": 0.0409
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_003172",
+    "claim_text": "Half of all Americans have less than $10,000 in their savings account.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.621,
+    "probabilities": {
+      "SUPPORTED": 0.621,
+      "REFUTED": 0.3496,
+      "UNVERIFIABLE": 0.0294
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_003176",
+    "claim_text": "Endorsement Enforcement",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.5466,
+    "probabilities": {
+      "SUPPORTED": 0.3917,
+      "REFUTED": 0.0617,
+      "UNVERIFIABLE": 0.5466
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_003185",
+    "claim_text": "Says more than $3.5 billion in state revenue that is supposed to be dedicated to basic needs and functions is being diverted to make the books look balanced.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9766,
+    "probabilities": {
+      "SUPPORTED": 0.9766,
+      "REFUTED": 0.0231,
+      "UNVERIFIABLE": 0.0003
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_003194",
+    "claim_text": "Starving Child and Vulture",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.8028,
+    "probabilities": {
+      "SUPPORTED": 0.1821,
+      "REFUTED": 0.8028,
+      "UNVERIFIABLE": 0.0152
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_003198",
+    "claim_text": "Did Donald Trump Receive an Ellis Island Award in 1986?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.6185,
+    "probabilities": {
+      "SUPPORTED": 0.6185,
+      "REFUTED": 0.3316,
+      "UNVERIFIABLE": 0.05
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_003215",
+    "claim_text": "Canadian middle class incomes are now higher than in the United States. They are working fewer hours for more pay,  living longer on average, and facing less income inequality.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.5751,
+    "probabilities": {
+      "SUPPORTED": 0.4133,
+      "REFUTED": 0.0115,
+      "UNVERIFIABLE": 0.5751
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_003227",
+    "claim_text": "Is the Kennedy Center Changing to the Obama Center?",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.9255,
+    "probabilities": {
+      "SUPPORTED": 0.0267,
+      "REFUTED": 0.0478,
+      "UNVERIFIABLE": 0.9255
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_003230",
+    "claim_text": "Says the proposed fiscal year 2013 budget is still below the level of state spending when I took office.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9978,
+    "probabilities": {
+      "SUPPORTED": 0.9978,
+      "REFUTED": 0.0021,
+      "UNVERIFIABLE": 0.0001
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_003238",
+    "claim_text": "Every American now is $51,000 in debt. Thats money I owe, thats money my children owe before they even go to kindergarten, thats their check to the federal government right now.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.8093,
+    "probabilities": {
+      "SUPPORTED": 0.8093,
+      "REFUTED": 0.1729,
+      "UNVERIFIABLE": 0.0179
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_003239",
+    "claim_text": "Is This Greenland Shark Nearly 400 Years Old?",
+    "gold_label": "UNVERIFIABLE",
+    "predicted_label": "REFUTED",
+    "confidence": 0.9833,
+    "probabilities": {
+      "SUPPORTED": 0.0024,
+      "REFUTED": 0.9833,
+      "UNVERIFIABLE": 0.0143
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_003246",
+    "claim_text": "About 2 percent of Americans get paid the minimum wage.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9807,
+    "probabilities": {
+      "SUPPORTED": 0.9807,
+      "REFUTED": 0.0151,
+      "UNVERIFIABLE": 0.0042
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_003254",
+    "claim_text": "Did Barack and Michelle Obama Lose Their Law Licenses?",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.4924,
+    "probabilities": {
+      "SUPPORTED": 0.0164,
+      "REFUTED": 0.4911,
+      "UNVERIFIABLE": 0.4924
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_003255",
+    "claim_text": "Did Trump Decry Low-Flow Showers and Dishwashers During a Pandemic?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.4578,
+    "probabilities": {
+      "SUPPORTED": 0.3957,
+      "REFUTED": 0.4578,
+      "UNVERIFIABLE": 0.1465
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_003260",
+    "claim_text": "Is Five Guys Closing Down All Restaurant Locations in 2024, as Announced in 2023?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.7706,
+    "probabilities": {
+      "SUPPORTED": 0.1536,
+      "REFUTED": 0.7706,
+      "UNVERIFIABLE": 0.0759
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_003262",
+    "claim_text": "As we've seen that federal support for states diminish, you've seen the biggest job losses in the public sector -- teachers, police officers, firefighters losing their jobs.",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "SUPPORTED",
+    "confidence": 0.9681,
+    "probabilities": {
+      "SUPPORTED": 0.9681,
+      "REFUTED": 0.001,
+      "UNVERIFIABLE": 0.0309
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_003274",
+    "claim_text": "Was a UFO Found at the Bottom of the Baltic Sea?",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.5598,
+    "probabilities": {
+      "SUPPORTED": 0.0755,
+      "REFUTED": 0.3647,
+      "UNVERIFIABLE": 0.5598
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_003283",
+    "claim_text": "Do Tulsa Trump Rally Attendees Have To Sign COVID-19 Waiver?",
+    "gold_label": "SUPPORTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.6548,
+    "probabilities": {
+      "SUPPORTED": 0.0343,
+      "REFUTED": 0.6548,
+      "UNVERIFIABLE": 0.3109
+    },
+    "is_correct": false
+  },
+  {
+    "claim_id": "finfact_003317",
+    "claim_text": "Did Pelosi Use $15,000 Worth of Pens to Sign Articles of Impeachment?",
+    "gold_label": "REFUTED",
+    "predicted_label": "REFUTED",
+    "confidence": 0.412,
+    "probabilities": {
+      "SUPPORTED": 0.2087,
+      "REFUTED": 0.412,
+      "UNVERIFIABLE": 0.3793
+    },
+    "is_correct": true
+  },
+  {
+    "claim_id": "finfact_003324",
+    "claim_text": "Were the M-16 Rifles Used During the Vietnam War Made by Mattel?",
+    "gold_label": "REFUTED",
+    "predicted_label": "UNVERIFIABLE",
+    "confidence": 0.883,
+    "probabilities": {
+      "SUPPORTED": 0.0099,
+      "REFUTED": 0.1071,
+      "UNVERIFIABLE": 0.883
+    },
+    "is_correct": false
+  }
+]

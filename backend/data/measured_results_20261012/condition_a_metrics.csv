@@ -1,0 +1,2 @@
+condition,model,sample_size,accuracy,macro_precision,macro_recall,macro_f1
+A,qwen2.5:3b,300,0.19,0.3116,0.3409,0.1186

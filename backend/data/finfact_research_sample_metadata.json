@@ -1,0 +1,18 @@
+{
+  "dataset": "Fin-Fact",
+  "source_records": 3369,
+  "sample_size": 300,
+  "random_seed": 42,
+  "sampling_method": "stratified_random_sampling",
+  "target_distribution": {
+    "false": 133,
+    "true": 113,
+    "NEI": 54
+  },
+  "actual_distribution": {
+    "true": 113,
+    "false": 133,
+    "NEI": 54
+  },
+  "official_split_available": false
+}

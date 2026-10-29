@@ -1,0 +1,17 @@
+{
+  "experiment_name": "evidence_grounded_vs_internal_knowledge",
+  "condition": "A_INTERNAL_KNOWLEDGE",
+  "model": "gemini-3.6-flash",
+  "timestamp": "2026-09-12T06:04:20.050560+00:00",
+  "dataset": "finfact.json",
+  "number_of_claims": 3,
+  "claim_ids": [
+    "finfact_002715",
+    "finfact_000542",
+    "finfact_003326"
+  ],
+  "successful_predictions": 0,
+  "errors": 3,
+  "sanitized_429_diagnostic": "HTTP 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\nPlease retry in 58.312225726s.",
+  "leakage_check": "passed"
+}

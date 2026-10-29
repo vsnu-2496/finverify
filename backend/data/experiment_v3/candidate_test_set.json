@@ -1,0 +1,146 @@
+{
+  "description": "Deterministic candidate test set for Phase 2 external evidence retrieval, temporal gating, and relevance validation",
+  "created_at": "2026-10-19T23:22:00Z",
+  "updated_at": "2026-10-20T11:15:00Z",
+  "source_dataset": "Fin-Fact benchmark (finfact.json)",
+  "test_cases": [
+    {
+      "test_id": "case_1_positive_snopes_tweet",
+      "category": "positive_relevance",
+      "provenance_type": "authentic_benchmark",
+      "provenance_note": "Verbatim sentence copied from local Fin-Fact benchmark (finfact.json, row 2665, evidence[0]).",
+      "claim_id": "finfact_002666",
+      "claim_text": "Did Trump Tweet That If 'Dow Joans' Tanked, the President Should Be Shot Out of a Cannon?",
+      "claim_date": "2018-02-05",
+      "gold_label": "REFUTED",
+      "evidence_item": {
+        "item_id": "finfact_002666_ev_1",
+        "source_name": "Snopes Fact Check",
+        "original_url": "https://www.snopes.com/fact-check/trump-dow-jones-tweet/",
+        "publication_date": "2018-02-05",
+        "retrieved_text": "On 5 February 2018, Shaun Usher, the owner of the blog \"Letters of Note\" posted an image on Twitter that purported to show Donald Trump opining that any president presiding over the United States during a stock market crash of more than 1,000 points should be \"shot out of a cannon.\"",
+        "retrieval_method": "benchmark_archive"
+      },
+      "expected_temporal_prospective": true,
+      "expected_temporal_retrospective": true,
+      "expected_is_post_claim": false,
+      "expected_relevance": true,
+      "expected_relevance_reason": "proposition_and_predicate_anchors_matched"
+    },
+    {
+      "test_id": "case_2_positive_politifact_ford",
+      "category": "positive_relevance",
+      "provenance_type": "authentic_benchmark",
+      "provenance_note": "Verbatim sentence copied from local Fin-Fact benchmark (finfact.json, row 785, evidence[1]).",
+      "claim_id": "finfact_000786",
+      "claim_text": "Ford is moving all of their small-car production to Mexico.",
+      "claim_date": "2016-10-23",
+      "gold_label": "SUPPORTED",
+      "evidence_item": {
+        "item_id": "finfact_000786_ev_2",
+        "source_name": "PolitiFact",
+        "original_url": "http://www.cnbc.com/2016/09/15/ford-to-move-all-small-car-production-to-mexico-from-us-ceo.html",
+        "publication_date": "2016-10-23",
+        "retrieved_text": "On Sept. 14, 2016, Ford CEO Mark Fields announced at an event with Wall Street analysts that we will have migrated all of our small car production to Mexico from US plants.",
+        "retrieval_method": "benchmark_archive"
+      },
+      "expected_temporal_prospective": true,
+      "expected_temporal_retrospective": true,
+      "expected_is_post_claim": false,
+      "expected_relevance": true,
+      "expected_relevance_reason": "proposition_and_predicate_anchors_matched"
+    },
+    {
+      "test_id": "case_3_irrelevant_entity_matching_costco",
+      "category": "irrelevant_but_entity_matching",
+      "provenance_type": "authentic_sec_edgar",
+      "provenance_note": "Authentic SEC EDGAR Form 8-K filing excerpt used as an entity-matching negative control.",
+      "claim_id": "finfact_000462",
+      "claim_text": "Are Costco shutting down stores throughout the country?",
+      "claim_date": "2021-02-10",
+      "gold_label": "REFUTED",
+      "evidence_item": {
+        "item_id": "finfact_000462_sec_1",
+        "source_name": "SEC EDGAR Form 8-K",
+        "original_url": "https://www.sec.gov/Archives/edgar/data/909832/000119312521017361/d115093d8k.htm",
+        "publication_date": "2021-01-21",
+        "retrieved_text": "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers. Costco Wholesale Corporation announces changes in leadership.",
+        "retrieval_method": "sec_filing"
+      },
+      "expected_temporal_prospective": true,
+      "expected_temporal_retrospective": true,
+      "expected_is_post_claim": false,
+      "expected_relevance": false,
+      "expected_relevance_reason": "routine_filing_irrelevant_to_consumer_rumor"
+    },
+    {
+      "test_id": "case_4_irrelevant_boilerplate_snopes",
+      "category": "irrelevant_boilerplate",
+      "provenance_type": "authentic_benchmark",
+      "provenance_note": "Verbatim notice copied from local Fin-Fact benchmark (finfact.json, row 120, evidence[0]), testing boilerplate rejection.",
+      "claim_id": "finfact_000121",
+      "claim_text": "Is COVID-19 Being Spread Through Gas Pumps?",
+      "claim_date": "2020-03-22",
+      "gold_label": "UNVERIFIABLE",
+      "evidence_item": {
+        "item_id": "finfact_000121_ev_1",
+        "source_name": "Snopes Fact Check",
+        "original_url": "https://www.snopes.com/contact/",
+        "publication_date": "2020-03-22",
+        "retrieved_text": "Snopes is still fighting an infodemic of rumors and misinformation surrounding the COVID-19 pandemic, and you can help. Become a Founding Member to help us hire more fact-checkers.",
+        "retrieval_method": "benchmark_archive"
+      },
+      "expected_temporal_prospective": true,
+      "expected_temporal_retrospective": true,
+      "expected_is_post_claim": false,
+      "expected_relevance": false,
+      "expected_relevance_reason": "rejected_boilerplate"
+    },
+    {
+      "test_id": "case_5_missing_date",
+      "category": "missing_date",
+      "provenance_type": "synthetic_test_fixture",
+      "provenance_note": "Synthetic test fixture created strictly to exercise missing-date branching logic. Not observed retrieval or research evidence.",
+      "claim_id": "finfact_000087",
+      "claim_text": "If given the opportunity, would you have put your money into it?",
+      "claim_date": "2006-06-17",
+      "gold_label": "SUPPORTED",
+      "evidence_item": {
+        "item_id": "finfact_000087_ev_undated",
+        "source_name": "Undated Web Forum",
+        "original_url": "https://example.com/undated-thread",
+        "publication_date": null,
+        "retrieved_text": "Discussion on investment opportunities in early social media startups.",
+        "retrieval_method": "web_archive"
+      },
+      "expected_temporal_prospective": false,
+      "expected_temporal_retrospective": false,
+      "expected_temporal_reason": "missing_date",
+      "expected_is_post_claim": false,
+      "expected_relevance": false
+    },
+    {
+      "test_id": "case_6_post_claim_retrospective_allowed",
+      "category": "post_claim_evidence",
+      "provenance_type": "synthetic_test_fixture",
+      "provenance_note": "Synthetic test fixture created strictly to exercise post-claim retrospective branching logic. Not observed retrieval or research evidence.",
+      "claim_id": "finfact_002666",
+      "claim_text": "Did Trump Tweet That If 'Dow Joans' Tanked, the President Should Be Shot Out of a Cannon?",
+      "claim_date": "2018-02-05",
+      "gold_label": "REFUTED",
+      "evidence_item": {
+        "item_id": "finfact_002666_ev_post",
+        "source_name": "Snopes One-Year Retrospective",
+        "original_url": "https://www.snopes.com/news/2021/03/11/one-year-retrospective/",
+        "publication_date": "2021-03-11",
+        "retrieved_text": "In a 2021 review of the 2018 viral cannon tweet hoax regarding Donald Trump and the Dow Jones, digital archives verified that no such tweet was ever posted.",
+        "retrieval_method": "benchmark_archive"
+      },
+      "expected_temporal_prospective": false,
+      "expected_temporal_retrospective": true,
+      "expected_temporal_prospective_reason": "post_claim_evidence_rejected_in_prospective",
+      "expected_is_post_claim": true,
+      "expected_relevance": true
+    }
+  ]
+}
